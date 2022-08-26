@@ -17196,6 +17196,7 @@
     },
     {
         "id": "F386A",
+        "id_species": 386,
         "stat": {
             "hp": 50,
             "attack": 180,
@@ -17215,6 +17216,7 @@
     },
     {
         "id": "F386B",
+        "id_species": 386,
         "stat": {
             "hp": 50,
             "attack": 70,
@@ -17234,6 +17236,7 @@
     },
     {
         "id": "F386C",
+        "id_species": 386,
         "stat": {
             "hp": 50,
             "attack": 95,
@@ -17253,6 +17256,7 @@
     },
     {
         "id": "F413A",
+        "id_species": 413,
         "stat": {
             "hp": 60,
             "attack": 79,
@@ -17272,6 +17276,7 @@
     },
     {
         "id": "F413B",
+        "id_species": 413,
         "stat": {
             "hp": 60,
             "attack": 69,
@@ -17291,6 +17296,7 @@
     },
     {
         "id": "F492",
+        "id_species": 492,
         "stat": {
             "hp": 100,
             "attack": 103,
@@ -17310,6 +17316,7 @@
     },
     {
         "id": "F487",
+        "id_species": 487,
         "stat": {
             "hp": 150,
             "attack": 120,
@@ -17329,6 +17336,7 @@
     },
     {
         "id": "F479A",
+        "id_species": 479,
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -17348,6 +17356,7 @@
     },
     {
         "id": "F479B",
+        "id_species": 479,
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -17367,6 +17376,7 @@
     },
     {
         "id": "F479C",
+        "id_species": 479,
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -17386,6 +17396,7 @@
     },
     {
         "id": "F479D",
+        "id_species": 479,
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -17405,6 +17416,7 @@
     },
     {
         "id": "F479E",
+        "id_species": 479,
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -17423,64 +17435,8 @@
         }
     },
     {
-        "id": "castform1",
-        "stat": {
-            "hp": 70,
-            "attack": 70,
-            "defense": 70,
-            "spa": 70,
-            "spd": 70,
-            "speed": 70
-        },
-        "ev": {
-            "hp": 1,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": "castform2",
-        "stat": {
-            "hp": 70,
-            "attack": 70,
-            "defense": 70,
-            "spa": 70,
-            "spd": 70,
-            "speed": 70
-        },
-        "ev": {
-            "hp": 1,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": "castform3",
-        "stat": {
-            "hp": 70,
-            "attack": 70,
-            "defense": 70,
-            "spa": 70,
-            "spd": 70,
-            "speed": 70
-        },
-        "ev": {
-            "hp": 1,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
         "id": "F550A",
+        "id_species": 550,
         "stat": {
             "hp": 70,
             "attack": 92,
@@ -17500,6 +17456,7 @@
     },
     {
         "id": "F555A",
+        "id_species": 555,
         "stat": {
             "hp": 105,
             "attack": 30,
@@ -17519,6 +17476,7 @@
     },
     {
         "id": "F648",
+        "id_species": 648,
         "stat": {
             "hp": 100,
             "attack": 128,
@@ -17538,6 +17496,7 @@
     },
     {
         "id": "F641",
+        "id_species": 641,
         "stat": {
             "hp": 79,
             "attack": 100,
@@ -17557,6 +17516,7 @@
     },
     {
         "id": "F642",
+        "id_species": 642,
         "stat": {
             "hp": 79,
             "attack": 105,
@@ -17576,6 +17536,7 @@
     },
     {
         "id": "F645",
+        "id_species": 645,
         "stat": {
             "hp": 89,
             "attack": 145,
@@ -17595,6 +17556,7 @@
     },
     {
         "id": "F646A",
+        "id_species": 646,
         "stat": {
             "hp": 125,
             "attack": 170,
@@ -17614,6 +17576,7 @@
     },
     {
         "id": "F646B",
+        "id_species": 646,
         "stat": {
             "hp": 125,
             "attack": 120,
@@ -17633,6 +17596,7 @@
     },
     {
         "id": "F647",
+        "id_species": 647,
         "stat": {
             "hp": 91,
             "attack": 72,
@@ -17652,6 +17616,7 @@
     },
     {
         "id": "F678",
+        "id_species": 678,
         "stat": {
             "hp": 74,
             "attack": 48,
@@ -17671,6 +17636,7 @@
     },
     {
         "id": "F681",
+        "id_species": 681,
         "stat": {
             "hp": 60,
             "attack": 140,
@@ -17690,6 +17656,7 @@
     },
     {
         "id": "pumpkaboo1",
+        "id_species": "pumpkaboo1",
         "stat": {
             "hp": 44,
             "attack": 66,
@@ -17709,6 +17676,7 @@
     },
     {
         "id": "pumpkaboo2",
+        "id_species": "pumpkaboo2",
         "stat": {
             "hp": 54,
             "attack": 66,
@@ -17728,6 +17696,7 @@
     },
     {
         "id": "pumpkaboo3",
+        "id_species": "pumpkaboo3",
         "stat": {
             "hp": 59,
             "attack": 66,
@@ -17747,6 +17716,7 @@
     },
     {
         "id": "gourgeist1",
+        "id_species": "gourgeist1",
         "stat": {
             "hp": 55,
             "attack": 85,
@@ -17766,6 +17736,7 @@
     },
     {
         "id": "gourgeist2",
+        "id_species": "gourgeist2",
         "stat": {
             "hp": 75,
             "attack": 95,
@@ -17785,6 +17756,7 @@
     },
     {
         "id": "gourgeist3",
+        "id_species": "gourgeist3",
         "stat": {
             "hp": 85,
             "attack": 100,
@@ -17804,6 +17776,7 @@
     },
     {
         "id": "F3",
+        "id_species": 3,
         "stat": {
             "hp": 80,
             "attack": 100,
@@ -17823,6 +17796,7 @@
     },
     {
         "id": "F6",
+        "id_species": 6,
         "stat": {
             "hp": 78,
             "attack": 130,
@@ -17842,6 +17816,7 @@
     },
     {
         "id": "F6",
+        "id_species": 6,
         "stat": {
             "hp": 78,
             "attack": 104,
@@ -17861,6 +17836,7 @@
     },
     {
         "id": "F9",
+        "id_species": 9,
         "stat": {
             "hp": 79,
             "attack": 103,
@@ -17880,6 +17856,7 @@
     },
     {
         "id": "F65",
+        "id_species": 65,
         "stat": {
             "hp": 55,
             "attack": 50,
@@ -17899,6 +17876,7 @@
     },
     {
         "id": "F94",
+        "id_species": 94,
         "stat": {
             "hp": 60,
             "attack": 65,
@@ -17918,6 +17896,7 @@
     },
     {
         "id": "F115",
+        "id_species": 115,
         "stat": {
             "hp": 105,
             "attack": 125,
@@ -17937,6 +17916,7 @@
     },
     {
         "id": "F127",
+        "id_species": 127,
         "stat": {
             "hp": 65,
             "attack": 155,
@@ -17956,6 +17936,7 @@
     },
     {
         "id": "F130",
+        "id_species": 130,
         "stat": {
             "hp": 95,
             "attack": 155,
@@ -17975,6 +17956,7 @@
     },
     {
         "id": "F142",
+        "id_species": 142,
         "stat": {
             "hp": 80,
             "attack": 135,
@@ -17993,7 +17975,8 @@
         }
     },
     {
-        "id": "F-x150",
+        "id": "F150A",
+        "id_species": 150,
         "stat": {
             "hp": 106,
             "attack": 190,
@@ -18012,7 +17995,8 @@
         }
     },
     {
-        "id": "F-y150",
+        "id": "F150B",
+        "id_species": 150,
         "stat": {
             "hp": 106,
             "attack": 150,
@@ -18032,6 +18016,7 @@
     },
     {
         "id": "F181",
+        "id_species": 181,
         "stat": {
             "hp": 90,
             "attack": 95,
@@ -18051,6 +18036,7 @@
     },
     {
         "id": "F212",
+        "id_species": 212,
         "stat": {
             "hp": 70,
             "attack": 150,
@@ -18070,6 +18056,7 @@
     },
     {
         "id": "F214",
+        "id_species": 214,
         "stat": {
             "hp": 80,
             "attack": 185,
@@ -18089,6 +18076,7 @@
     },
     {
         "id": "F229",
+        "id_species": 229,
         "stat": {
             "hp": 75,
             "attack": 90,
@@ -18108,6 +18096,7 @@
     },
     {
         "id": "F248",
+        "id_species": 248,
         "stat": {
             "hp": 100,
             "attack": 164,
@@ -18127,6 +18116,7 @@
     },
     {
         "id": "F257",
+        "id_species": 257,
         "stat": {
             "hp": 80,
             "attack": 160,
@@ -18146,6 +18136,7 @@
     },
     {
         "id": "F282",
+        "id_species": 282,
         "stat": {
             "hp": 68,
             "attack": 85,
@@ -18165,6 +18156,7 @@
     },
     {
         "id": "F303",
+        "id_species": 303,
         "stat": {
             "hp": 50,
             "attack": 105,
@@ -18184,6 +18176,7 @@
     },
     {
         "id": "F306",
+        "id_species": 306,
         "stat": {
             "hp": 70,
             "attack": 140,
@@ -18203,6 +18196,7 @@
     },
     {
         "id": "F308",
+        "id_species": 308,
         "stat": {
             "hp": 60,
             "attack": 100,
@@ -18222,6 +18216,7 @@
     },
     {
         "id": "F310",
+        "id_species": 310,
         "stat": {
             "hp": 70,
             "attack": 75,
@@ -18241,6 +18236,7 @@
     },
     {
         "id": "F354",
+        "id_species": 354,
         "stat": {
             "hp": 64,
             "attack": 165,
@@ -18260,6 +18256,7 @@
     },
     {
         "id": "F359",
+        "id_species": 359,
         "stat": {
             "hp": 65,
             "attack": 150,
@@ -18279,6 +18276,7 @@
     },
     {
         "id": "F445",
+        "id_species": 445,
         "stat": {
             "hp": 108,
             "attack": 170,
@@ -18298,6 +18296,7 @@
     },
     {
         "id": "F448",
+        "id_species": 448,
         "stat": {
             "hp": 70,
             "attack": 145,
@@ -18317,6 +18316,7 @@
     },
     {
         "id": "F460",
+        "id_species": 460,
         "stat": {
             "hp": 90,
             "attack": 132,
@@ -18335,7 +18335,8 @@
         }
     },
     {
-        "id": "floette1",
+        "id": "F670",
+        "id_species": 670,
         "stat": {
             "hp": 74,
             "attack": 65,
@@ -18355,6 +18356,7 @@
     },
     {
         "id": "F380",
+        "id_species": 380,
         "stat": {
             "hp": 80,
             "attack": 100,
@@ -18374,6 +18376,7 @@
     },
     {
         "id": "F381",
+        "id_species": 381,
         "stat": {
             "hp": 80,
             "attack": 130,
@@ -18393,6 +18396,7 @@
     },
     {
         "id": "F260",
+        "id_species": 260,
         "stat": {
             "hp": 100,
             "attack": 150,
@@ -18412,6 +18416,7 @@
     },
     {
         "id": "F254",
+        "id_species": 254,
         "stat": {
             "hp": 70,
             "attack": 110,
@@ -18431,6 +18436,7 @@
     },
     {
         "id": "F302",
+        "id_species": 302,
         "stat": {
             "hp": 50,
             "attack": 85,
@@ -18450,6 +18456,7 @@
     },
     {
         "id": "F334",
+        "id_species": 334,
         "stat": {
             "hp": 75,
             "attack": 110,
@@ -18469,6 +18476,7 @@
     },
     {
         "id": "F475",
+        "id_species": 475,
         "stat": {
             "hp": 68,
             "attack": 165,
@@ -18488,6 +18496,7 @@
     },
     {
         "id": "F531",
+        "id_species": 531,
         "stat": {
             "hp": 103,
             "attack": 60,
@@ -18507,6 +18516,7 @@
     },
     {
         "id": "F319",
+        "id_species": 319,
         "stat": {
             "hp": 70,
             "attack": 140,
@@ -18526,6 +18536,7 @@
     },
     {
         "id": "F80",
+        "id_species": 80,
         "stat": {
             "hp": 95,
             "attack": 75,
@@ -18545,6 +18556,7 @@
     },
     {
         "id": "F208",
+        "id_species": 208,
         "stat": {
             "hp": 75,
             "attack": 125,
@@ -18564,6 +18576,7 @@
     },
     {
         "id": "F18",
+        "id_species": 18,
         "stat": {
             "hp": 83,
             "attack": 80,
@@ -18583,6 +18596,7 @@
     },
     {
         "id": "F362",
+        "id_species": 362,
         "stat": {
             "hp": 80,
             "attack": 120,
@@ -18602,6 +18616,7 @@
     },
     {
         "id": "F719",
+        "id_species": 719,
         "stat": {
             "hp": 50,
             "attack": 160,
@@ -18621,6 +18636,7 @@
     },
     {
         "id": "F376",
+        "id_species": 376,
         "stat": {
             "hp": 80,
             "attack": 145,
@@ -18640,6 +18656,7 @@
     },
     {
         "id": "F382",
+        "id_species": 382,
         "stat": {
             "hp": 100,
             "attack": 150,
@@ -18659,6 +18676,7 @@
     },
     {
         "id": "F383",
+        "id_species": 383,
         "stat": {
             "hp": 100,
             "attack": 180,
@@ -18678,6 +18696,7 @@
     },
     {
         "id": "F384",
+        "id_species": 384,
         "stat": {
             "hp": 105,
             "attack": 180,
@@ -18697,6 +18716,7 @@
     },
     {
         "id": "pikachu1",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18716,6 +18736,7 @@
     },
     {
         "id": "pikachu2",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18735,6 +18756,7 @@
     },
     {
         "id": "pikachu3",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18754,6 +18776,7 @@
     },
     {
         "id": "pikachu4",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18773,6 +18796,7 @@
     },
     {
         "id": "pikachu5",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18792,6 +18816,7 @@
     },
     {
         "id": "pikachu6",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18811,6 +18836,7 @@
     },
     {
         "id": "F720",
+        "id_species": 720,
         "stat": {
             "hp": 80,
             "attack": 160,
@@ -18830,6 +18856,7 @@
     },
     {
         "id": "F323",
+        "id_species": 323,
         "stat": {
             "hp": 70,
             "attack": 120,
@@ -18849,6 +18876,7 @@
     },
     {
         "id": "F428",
+        "id_species": 428,
         "stat": {
             "hp": 65,
             "attack": 136,
@@ -18868,6 +18896,7 @@
     },
     {
         "id": "F373",
+        "id_species": 373,
         "stat": {
             "hp": 95,
             "attack": 145,
@@ -18887,6 +18916,7 @@
     },
     {
         "id": "F15",
+        "id_species": 15,
         "stat": {
             "hp": 65,
             "attack": 150,
@@ -18906,6 +18936,7 @@
     },
     {
         "id": "F19",
+        "id_species": 19,
         "stat": {
             "hp": 30,
             "attack": 56,
@@ -18925,6 +18956,7 @@
     },
     {
         "id": "F20",
+        "id_species": 20,
         "stat": {
             "hp": 75,
             "attack": 71,
@@ -18944,6 +18976,7 @@
     },
     {
         "id": "totem20",
+        "id_species": 25,
         "stat": {
             "hp": 75,
             "attack": 71,
@@ -18963,6 +18996,7 @@
     },
     {
         "id": "pikachu-cap1",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18982,6 +19016,7 @@
     },
     {
         "id": "pikachu-cap2",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19001,6 +19036,7 @@
     },
     {
         "id": "pikachu-cap3",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19020,6 +19056,7 @@
     },
     {
         "id": "pikachu-cap4",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19039,6 +19076,7 @@
     },
     {
         "id": "pikachu-cap5",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19058,6 +19096,7 @@
     },
     {
         "id": "pikachu-cap6",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19077,6 +19116,7 @@
     },
     {
         "id": "F26",
+        "id_species": 26,
         "stat": {
             "hp": 60,
             "attack": 85,
@@ -19096,6 +19136,7 @@
     },
     {
         "id": "F27",
+        "id_species": 27,
         "stat": {
             "hp": 50,
             "attack": 75,
@@ -19115,6 +19156,7 @@
     },
     {
         "id": "F28",
+        "id_species": 28,
         "stat": {
             "hp": 75,
             "attack": 100,
@@ -19134,6 +19176,7 @@
     },
     {
         "id": "F37",
+        "id_species": 37,
         "stat": {
             "hp": 38,
             "attack": 41,
@@ -19153,6 +19196,7 @@
     },
     {
         "id": "F38",
+        "id_species": 38,
         "stat": {
             "hp": 73,
             "attack": 67,
@@ -19172,6 +19216,7 @@
     },
     {
         "id": "F50",
+        "id_species": 50,
         "stat": {
             "hp": 10,
             "attack": 55,
@@ -19191,6 +19236,7 @@
     },
     {
         "id": "F51",
+        "id_species": 51,
         "stat": {
             "hp": 35,
             "attack": 100,
@@ -19210,6 +19256,7 @@
     },
     {
         "id": "F52",
+        "id_species": 52,
         "stat": {
             "hp": 40,
             "attack": 35,
@@ -19229,6 +19276,7 @@
     },
     {
         "id": "F53",
+        "id_species": 53,
         "stat": {
             "hp": 65,
             "attack": 60,
@@ -19248,6 +19296,7 @@
     },
     {
         "id": "F74",
+        "id_species": 74,
         "stat": {
             "hp": 40,
             "attack": 80,
@@ -19267,6 +19316,7 @@
     },
     {
         "id": "F75",
+        "id_species": 75,
         "stat": {
             "hp": 55,
             "attack": 95,
@@ -19286,6 +19336,7 @@
     },
     {
         "id": "F76",
+        "id_species": 76,
         "stat": {
             "hp": 80,
             "attack": 120,
@@ -19305,6 +19356,7 @@
     },
     {
         "id": "F88",
+        "id_species": 88,
         "stat": {
             "hp": 80,
             "attack": 80,
@@ -19324,6 +19376,7 @@
     },
     {
         "id": "F89",
+        "id_species": 89,
         "stat": {
             "hp": 105,
             "attack": 105,
@@ -19343,6 +19396,7 @@
     },
     {
         "id": "F103",
+        "id_species": 103,
         "stat": {
             "hp": 95,
             "attack": 105,
@@ -19362,6 +19416,7 @@
     },
     {
         "id": "F105",
+        "id_species": 105,
         "stat": {
             "hp": 60,
             "attack": 80,
@@ -19381,6 +19436,7 @@
     },
     {
         "id": "greninja2",
+        "id_species": 658,
         "stat": {
             "hp": 72,
             "attack": 95,
@@ -19400,6 +19456,7 @@
     },
     {
         "id": "F658",
+        "id_species": 658,
         "stat": {
             "hp": 72,
             "attack": 145,
@@ -19419,6 +19476,7 @@
     },
     {
         "id": "F718A",
+        "id_species": 718,
         "stat": {
             "hp": 54,
             "attack": 100,
@@ -19438,6 +19496,7 @@
     },
     {
         "id": "F718B",
+        "id_species": 718,
         "stat": {
             "hp": 108,
             "attack": 100,
@@ -19457,6 +19516,7 @@
     },
     {
         "id": "F718C",
+        "id_species": 718,
         "stat": {
             "hp": 216,
             "attack": 100,
@@ -19476,6 +19536,7 @@
     },
     {
         "id": "totem735",
+        "id_species": 735,
         "stat": {
             "hp": 88,
             "attack": 110,
@@ -19495,6 +19556,7 @@
     },
     {
         "id": "totem738",
+        "id_species": 738,
         "stat": {
             "hp": 77,
             "attack": 70,
@@ -19514,6 +19576,7 @@
     },
     {
         "id": "F741A",
+        "id_species": 741,
         "stat": {
             "hp": 75,
             "attack": 70,
@@ -19533,6 +19596,7 @@
     },
     {
         "id": "F741B",
+        "id_species": 741,
         "stat": {
             "hp": 75,
             "attack": 70,
@@ -19552,6 +19616,7 @@
     },
     {
         "id": "F741C",
+        "id_species": 741,
         "stat": {
             "hp": 75,
             "attack": 70,
@@ -19571,6 +19636,7 @@
     },
     {
         "id": "F745A",
+        "id_species": 745,
         "stat": {
             "hp": 85,
             "attack": 115,
@@ -19590,6 +19656,7 @@
     },
     {
         "id": "F746",
+        "id_species": 746,
         "stat": {
             "hp": 45,
             "attack": 140,
@@ -19609,6 +19676,7 @@
     },
     {
         "id": "totem754",
+        "id_species": 754,
         "stat": {
             "hp": 70,
             "attack": 105,
@@ -19628,6 +19696,7 @@
     },
     {
         "id": "totem758",
+        "id_species": 758,
         "stat": {
             "hp": 68,
             "attack": 64,
@@ -19647,6 +19716,7 @@
     },
     {
         "id": "minior-orange MINIOR START",
+        "id_species": 774,
         "stat": {
             "hp": 60,
             "attack": 60,
@@ -19666,6 +19736,7 @@
     },
     {
         "id": "minior-yellow",
+        "id_species": 774,
         "stat": {
             "hp": 60,
             "attack": 60,
@@ -19875,6 +19946,7 @@
     },
     {
         "id": "10142 MINIOR END",
+        "id_species": 774,
         "stat": {
             "hp": 60,
             "attack": 100,
@@ -19894,6 +19966,7 @@
     },
     {
         "id": "mimikyu-busted",
+        "id_species": 778,
         "stat": {
             "hp": 55,
             "attack": 90,
@@ -19913,6 +19986,7 @@
     },
     {
         "id": "totem778",
+        "id_species": 778,
         "stat": {
             "hp": 55,
             "attack": 90,
@@ -19932,6 +20006,7 @@
     },
     {
         "id": "totem778-busted",
+        "id_species": 778,
         "stat": {
             "hp": 55,
             "attack": 90,
@@ -19951,6 +20026,7 @@
     },
     {
         "id": "totem784",
+        "id_species": 784,
         "stat": {
             "hp": 75,
             "attack": 110,
@@ -19970,6 +20046,7 @@
     },
     {
         "id": "magearna1",
+        "id_species": 801,
         "stat": {
             "hp": 80,
             "attack": 95,
@@ -19989,6 +20066,7 @@
     },
     {
         "id": "pikachu-cap7",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -20008,6 +20086,7 @@
     },
     {
         "id": "totem105",
+        "id_species": 105,
         "stat": {
             "hp": 60,
             "attack": 80,
@@ -20027,6 +20106,7 @@
     },
     {
         "id": "totem743",
+        "id_species": 743,
         "stat": {
             "hp": 60,
             "attack": 55,
@@ -20046,6 +20126,7 @@
     },
     {
         "id": "rockruff1",
+        "id_species": 744,
         "stat": {
             "hp": 45,
             "attack": 65,
@@ -20065,6 +20146,7 @@
     },
     {
         "id": "F745B",
+        "id_species": 745,
         "stat": {
             "hp": 75,
             "attack": 117,
@@ -20084,6 +20166,7 @@
     },
     {
         "id": "totem752",
+        "id_species": 752,
         "stat": {
             "hp": 68,
             "attack": 70,
@@ -20103,6 +20186,7 @@
     },
     {
         "id": "totem777",
+        "id_species": 777,
         "stat": {
             "hp": 65,
             "attack": 98,
@@ -20122,6 +20206,7 @@
     },
     {
         "id": "F800A",
+        "id_species": 800,
         "stat": {
             "hp": 97,
             "attack": 157,
@@ -20141,6 +20226,7 @@
     },
     {
         "id": "F800B",
+        "id_species": 800,
         "stat": {
             "hp": 97,
             "attack": 113,
@@ -20160,6 +20246,7 @@
     },
     {
         "id": "F800C",
+        "id_species": 800,
         "stat": {
             "hp": 97,
             "attack": 167,
@@ -20179,6 +20266,7 @@
     },
     {
         "id": "F25",
+        "id_species": 25,
         "stat": {
             "hp": 45,
             "attack": 80,
@@ -20198,6 +20286,7 @@
     },
     {
         "id": "F133",
+        "id_species": 133,
         "stat": {
             "hp": 65,
             "attack": 75,
@@ -20217,6 +20306,7 @@
     },
     {
         "id": "pikachu-cap8",
+        "id_species": 25,
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -20236,6 +20326,7 @@
     },
     {
         "id": "F52",
+        "id_species": 52,
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -20255,6 +20346,7 @@
     },
     {
         "id": "F77",
+        "id_species": 77,
         "stat": {
             "hp": 50,
             "attack": 85,
@@ -20274,6 +20366,7 @@
     },
     {
         "id": "F78",
+        "id_species": 78,
         "stat": {
             "hp": 65,
             "attack": 100,
@@ -20293,6 +20386,7 @@
     },
     {
         "id": "F79",
+        "id_species": 79,
         "stat": {
             "hp": 90,
             "attack": 65,
@@ -20312,6 +20406,7 @@
     },
     {
         "id": "F80",
+        "id_species": 80,
         "stat": {
             "hp": 95,
             "attack": 100,
@@ -20331,6 +20426,7 @@
     },
     {
         "id": "F83",
+        "id_species": 83,
         "stat": {
             "hp": 52,
             "attack": 95,
@@ -20350,6 +20446,7 @@
     },
     {
         "id": "F110",
+        "id_species": 110,
         "stat": {
             "hp": 65,
             "attack": 90,
@@ -20369,6 +20466,7 @@
     },
     {
         "id": "F122",
+        "id_species": 122,
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -20388,6 +20486,7 @@
     },
     {
         "id": "F144",
+        "id_species": 144,
         "stat": {
             "hp": 90,
             "attack": 85,
@@ -20407,6 +20506,7 @@
     },
     {
         "id": "F145",
+        "id_species": 145,
         "stat": {
             "hp": 90,
             "attack": 125,
@@ -20426,6 +20526,7 @@
     },
     {
         "id": "F146",
+        "id_species": 146,
         "stat": {
             "hp": 90,
             "attack": 85,
@@ -20445,6 +20546,7 @@
     },
     {
         "id": "F199",
+        "id_species": 199,
         "stat": {
             "hp": 95,
             "attack": 65,
@@ -20464,6 +20566,7 @@
     },
     {
         "id": "F222",
+        "id_species": 222,
         "stat": {
             "hp": 60,
             "attack": 55,
@@ -20483,6 +20586,7 @@
     },
     {
         "id": "F263",
+        "id_species": 263,
         "stat": {
             "hp": 38,
             "attack": 30,
@@ -20502,6 +20606,7 @@
     },
     {
         "id": "F264",
+        "id_species": 264,
         "stat": {
             "hp": 78,
             "attack": 70,
@@ -20521,6 +20626,7 @@
     },
     {
         "id": "F554",
+        "id_species": 554,
         "stat": {
             "hp": 70,
             "attack": 90,
@@ -20540,6 +20646,7 @@
     },
     {
         "id": "F555B",
+        "id_species": 555,
         "stat": {
             "hp": 105,
             "attack": 140,
@@ -20559,6 +20666,7 @@
     },
     {
         "id": "F555C",
+        "id_species": 555,
         "stat": {
             "hp": 105,
             "attack": 160,
@@ -20578,6 +20686,7 @@
     },
     {
         "id": "F562",
+        "id_species": 562,
         "stat": {
             "hp": 38,
             "attack": 55,
@@ -20597,6 +20706,7 @@
     },
     {
         "id": "F618",
+        "id_species": 618,
         "stat": {
             "hp": 109,
             "attack": 81,
@@ -20616,6 +20726,7 @@
     },
     {
         "id": "F845A",
+        "id_species": 845,
         "stat": {
             "hp": 70,
             "attack": 85,
@@ -20635,6 +20746,7 @@
     },
     {
         "id": "F845B",
+        "id_species": 845,
         "stat": {
             "hp": 70,
             "attack": 85,
@@ -20654,6 +20766,7 @@
     },
     {
         "id": "F849",
+        "id_species": 849,
         "stat": {
             "hp": 75,
             "attack": 98,
@@ -20673,6 +20786,7 @@
     },
     {
         "id": "F875",
+        "id_species": 875,
         "stat": {
             "hp": 75,
             "attack": 80,
@@ -20692,6 +20806,7 @@
     },
     {
         "id": "F876",
+        "id_species": 876,
         "stat": {
             "hp": 70,
             "attack": 55,
@@ -20711,6 +20826,7 @@
     },
     {
         "id": "F877",
+        "id_species": 877,
         "stat": {
             "hp": 58,
             "attack": 95,
@@ -20730,6 +20846,7 @@
     },
     {
         "id": "F888",
+        "id_species": 888,
         "stat": {
             "hp": 92,
             "attack": 170,
@@ -20749,6 +20866,7 @@
     },
     {
         "id": "F889",
+        "id_species": 889,
         "stat": {
             "hp": 92,
             "attack": 130,
@@ -20768,6 +20886,7 @@
     },
     {
         "id": "F890",
+        "id_species": 890,
         "stat": {
             "hp": 255,
             "attack": 115,
@@ -20787,6 +20906,7 @@
     },
     {
         "id": "F892",
+        "id_species": 892,
         "stat": {
             "hp": 100,
             "attack": 130,
@@ -20806,6 +20926,7 @@
     },
     {
         "id": "F898",
+        "id_species": 898,
         "stat": {
             "hp": 105,
             "attack": 120,
@@ -20825,6 +20946,7 @@
     },
     {
         "id": "F898A",
+        "id_species": 898,
         "stat": {
             "hp": 100,
             "attack": 165,
@@ -20843,634 +20965,8 @@
         }
     },
     {
-        "id": "F892B GMAX",
-        "stat": {
-            "hp": 100,
-            "attack": 85,
-            "defense": 80,
-            "spa": 165,
-            "spd": 100,
-            "speed": 150
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 3,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": "10195 GMAX START",
-        "stat": {
-            "hp": 80,
-            "attack": 82,
-            "defense": 83,
-            "spa": 100,
-            "spd": 100,
-            "speed": 80
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 2,
-            "spd": 1,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10196,
-        "stat": {
-            "hp": 78,
-            "attack": 84,
-            "defense": 78,
-            "spa": 109,
-            "spd": 85,
-            "speed": 100
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 3,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10197,
-        "stat": {
-            "hp": 79,
-            "attack": 83,
-            "defense": 100,
-            "spa": 85,
-            "spd": 105,
-            "speed": 78
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 3,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10198,
-        "stat": {
-            "hp": 60,
-            "attack": 45,
-            "defense": 50,
-            "spa": 90,
-            "spd": 80,
-            "speed": 70
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 2,
-            "spd": 1,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10199,
-        "stat": {
-            "hp": 35,
-            "attack": 55,
-            "defense": 40,
-            "spa": 50,
-            "spd": 50,
-            "speed": 90
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 2
-        }
-    },
-    {
-        "id": 10200,
-        "stat": {
-            "hp": 40,
-            "attack": 45,
-            "defense": 35,
-            "spa": 40,
-            "spd": 40,
-            "speed": 90
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 1
-        }
-    },
-    {
-        "id": 10201,
-        "stat": {
-            "hp": 90,
-            "attack": 130,
-            "defense": 80,
-            "spa": 65,
-            "spd": 85,
-            "speed": 55
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 3,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10202,
-        "stat": {
-            "hp": 60,
-            "attack": 65,
-            "defense": 60,
-            "spa": 130,
-            "spd": 75,
-            "speed": 110
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 3,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10203,
-        "stat": {
-            "hp": 55,
-            "attack": 130,
-            "defense": 115,
-            "spa": 50,
-            "spd": 50,
-            "speed": 75
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 2,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10204,
-        "stat": {
-            "hp": 130,
-            "attack": 85,
-            "defense": 80,
-            "spa": 85,
-            "spd": 95,
-            "speed": 60
-        },
-        "ev": {
-            "hp": 2,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10205,
-        "stat": {
-            "hp": 55,
-            "attack": 55,
-            "defense": 50,
-            "spa": 45,
-            "spd": 65,
-            "speed": 55
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 1,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10206,
-        "stat": {
-            "hp": 160,
-            "attack": 110,
-            "defense": 65,
-            "spa": 65,
-            "spd": 110,
-            "speed": 30
-        },
-        "ev": {
-            "hp": 2,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10207,
-        "stat": {
-            "hp": 80,
-            "attack": 95,
-            "defense": 82,
-            "spa": 60,
-            "spd": 82,
-            "speed": 75
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 2,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10208,
-        "stat": {
-            "hp": 135,
-            "attack": 143,
-            "defense": 143,
-            "spa": 80,
-            "spd": 65,
-            "speed": 34
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 3,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10209,
-        "stat": {
-            "hp": 100,
-            "attack": 125,
-            "defense": 90,
-            "spa": 60,
-            "spd": 70,
-            "speed": 85
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 3,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10210,
-        "stat": {
-            "hp": 80,
-            "attack": 116,
-            "defense": 75,
-            "spa": 65,
-            "spd": 75,
-            "speed": 119
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 3
-        }
-    },
-    {
-        "id": 10211,
-        "stat": {
-            "hp": 70,
-            "attack": 85,
-            "defense": 65,
-            "spa": 125,
-            "spd": 65,
-            "speed": 120
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 3
-        }
-    },
-    {
-        "id": 10212,
-        "stat": {
-            "hp": 98,
-            "attack": 87,
-            "defense": 105,
-            "spa": 53,
-            "spd": 85,
-            "speed": 67
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 3,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10213,
-        "stat": {
-            "hp": 60,
-            "attack": 45,
-            "defense": 110,
-            "spa": 80,
-            "spd": 120,
-            "speed": 90
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 3,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10214,
-        "stat": {
-            "hp": 90,
-            "attack": 115,
-            "defense": 90,
-            "spa": 48,
-            "spd": 68,
-            "speed": 74
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 2,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10215,
-        "stat": {
-            "hp": 110,
-            "attack": 80,
-            "defense": 120,
-            "spa": 80,
-            "spd": 90,
-            "speed": 30
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 3,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10216,
-        "stat": {
-            "hp": 70,
-            "attack": 110,
-            "defense": 80,
-            "spa": 95,
-            "spd": 60,
-            "speed": 70
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 2,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10217,
-        "stat": {
-            "hp": 110,
-            "attack": 85,
-            "defense": 80,
-            "spa": 100,
-            "spd": 80,
-            "speed": 30
-        },
-        "ev": {
-            "hp": 2,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10218,
-        "stat": {
-            "hp": 72,
-            "attack": 107,
-            "defense": 125,
-            "spa": 65,
-            "spd": 70,
-            "speed": 71
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 2,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10219,
-        "stat": {
-            "hp": 75,
-            "attack": 98,
-            "defense": 70,
-            "spa": 114,
-            "spd": 70,
-            "speed": 75
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 2,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10220,
-        "stat": {
-            "hp": 100,
-            "attack": 115,
-            "defense": 65,
-            "spa": 90,
-            "spd": 90,
-            "speed": 65
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 2,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10221,
-        "stat": {
-            "hp": 57,
-            "attack": 90,
-            "defense": 95,
-            "spa": 136,
-            "spd": 103,
-            "speed": 29
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 3,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10222,
-        "stat": {
-            "hp": 95,
-            "attack": 120,
-            "defense": 65,
-            "spa": 95,
-            "spd": 75,
-            "speed": 60
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 3,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10223,
-        "stat": {
-            "hp": 65,
-            "attack": 60,
-            "defense": 75,
-            "spa": 110,
-            "spd": 121,
-            "speed": 64
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 0,
-            "spd": 2,
-            "speed": 0
-        }
-    },
-    {
-        "id": 10224,
-        "stat": {
-            "hp": 122,
-            "attack": 130,
-            "defense": 69,
-            "spa": 80,
-            "spd": 69,
-            "speed": 30
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 2,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": "10225 GMAX END",
-        "stat": {
-            "hp": 70,
-            "attack": 95,
-            "defense": 115,
-            "spa": 120,
-            "spd": 50,
-            "speed": 85
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "spa": 2,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
-        "id": "F892 GMAX",
-        "stat": {
-            "hp": 100,
-            "attack": 130,
-            "defense": 100,
-            "spa": 63,
-            "spd": 60,
-            "speed": 97
-        },
-        "ev": {
-            "hp": 0,
-            "attack": 3,
-            "defense": 0,
-            "spa": 0,
-            "spd": 0,
-            "speed": 0
-        }
-    },
-    {
         "id": "F849",
+        "id_species": 849,
         "stat": {
             "hp": 75,
             "attack": 98,
@@ -21490,6 +20986,7 @@
     },
     {
         "id": "F58",
+        "id_species": 58,
         "stat": {
             "hp": 60,
             "attack": 75,
@@ -21509,6 +21006,7 @@
     },
     {
         "id": "F59",
+        "id_species": 59,
         "stat": {
             "hp": 95,
             "attack": 115,
@@ -21528,6 +21026,7 @@
     },
     {
         "id": "F100",
+        "id_species": 100,
         "stat": {
             "hp": 40,
             "attack": 30,
@@ -21547,6 +21046,7 @@
     },
     {
         "id": "F101",
+        "id_species": 101,
         "stat": {
             "hp": 60,
             "attack": 50,
@@ -21566,6 +21066,7 @@
     },
     {
         "id": "F157",
+        "id_species": 157,
         "stat": {
             "hp": 73,
             "attack": 84,
@@ -21585,6 +21086,7 @@
     },
     {
         "id": "F211",
+        "id_species": 211,
         "stat": {
             "hp": 65,
             "attack": 95,
@@ -21604,6 +21106,7 @@
     },
     {
         "id": "F215",
+        "id_species": 215,
         "stat": {
             "hp": 55,
             "attack": 95,
@@ -21623,6 +21126,7 @@
     },
     {
         "id": "F503",
+        "id_species": 503,
         "stat": {
             "hp": 90,
             "attack": 108,
@@ -21642,6 +21146,7 @@
     },
     {
         "id": "F549",
+        "id_species": 549,
         "stat": {
             "hp": 70,
             "attack": 105,
@@ -21661,6 +21166,7 @@
     },
     {
         "id": "F570",
+        "id_species": 570,
         "stat": {
             "hp": 35,
             "attack": 60,
@@ -21680,6 +21186,7 @@
     },
     {
         "id": "F571",
+        "id_species": 571,
         "stat": {
             "hp": 55,
             "attack": 100,
@@ -21699,6 +21206,7 @@
     },
     {
         "id": "F628",
+        "id_species": 628,
         "stat": {
             "hp": 110,
             "attack": 83,
@@ -21718,6 +21226,7 @@
     },
     {
         "id": "F705",
+        "id_species": 705,
         "stat": {
             "hp": 58,
             "attack": 75,
@@ -21737,6 +21246,7 @@
     },
     {
         "id": "F706",
+        "id_species": 706,
         "stat": {
             "hp": 80,
             "attack": 100,
@@ -21756,6 +21266,7 @@
     },
     {
         "id": "F713",
+        "id_species": 713,
         "stat": {
             "hp": 95,
             "attack": 127,
@@ -21775,6 +21286,7 @@
     },
     {
         "id": "F724",
+        "id_species": 724,
         "stat": {
             "hp": 88,
             "attack": 112,
@@ -21794,6 +21306,7 @@
     },
     {
         "id": "F483",
+        "id_species": 483,
         "stat": {
             "hp": 100,
             "attack": 100,
@@ -21813,6 +21326,7 @@
     },
     {
         "id": "origin484",
+        "id_species": 484,
         "stat": {
             "hp": 90,
             "attack": 100,
@@ -21832,6 +21346,7 @@
     },
     {
         "id": "F550B",
+        "id_species": 550,
         "stat": {
             "hp": 70,
             "attack": 92,
@@ -21851,6 +21366,7 @@
     },
     {
         "id": "F902",
+        "id_species": 902,
         "stat": {
             "hp": 120,
             "attack": 92,
@@ -21870,6 +21386,7 @@
     },
     {
         "id": "F905",
+        "id_species": 905,
         "stat": {
             "hp": 74,
             "attack": 115,
