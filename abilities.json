@@ -1,0 +1,5499 @@
+[
+    {
+        "id": 1,
+        "id_url": "air-lock",
+        "id_name": "Air Lock",
+        "generation": 3,
+        "has_first": [
+            384
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 2,
+        "id_url": "arena-trap",
+        "id_name": "Arena Trap",
+        "generation": 3,
+        "has_first": [],
+        "has_second": [
+            50,
+            51,
+            328
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 3,
+        "id_url": "battle-armor",
+        "id_name": "Battle Armor",
+        "generation": 3,
+        "has_first": [
+            347,
+            348,
+            451,
+            452,
+            772,
+            863,
+            870
+        ],
+        "has_second": [
+            140,
+            141
+        ],
+        "has_hidden": [
+            104,
+            105
+        ]
+    },
+    {
+        "id": 4,
+        "id_url": "blaze",
+        "id_name": "Blaze",
+        "generation": 3,
+        "has_first": [
+            4,
+            5,
+            6,
+            155,
+            156,
+            157,
+            255,
+            256,
+            257,
+            390,
+            391,
+            392,
+            498,
+            499,
+            500,
+            653,
+            654,
+            655,
+            725,
+            726,
+            727,
+            813,
+            814,
+            815,
+            10196,
+            10210,
+            "hisui157"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            513,
+            514
+        ]
+    },
+    {
+        "id": 5,
+        "id_url": "chlorophyll",
+        "id_name": "Chlorophyll",
+        "generation": 3,
+        "has_first": [
+            43,
+            44,
+            45,
+            69,
+            70,
+            71,
+            102,
+            103,
+            114,
+            182,
+            187,
+            188,
+            189,
+            191,
+            192,
+            273,
+            274,
+            275,
+            357,
+            420,
+            465,
+            548,
+            549,
+            585,
+            586,
+            "hisui549"
+        ],
+        "has_second": [
+            540,
+            541,
+            542,
+            556
+        ],
+        "has_hidden": [
+            1,
+            2,
+            3,
+            470,
+            546,
+            547,
+            10195
+        ]
+    },
+    {
+        "id": 6,
+        "id_url": "clear-body",
+        "id_name": "Clear Body",
+        "generation": 3,
+        "has_first": [
+            72,
+            73,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            703,
+            719,
+            885,
+            886,
+            887
+        ],
+        "has_second": [],
+        "has_hidden": [
+            599,
+            600,
+            601
+        ]
+    },
+    {
+        "id": 7,
+        "id_url": "cloud-nine",
+        "id_name": "Cloud Nine",
+        "generation": 3,
+        "has_first": [],
+        "has_second": [
+            54,
+            55
+        ],
+        "has_hidden": [
+            108,
+            333,
+            334,
+            463,
+            780
+        ]
+    },
+    {
+        "id": 8,
+        "id_url": "color-change",
+        "id_name": "Color Change",
+        "generation": 3,
+        "has_first": [
+            352
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 9,
+        "id_url": "compound-eyes",
+        "id_name": "Compound Eyes",
+        "generation": 3,
+        "has_first": [
+            12,
+            48,
+            290,
+            595,
+            596,
+            10198
+        ],
+        "has_second": [
+            193,
+            664,
+            666,
+            824,
+            825
+        ],
+        "has_hidden": [
+            269
+        ]
+    },
+    {
+        "id": 10,
+        "id_url": "cute-charm",
+        "id_name": "Cute Charm",
+        "generation": 3,
+        "has_first": [
+            35,
+            36,
+            39,
+            40,
+            173,
+            174,
+            300,
+            301,
+            428,
+            572,
+            573,
+            700
+        ],
+        "has_second": [],
+        "has_hidden": [
+            350,
+            759
+        ]
+    },
+    {
+        "id": 11,
+        "id_url": "damp",
+        "id_name": "Damp",
+        "generation": 3,
+        "has_first": [
+            54,
+            55,
+            194,
+            195
+        ],
+        "has_second": [
+            60,
+            61,
+            62,
+            186
+        ],
+        "has_hidden": [
+            46,
+            47,
+            116,
+            117,
+            230,
+            258,
+            259,
+            260,
+            592,
+            593
+        ]
+    },
+    {
+        "id": 12,
+        "id_url": "drizzle",
+        "id_name": "Drizzle",
+        "generation": 3,
+        "has_first": [
+            382
+        ],
+        "has_second": [
+            279
+        ],
+        "has_hidden": [
+            186
+        ]
+    },
+    {
+        "id": 13,
+        "id_url": "drought",
+        "id_name": "Drought",
+        "generation": 3,
+        "has_first": [
+            383,
+            "mega-y6",
+            "mega-y6"
+        ],
+        "has_second": [
+            324
+        ],
+        "has_hidden": [
+            37,
+            38
+        ]
+    },
+    {
+        "id": 14,
+        "id_url": "early-bird",
+        "id_name": "Early Bird",
+        "generation": 3,
+        "has_first": [
+            115,
+            228,
+            229
+        ],
+        "has_second": [
+            84,
+            85,
+            165,
+            166,
+            177,
+            178,
+            203,
+            273,
+            274,
+            275
+        ],
+        "has_hidden": [
+            191,
+            192
+        ]
+    },
+    {
+        "id": 15,
+        "id_url": "effect-spore",
+        "id_name": "Effect Spore",
+        "generation": 3,
+        "has_first": [
+            46,
+            47,
+            285,
+            286,
+            590,
+            591
+        ],
+        "has_second": [
+            755,
+            756
+        ],
+        "has_hidden": [
+            45,
+            829,
+            830
+        ]
+    },
+    {
+        "id": 16,
+        "id_url": "flame-body",
+        "id_name": "Flame Body",
+        "generation": 3,
+        "has_first": [
+            126,
+            240,
+            467,
+            636,
+            637,
+            662,
+            663
+        ],
+        "has_second": [
+            218,
+            219,
+            607,
+            608,
+            609,
+            838,
+            839,
+            10215
+        ],
+        "has_hidden": [
+            77,
+            78,
+            146,
+            485,
+            850,
+            851,
+            10220
+        ]
+    },
+    {
+        "id": 17,
+        "id_url": "flash-fire",
+        "id_name": "Flash Fire",
+        "generation": 3,
+        "has_first": [
+            37,
+            38,
+            136,
+            485,
+            607,
+            608,
+            609,
+            850,
+            851,
+            10220
+        ],
+        "has_second": [
+            58,
+            59,
+            77,
+            78,
+            228,
+            229,
+            631,
+            "hisui58",
+            "hisui59"
+        ],
+        "has_hidden": [
+            155,
+            156,
+            157,
+            837,
+            838,
+            839,
+            10215,
+            "hisui157"
+        ]
+    },
+    {
+        "id": 18,
+        "id_url": "forecast",
+        "id_name": "Forecast",
+        "generation": 3,
+        "has_first": [
+            351,
+            "castform1",
+            "castform2",
+            "castform3"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 19,
+        "id_url": "guts",
+        "id_name": "Guts",
+        "generation": 3,
+        "has_first": [
+            66,
+            67,
+            68,
+            217,
+            236,
+            246,
+            276,
+            277,
+            532,
+            533,
+            534,
+            538,
+            10201
+        ],
+        "has_second": [
+            19,
+            20,
+            214,
+            296,
+            297,
+            862
+        ],
+        "has_hidden": [
+            136,
+            403,
+            404,
+            405
+        ]
+    },
+    {
+        "id": 20,
+        "id_url": "huge-power",
+        "id_name": "Huge Power",
+        "generation": 3,
+        "has_first": [
+            "mega303"
+        ],
+        "has_second": [
+            183,
+            184,
+            298
+        ],
+        "has_hidden": [
+            659,
+            66
+        ]
+    },
+    {
+        "id": 21,
+        "id_url": "hustle",
+        "id_name": "Hustle",
+        "generation": 3,
+        "has_first": [
+            175,
+            176,
+            222,
+            223,
+            468,
+            554,
+            633,
+            634,
+            "galar554"
+        ],
+        "has_second": [
+            225,
+            632,
+            880,
+            "alola19",
+            "alola20",
+            "totem20",
+            "hisui549"
+        ],
+        "has_hidden": [
+            19,
+            20,
+            29,
+            30,
+            32,
+            33,
+            415,
+            627,
+            841,
+            10216
+        ]
+    },
+    {
+        "id": 22,
+        "id_url": "hyper-cutter",
+        "id_name": "Hyper Cutter",
+        "generation": 3,
+        "has_first": [
+            98,
+            99,
+            127,
+            207,
+            303,
+            328,
+            341,
+            342,
+            472,
+            739,
+            740,
+            10203
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 23,
+        "id_url": "illuminate",
+        "id_name": "Illuminate",
+        "generation": 3,
+        "has_first": [
+            120,
+            121,
+            313,
+            505,
+            755,
+            756
+        ],
+        "has_second": [
+            170,
+            171
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 24,
+        "id_url": "immunity",
+        "id_name": "Immunity",
+        "generation": 3,
+        "has_first": [
+            143,
+            335,
+            10206
+        ],
+        "has_second": [],
+        "has_hidden": [
+            207
+        ]
+    },
+    {
+        "id": 25,
+        "id_url": "inner-focus",
+        "id_name": "Inner Focus",
+        "generation": 3,
+        "has_first": [
+            41,
+            42,
+            149,
+            169,
+            203,
+            215,
+            361,
+            362,
+            619,
+            620,
+            765,
+            876,
+            891,
+            "mega475",
+            "hisui215"
+        ],
+        "has_second": [
+            63,
+            64,
+            65,
+            83,
+            447,
+            448,
+            538,
+            539,
+            624,
+            625
+        ],
+        "has_hidden": [
+            96,
+            97,
+            107,
+            115,
+            197,
+            243,
+            244,
+            245,
+            554,
+            749,
+            750,
+            "galar554"
+        ]
+    },
+    {
+        "id": 26,
+        "id_url": "insomnia",
+        "id_name": "Insomnia",
+        "generation": 3,
+        "has_first": [
+            96,
+            97,
+            163,
+            164,
+            198,
+            353,
+            354,
+            430,
+            "mega-y150"
+        ],
+        "has_second": [
+            167,
+            168
+        ],
+        "has_hidden": [
+            225,
+            710,
+            711,
+            "pumpkaboo1",
+            "pumpkaboo2",
+            "pumpkaboo3",
+            "gourgeist1",
+            "gourgeist2",
+            "gourgeist3"
+        ]
+    },
+    {
+        "id": 27,
+        "id_url": "intimidate",
+        "id_name": "Intimidate",
+        "generation": 3,
+        "has_first": [
+            23,
+            24,
+            58,
+            59,
+            128,
+            130,
+            209,
+            210,
+            234,
+            237,
+            262,
+            284,
+            373,
+            397,
+            398,
+            507,
+            508,
+            551,
+            552,
+            553,
+            899,
+            "therian645",
+            "mega310",
+            "hisui58",
+            "hisui59"
+        ],
+        "has_second": [
+            303,
+            403,
+            404,
+            405
+        ],
+        "has_hidden": [
+            211,
+            559,
+            560,
+            725,
+            726,
+            727,
+            904,
+            "hisui211"
+        ]
+    },
+    {
+        "id": 28,
+        "id_url": "keen-eye",
+        "id_name": "Keen Eye",
+        "generation": 3,
+        "has_first": [
+            16,
+            17,
+            18,
+            21,
+            22,
+            83,
+            107,
+            227,
+            278,
+            279,
+            302,
+            396,
+            441,
+            580,
+            581,
+            627,
+            628,
+            677,
+            678,
+            731,
+            732,
+            733,
+            744,
+            745,
+            821,
+            822,
+            "meowstic1",
+            "lycanroc2",
+            "hisui628"
+        ],
+        "has_second": [
+            161,
+            162,
+            163,
+            164,
+            215,
+            504,
+            505,
+            "hisui215"
+        ],
+        "has_hidden": [
+            431,
+            434,
+            435,
+            451,
+            452
+        ]
+    },
+    {
+        "id": 29,
+        "id_url": "levitate",
+        "id_name": "Levitate",
+        "generation": 3,
+        "has_first": [
+            92,
+            93,
+            109,
+            110,
+            200,
+            201,
+            329,
+            330,
+            337,
+            338,
+            343,
+            344,
+            355,
+            358,
+            380,
+            381,
+            429,
+            433,
+            436,
+            437,
+            455,
+            479,
+            480,
+            481,
+            482,
+            488,
+            602,
+            603,
+            604,
+            615,
+            635,
+            738,
+            "origin487",
+            "rotom1",
+            "rotom2",
+            "rotom3",
+            "rotom4",
+            "rotom5",
+            "mega380",
+            "mega381",
+            "totem738",
+            "galar110"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 30,
+        "id_url": "lightning-rod",
+        "id_name": "Lightning Rod",
+        "generation": 3,
+        "has_first": [
+            111,
+            112,
+            464,
+            522,
+            523,
+            871,
+            "mega254"
+        ],
+        "has_second": [
+            104,
+            105,
+            309,
+            310,
+            777,
+            "alola105",
+            "totem105",
+            "totem777"
+        ],
+        "has_hidden": [
+            25,
+            26,
+            118,
+            119,
+            172,
+            311,
+            "pikachu1",
+            "pikachu2",
+            "pikachu3",
+            "pikachu4",
+            "pikachu5",
+            "pikachu6",
+            "pikachu-cap1",
+            "pikachu-cap2",
+            "pikachu-cap3",
+            "pikachu-cap4",
+            "pikachu-cap5",
+            "pikachu-cap6",
+            "pikachu-cap7",
+            "partner25",
+            "pikachu-cap8",
+            10199
+        ]
+    },
+    {
+        "id": 31,
+        "id_url": "limber",
+        "id_name": "Limber",
+        "generation": 3,
+        "has_first": [
+            53,
+            106,
+            132,
+            431,
+            509,
+            510,
+            701,
+            852,
+            853
+        ],
+        "has_second": [
+            618,
+            747,
+            748
+        ],
+        "has_hidden": [
+            427,
+            428
+        ]
+    },
+    {
+        "id": 32,
+        "id_url": "liquid-ooze",
+        "id_name": "Liquid Ooze",
+        "generation": 3,
+        "has_first": [
+            316,
+            317
+        ],
+        "has_second": [
+            72,
+            73
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 33,
+        "id_url": "magma-armor",
+        "id_name": "Magma Armor",
+        "generation": 3,
+        "has_first": [
+            218,
+            219,
+            323
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 34,
+        "id_url": "magnet-pull",
+        "id_name": "Magnet Pull",
+        "generation": 3,
+        "has_first": [
+            81,
+            82,
+            462,
+            808,
+            "alola74",
+            "alola75",
+            "alola76"
+        ],
+        "has_second": [
+            299,
+            476
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 35,
+        "id_url": "marvel-scale",
+        "id_name": "Marvel Scale",
+        "generation": 3,
+        "has_first": [
+            350
+        ],
+        "has_second": [],
+        "has_hidden": [
+            147,
+            148
+        ]
+    },
+    {
+        "id": 36,
+        "id_url": "minus",
+        "id_name": "Minus",
+        "generation": 3,
+        "has_first": [
+            312
+        ],
+        "has_second": [
+            599,
+            600,
+            601,
+            "toxtricity2",
+            10228
+        ],
+        "has_hidden": [
+            309,
+            31
+        ]
+    },
+    {
+        "id": 37,
+        "id_url": "natural-cure",
+        "id_name": "Natural Cure",
+        "generation": 3,
+        "has_first": [
+            113,
+            242,
+            251,
+            315,
+            333,
+            334,
+            406,
+            407,
+            440,
+            492,
+            708,
+            709
+        ],
+        "has_second": [
+            120,
+            121,
+            222
+        ],
+        "has_hidden": [
+            764
+        ]
+    },
+    {
+        "id": 38,
+        "id_url": "oblivious",
+        "id_name": "Oblivious",
+        "generation": 3,
+        "has_first": [
+            79,
+            80,
+            124,
+            199,
+            220,
+            221,
+            238,
+            314,
+            322,
+            339,
+            340,
+            473
+        ],
+        "has_second": [
+            108,
+            320,
+            321,
+            349,
+            463,
+            761,
+            762
+        ],
+        "has_hidden": [
+            363,
+            364,
+            365,
+            757,
+            758,
+            "totem758"
+        ]
+    },
+    {
+        "id": 39,
+        "id_url": "overgrow",
+        "id_name": "Overgrow",
+        "generation": 3,
+        "has_first": [
+            1,
+            2,
+            3,
+            152,
+            153,
+            154,
+            252,
+            253,
+            254,
+            387,
+            388,
+            389,
+            495,
+            496,
+            497,
+            650,
+            651,
+            652,
+            722,
+            723,
+            724,
+            810,
+            811,
+            812,
+            10195,
+            10209,
+            "hisui724"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            511,
+            512
+        ]
+    },
+    {
+        "id": 40,
+        "id_url": "own-tempo",
+        "id_name": "Own Tempo",
+        "generation": 3,
+        "has_first": [
+            108,
+            235,
+            327,
+            463,
+            712,
+            713,
+            749,
+            750,
+            "rockruff1",
+            "indeedee2"
+        ],
+        "has_second": [
+            79,
+            80,
+            199,
+            325,
+            326,
+            431,
+            432,
+            548,
+            549,
+            "galar79",
+            "galar80",
+            "galar199"
+        ],
+        "has_hidden": [
+            270,
+            271,
+            272,
+            322,
+            677
+        ]
+    },
+    {
+        "id": 41,
+        "id_url": "pickup",
+        "id_name": "Pickup",
+        "generation": 3,
+        "has_first": [
+            52,
+            216,
+            231,
+            263,
+            264,
+            446,
+            659,
+            660,
+            710,
+            711,
+            "pumpkaboo1",
+            "pumpkaboo2",
+            "pumpkaboo3",
+            "gourgeist1",
+            "gourgeist2",
+            "gourgeist3",
+            "alola52",
+            "galar52",
+            "galar263",
+            "galar264",
+            10200
+        ],
+        "has_second": [
+            190,
+            417,
+            424,
+            506,
+            702
+        ],
+        "has_hidden": [
+            731,
+            732
+        ]
+    },
+    {
+        "id": 42,
+        "id_url": "plus",
+        "id_name": "Plus",
+        "generation": 3,
+        "has_first": [
+            311,
+            599,
+            600,
+            601
+        ],
+        "has_second": [
+            849,
+            10219
+        ],
+        "has_hidden": [
+            179,
+            180,
+            181,
+            702
+        ]
+    },
+    {
+        "id": 43,
+        "id_url": "poison-point",
+        "id_name": "Poison Point",
+        "generation": 3,
+        "has_first": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            117,
+            211,
+            543,
+            544,
+            545,
+            690,
+            691,
+            904,
+            "hisui211"
+        ],
+        "has_second": [
+            315,
+            406,
+            407
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 44,
+        "id_url": "pressure",
+        "id_name": "Pressure",
+        "generation": 3,
+        "has_first": [
+            144,
+            145,
+            146,
+            150,
+            243,
+            244,
+            245,
+            249,
+            250,
+            356,
+            359,
+            386,
+            416,
+            442,
+            461,
+            477,
+            483,
+            484,
+            487,
+            646,
+            823,
+            890,
+            903,
+            "deoxys1",
+            "deoxys2",
+            "deoxys3",
+            "eternatus1",
+            10212,
+            "origin483",
+            "origin484"
+        ],
+        "has_second": [
+            142
+        ],
+        "has_hidden": [
+            320,
+            321,
+            624,
+            625
+        ]
+    },
+    {
+        "id": 45,
+        "id_url": "pure-power",
+        "id_name": "Pure Power",
+        "generation": 3,
+        "has_first": [
+            307,
+            308,
+            "mega308"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 46,
+        "id_url": "rain-dish",
+        "id_name": "Rain Dish",
+        "generation": 3,
+        "has_first": [],
+        "has_second": [
+            270,
+            271,
+            272
+        ],
+        "has_hidden": [
+            7,
+            8,
+            9,
+            72,
+            73,
+            278,
+            279,
+            283,
+            755,
+            756,
+            10197
+        ]
+    },
+    {
+        "id": 47,
+        "id_url": "rock-head",
+        "id_name": "Rock Head",
+        "generation": 3,
+        "has_first": [
+            74,
+            75,
+            76,
+            95,
+            104,
+            105,
+            142,
+            208,
+            371,
+            372,
+            "basculin1"
+        ],
+        "has_second": [
+            111,
+            112,
+            185,
+            304,
+            305,
+            306,
+            369,
+            438
+        ],
+        "has_hidden": [
+            697,
+            "alola105",
+            "totem105"
+        ]
+    },
+    {
+        "id": 48,
+        "id_url": "rough-skin",
+        "id_name": "Rough Skin",
+        "generation": 3,
+        "has_first": [
+            318,
+            319,
+            621
+        ],
+        "has_second": [],
+        "has_hidden": [
+            443,
+            444,
+            445
+        ]
+    },
+    {
+        "id": 49,
+        "id_url": "run-away",
+        "id_name": "Run Away",
+        "generation": 3,
+        "has_first": [
+            19,
+            20,
+            77,
+            78,
+            84,
+            85,
+            133,
+            161,
+            162,
+            190,
+            261,
+            417,
+            427,
+            504,
+            827,
+            828,
+            "partner133",
+            "galar77",
+            "galar78",
+            10205
+        ],
+        "has_second": [
+            206,
+            209,
+            831
+        ],
+        "has_hidden": [
+            10,
+            13,
+            43,
+            48,
+            265,
+            290,
+            401,
+            506
+        ]
+    },
+    {
+        "id": 50,
+        "id_url": "sand-stream",
+        "id_name": "Sand Stream",
+        "generation": 3,
+        "has_first": [
+            248,
+            449,
+            450,
+            "mega248"
+        ],
+        "has_second": [
+            526
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 51,
+        "id_url": "sand-veil",
+        "id_name": "Sand Veil",
+        "generation": 3,
+        "has_first": [
+            27,
+            28,
+            50,
+            51,
+            331,
+            332,
+            443,
+            444,
+            445,
+            "alola50",
+            "alola51"
+        ],
+        "has_second": [
+            207,
+            472,
+            694,
+            695
+        ],
+        "has_hidden": [
+            74,
+            75,
+            76,
+            231,
+            232,
+            246,
+            618,
+            769,
+            770,
+            843,
+            844,
+            10218
+        ]
+    },
+    {
+        "id": 52,
+        "id_url": "serene-grace",
+        "id_name": "Serene Grace",
+        "generation": 3,
+        "has_first": [
+            206,
+            385,
+            648,
+            "shaymin1",
+            "meloetta1"
+        ],
+        "has_second": [
+            113,
+            175,
+            176,
+            242,
+            440,
+            468
+        ],
+        "has_hidden": [
+            585,
+            586
+        ]
+    },
+    {
+        "id": 53,
+        "id_url": "shadow-tag",
+        "id_name": "Shadow Tag",
+        "generation": 3,
+        "has_first": [
+            202,
+            360,
+            "mega94"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            574,
+            575,
+            576
+        ]
+    },
+    {
+        "id": 54,
+        "id_url": "shed-skin",
+        "id_name": "Shed Skin",
+        "generation": 3,
+        "has_first": [
+            11,
+            14,
+            147,
+            148,
+            247,
+            266,
+            268,
+            336,
+            401,
+            412,
+            559,
+            560,
+            665
+        ],
+        "has_second": [
+            23,
+            24,
+            588,
+            843,
+            844,
+            10218
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 55,
+        "id_url": "shell-armor",
+        "id_name": "Shell Armor",
+        "generation": 3,
+        "has_first": [
+            90,
+            91,
+            366,
+            776,
+            "mega80"
+        ],
+        "has_second": [
+            98,
+            99,
+            131,
+            138,
+            139,
+            341,
+            342,
+            557,
+            558,
+            589,
+            616,
+            833,
+            834,
+            10203,
+            10204,
+            10214
+        ],
+        "has_hidden": [
+            324,
+            387,
+            388,
+            389,
+            501,
+            502,
+            503,
+            "hisui503"
+        ]
+    },
+    {
+        "id": 56,
+        "id_url": "shield-dust",
+        "id_name": "Shield Dust",
+        "generation": 3,
+        "has_first": [
+            10,
+            13,
+            49,
+            265,
+            269,
+            664,
+            666,
+            872,
+            873
+        ],
+        "has_second": [
+            742,
+            743,
+            "totem743"
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 57,
+        "id_url": "soundproof",
+        "id_name": "Soundproof",
+        "generation": 3,
+        "has_first": [
+            100,
+            101,
+            122,
+            293,
+            294,
+            295,
+            439,
+            "hisui100",
+            "hisui101"
+        ],
+        "has_second": [
+            782,
+            783,
+            784,
+            "totem784"
+        ],
+        "has_hidden": [
+            410,
+            411,
+            459,
+            460,
+            626
+        ]
+    },
+    {
+        "id": 58,
+        "id_url": "speed-boost",
+        "id_name": "Speed Boost",
+        "generation": 3,
+        "has_first": [
+            193,
+            291,
+            469,
+            "mega257"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            255,
+            256,
+            257,
+            318,
+            319,
+            543,
+            544,
+            545
+        ]
+    },
+    {
+        "id": 59,
+        "id_url": "static",
+        "id_name": "Static",
+        "generation": 3,
+        "has_first": [
+            25,
+            26,
+            125,
+            172,
+            179,
+            180,
+            181,
+            239,
+            309,
+            310,
+            587,
+            618,
+            "pikachu1",
+            "pikachu2",
+            "pikachu3",
+            "pikachu4",
+            "pikachu5",
+            "pikachu6",
+            "pikachu-cap1",
+            "pikachu-cap2",
+            "pikachu-cap3",
+            "pikachu-cap4",
+            "pikachu-cap5",
+            "pikachu-cap6",
+            "pikachu-cap7",
+            "partner25",
+            "pikachu-cap8",
+            10199
+        ],
+        "has_second": [
+            100,
+            101,
+            848,
+            881,
+            "hisui100",
+            "hisui101"
+        ],
+        "has_hidden": [
+            145
+        ]
+    },
+    {
+        "id": 60,
+        "id_url": "stench",
+        "id_name": "Stench",
+        "generation": 3,
+        "has_first": [
+            88,
+            89,
+            434,
+            435,
+            568,
+            569,
+            10207
+        ],
+        "has_second": [],
+        "has_hidden": [
+            44,
+            109,
+            110
+        ]
+    },
+    {
+        "id": 61,
+        "id_url": "sticky-hold",
+        "id_name": "Sticky Hold",
+        "generation": 3,
+        "has_first": [
+            422,
+            423
+        ],
+        "has_second": [
+            88,
+            89,
+            316,
+            317,
+            568,
+            617
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 62,
+        "id_url": "sturdy",
+        "id_name": "Sturdy",
+        "generation": 3,
+        "has_first": [
+            185,
+            204,
+            205,
+            213,
+            232,
+            299,
+            304,
+            305,
+            306,
+            410,
+            411,
+            438,
+            476,
+            524,
+            525,
+            526,
+            539,
+            557,
+            558,
+            790
+        ],
+        "has_second": [
+            74,
+            75,
+            76,
+            81,
+            82,
+            95,
+            208,
+            227,
+            462,
+            564,
+            565,
+            "alola74",
+            "alola75",
+            "alola76"
+        ],
+        "has_hidden": [
+            369,
+            377,
+            696,
+            703,
+            712,
+            713,
+            777,
+            "totem777",
+            "hisui713"
+        ]
+    },
+    {
+        "id": 63,
+        "id_url": "suction-cups",
+        "id_name": "Suction Cups",
+        "generation": 3,
+        "has_first": [
+            224,
+            345,
+            346
+        ],
+        "has_second": [
+            686,
+            687
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 64,
+        "id_url": "swarm",
+        "id_name": "Swarm",
+        "generation": 3,
+        "has_first": [
+            15,
+            123,
+            165,
+            166,
+            167,
+            168,
+            212,
+            214,
+            267,
+            402,
+            414,
+            540,
+            542,
+            588,
+            589,
+            632,
+            736,
+            824,
+            825,
+            826,
+            900,
+            10213
+        ],
+        "has_second": [
+            313,
+            543,
+            544,
+            545
+        ],
+        "has_hidden": [
+            595,
+            596,
+            636,
+            637
+        ]
+    },
+    {
+        "id": 65,
+        "id_url": "swift-swim",
+        "id_name": "Swift Swim",
+        "generation": 3,
+        "has_first": [
+            116,
+            118,
+            119,
+            129,
+            138,
+            139,
+            140,
+            141,
+            226,
+            230,
+            270,
+            271,
+            272,
+            283,
+            349,
+            367,
+            368,
+            369,
+            370,
+            418,
+            419,
+            456,
+            457,
+            458,
+            535,
+            536,
+            537,
+            846,
+            847,
+            "mega260"
+        ],
+        "has_second": [
+            211,
+            904,
+            "hisui211"
+        ],
+        "has_hidden": [
+            54,
+            55,
+            60,
+            61,
+            62,
+            347,
+            348,
+            564,
+            565,
+            614,
+            833,
+            834,
+            10214
+        ]
+    },
+    {
+        "id": 66,
+        "id_url": "synchronize",
+        "id_name": "Synchronize",
+        "generation": 3,
+        "has_first": [
+            63,
+            64,
+            65,
+            151,
+            177,
+            178,
+            196,
+            197,
+            280,
+            281,
+            282
+        ],
+        "has_second": [
+            517,
+            518,
+            605,
+            606,
+            876,
+            "indeedee2"
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 67,
+        "id_url": "thick-fat",
+        "id_name": "Thick Fat",
+        "generation": 3,
+        "has_first": [
+            86,
+            87,
+            183,
+            184,
+            241,
+            296,
+            297,
+            298,
+            325,
+            326,
+            363,
+            364,
+            365,
+            432,
+            "mega3"
+        ],
+        "has_second": [
+            143,
+            446,
+            10206
+        ],
+        "has_hidden": [
+            220,
+            221,
+            473,
+            498,
+            499,
+            842,
+            "alola19",
+            "alola20",
+            "totem20",
+            10217
+        ]
+    },
+    {
+        "id": 68,
+        "id_url": "torrent",
+        "id_name": "Torrent",
+        "generation": 3,
+        "has_first": [
+            7,
+            8,
+            9,
+            158,
+            159,
+            160,
+            258,
+            259,
+            260,
+            393,
+            394,
+            395,
+            501,
+            502,
+            503,
+            656,
+            657,
+            658,
+            728,
+            729,
+            730,
+            816,
+            817,
+            818,
+            10197,
+            10211,
+            "hisui503"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            515,
+            516
+        ]
+    },
+    {
+        "id": 69,
+        "id_url": "trace",
+        "id_name": "Trace",
+        "generation": 3,
+        "has_first": [
+            137,
+            233,
+            "mega65"
+        ],
+        "has_second": [
+            280,
+            281,
+            282
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 70,
+        "id_url": "truant",
+        "id_name": "Truant",
+        "generation": 3,
+        "has_first": [
+            287,
+            289
+        ],
+        "has_second": [],
+        "has_hidden": [
+            632
+        ]
+    },
+    {
+        "id": 71,
+        "id_url": "vital-spirit",
+        "id_name": "Vital Spirit",
+        "generation": 3,
+        "has_first": [
+            56,
+            57,
+            225,
+            288,
+            506,
+            "galar122"
+        ],
+        "has_second": [
+            744,
+            "lycanroc2"
+        ],
+        "has_hidden": [
+            125,
+            126,
+            236,
+            239,
+            240,
+            466,
+            467
+        ]
+    },
+    {
+        "id": 72,
+        "id_url": "volt-absorb",
+        "id_name": "Volt Absorb",
+        "generation": 3,
+        "has_first": [
+            135,
+            170,
+            171,
+            807,
+            880,
+            881,
+            "therian642"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            312,
+            417
+        ]
+    },
+    {
+        "id": 73,
+        "id_url": "water-absorb",
+        "id_name": "Water Absorb",
+        "generation": 3,
+        "has_first": [
+            60,
+            61,
+            62,
+            131,
+            134,
+            186,
+            556,
+            592,
+            593,
+            721,
+            882,
+            883,
+            10204
+        ],
+        "has_second": [
+            194,
+            195,
+            226,
+            458
+        ],
+        "has_hidden": [
+            170,
+            171,
+            331,
+            332,
+            535,
+            536,
+            537,
+            751,
+            752,
+            "totem752"
+        ]
+    },
+    {
+        "id": 74,
+        "id_url": "water-veil",
+        "id_name": "Water Veil",
+        "generation": 3,
+        "has_first": [
+            320,
+            321
+        ],
+        "has_second": [
+            118,
+            119
+        ],
+        "has_hidden": [
+            226,
+            367,
+            418,
+            419,
+            456,
+            457,
+            458
+        ]
+    },
+    {
+        "id": 75,
+        "id_url": "white-smoke",
+        "id_name": "White Smoke",
+        "generation": 3,
+        "has_first": [
+            324
+        ],
+        "has_second": [
+            850,
+            851,
+            10220
+        ],
+        "has_hidden": [
+            631
+        ]
+    },
+    {
+        "id": 76,
+        "id_url": "wonder-guard",
+        "id_name": "Wonder Guard",
+        "generation": 3,
+        "has_first": [
+            292
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 77,
+        "id_url": "adaptability",
+        "id_name": "Adaptability",
+        "generation": 4,
+        "has_first": [
+            474,
+            "mega448",
+            "mega15"
+        ],
+        "has_second": [
+            133,
+            550,
+            902,
+            "basculin1",
+            "partner133",
+            10205,
+            "basculin2",
+            "basculegion1"
+        ],
+        "has_hidden": [
+            341,
+            342,
+            349,
+            690,
+            691,
+            734,
+            735,
+            "totem735"
+        ]
+    },
+    {
+        "id": 78,
+        "id_url": "aftermath",
+        "id_name": "Aftermath",
+        "generation": 4,
+        "has_first": [
+            425,
+            426
+        ],
+        "has_second": [
+            434,
+            435
+        ],
+        "has_hidden": [
+            100,
+            101,
+            568,
+            569,
+            10207,
+            "hisui100",
+            "hisui101"
+        ]
+    },
+    {
+        "id": 79,
+        "id_url": "anger-point",
+        "id_name": "Anger Point",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            56,
+            57,
+            128
+        ],
+        "has_hidden": [
+            323,
+            551,
+            552,
+            553,
+            739,
+            740
+        ]
+    },
+    {
+        "id": 80,
+        "id_url": "anticipation",
+        "id_name": "Anticipation",
+        "generation": 4,
+        "has_first": [
+            413,
+            453,
+            454,
+            "wormadam1",
+            "wormadam2"
+        ],
+        "has_second": [
+            339,
+            340,
+            856,
+            857,
+            858,
+            10221
+        ],
+        "has_hidden": [
+            133,
+            598,
+            "partner133",
+            "galar77",
+            "galar78",
+            10205
+        ]
+    },
+    {
+        "id": 81,
+        "id_url": "bad-dreams",
+        "id_name": "Bad Dreams",
+        "generation": 4,
+        "has_first": [
+            491
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 82,
+        "id_url": "download",
+        "id_name": "Download",
+        "generation": 4,
+        "has_first": [
+            649
+        ],
+        "has_second": [
+            137,
+            233,
+            474
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 83,
+        "id_url": "dry-skin",
+        "id_name": "Dry Skin",
+        "generation": 4,
+        "has_first": [
+            694,
+            695
+        ],
+        "has_second": [
+            46,
+            47,
+            453,
+            454
+        ],
+        "has_hidden": [
+            124
+        ]
+    },
+    {
+        "id": 84,
+        "id_url": "filter",
+        "id_name": "Filter",
+        "generation": 4,
+        "has_first": [
+            "mega306"
+        ],
+        "has_second": [
+            122,
+            439
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 85,
+        "id_url": "flower-gift",
+        "id_name": "Flower Gift",
+        "generation": 4,
+        "has_first": [
+            421
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 86,
+        "id_url": "forewarn",
+        "id_name": "Forewarn",
+        "generation": 4,
+        "has_first": [
+            517,
+            518
+        ],
+        "has_second": [
+            96,
+            97,
+            124,
+            238
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 87,
+        "id_url": "frisk",
+        "id_name": "Frisk",
+        "generation": 4,
+        "has_first": [
+            574,
+            575,
+            576,
+            714,
+            715,
+            "alola103"
+        ],
+        "has_second": [
+            234,
+            353,
+            354,
+            708,
+            709,
+            710,
+            711,
+            826,
+            859,
+            860,
+            861,
+            899,
+            "pumpkaboo1",
+            "pumpkaboo2",
+            "pumpkaboo3",
+            "gourgeist1",
+            "gourgeist2",
+            "gourgeist3",
+            10213,
+            10222
+        ],
+        "has_hidden": [
+            40,
+            161,
+            162,
+            193,
+            355,
+            356,
+            469,
+            477
+        ]
+    },
+    {
+        "id": 88,
+        "id_url": "gluttony",
+        "id_name": "Gluttony",
+        "generation": 4,
+        "has_first": [
+            511,
+            512,
+            513,
+            514,
+            515,
+            516,
+            631,
+            "alola19",
+            "alola20",
+            "totem20",
+            "galar79"
+        ],
+        "has_second": [
+            213,
+            263,
+            264,
+            840,
+            841,
+            842,
+            "alola88",
+            "alola89",
+            "galar263",
+            "galar264",
+            10216,
+            10217
+        ],
+        "has_hidden": [
+            69,
+            70,
+            71,
+            143,
+            316,
+            317,
+            325,
+            326,
+            446,
+            819,
+            820,
+            10206
+        ]
+    },
+    {
+        "id": 89,
+        "id_url": "heatproof",
+        "id_name": "Heatproof",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            436,
+            437,
+            837
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 90,
+        "id_url": "honey-gather",
+        "id_name": "Honey Gather",
+        "generation": 4,
+        "has_first": [
+            415,
+            742,
+            743,
+            "totem743"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            216
+        ]
+    },
+    {
+        "id": 91,
+        "id_url": "hydration",
+        "id_name": "Hydration",
+        "generation": 4,
+        "has_first": [
+            489,
+            490,
+            616,
+            617
+        ],
+        "has_second": [
+            86,
+            87,
+            278,
+            535,
+            536,
+            594,
+            704,
+            705,
+            706
+        ],
+        "has_hidden": [
+            131,
+            134,
+            238,
+            339,
+            340,
+            368,
+            370,
+            580,
+            581,
+            10204
+        ]
+    },
+    {
+        "id": 92,
+        "id_url": "ice-body",
+        "id_name": "Ice Body",
+        "generation": 4,
+        "has_first": [
+            582,
+            583,
+            584
+        ],
+        "has_second": [
+            361,
+            362,
+            363,
+            364,
+            365,
+            712,
+            713,
+            883,
+            "hisui713"
+        ],
+        "has_hidden": [
+            86,
+            87,
+            378,
+            471,
+            866,
+            "galar122"
+        ]
+    },
+    {
+        "id": 93,
+        "id_url": "iron-fist",
+        "id_name": "Iron Fist",
+        "generation": 4,
+        "has_first": [
+            622,
+            623,
+            674,
+            675,
+            809,
+            10208
+        ],
+        "has_second": [
+            107,
+            739,
+            740
+        ],
+        "has_hidden": [
+            166,
+            390,
+            391,
+            392,
+            532,
+            533,
+            534
+        ]
+    },
+    {
+        "id": 94,
+        "id_url": "klutz",
+        "id_name": "Klutz",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            427,
+            428,
+            527,
+            528,
+            622,
+            623,
+            759,
+            760
+        ],
+        "has_hidden": [
+            531,
+            848
+        ]
+    },
+    {
+        "id": 95,
+        "id_url": "leaf-guard",
+        "id_name": "Leaf Guard",
+        "generation": 4,
+        "has_first": [
+            470,
+            541,
+            753,
+            754,
+            761,
+            762,
+            763,
+            893,
+            "totem754",
+            "zarude1"
+        ],
+        "has_second": [
+            114,
+            187,
+            188,
+            189,
+            465
+        ],
+        "has_hidden": [
+            152,
+            153,
+            154,
+            315,
+            406,
+            548,
+            549,
+            "hisui549"
+        ]
+    },
+    {
+        "id": 96,
+        "id_url": "magic-guard",
+        "id_name": "Magic Guard",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            35,
+            36,
+            173,
+            561,
+            577,
+            578,
+            579
+        ],
+        "has_hidden": [
+            63,
+            64,
+            65
+        ]
+    },
+    {
+        "id": 97,
+        "id_url": "mold-breaker",
+        "id_name": "Mold Breaker",
+        "generation": 4,
+        "has_first": [
+            408,
+            409,
+            "mega130",
+            "mega181"
+        ],
+        "has_second": [
+            127,
+            610,
+            611,
+            612,
+            674,
+            675
+        ],
+        "has_hidden": [
+            529,
+            530,
+            538,
+            539,
+            550,
+            621,
+            701,
+            902,
+            "basculin1",
+            "basculin2",
+            "basculegion1"
+        ]
+    },
+    {
+        "id": 98,
+        "id_url": "motor-drive",
+        "id_name": "Motor Drive",
+        "generation": 4,
+        "has_first": [
+            466
+        ],
+        "has_second": [
+            522,
+            523
+        ],
+        "has_hidden": [
+            587
+        ]
+    },
+    {
+        "id": 99,
+        "id_url": "multitype",
+        "id_name": "Multitype",
+        "generation": 4,
+        "has_first": [
+            493
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 100,
+        "id_url": "no-guard",
+        "id_name": "No Guard",
+        "generation": 4,
+        "has_first": [
+            679,
+            680,
+            "mega18"
+        ],
+        "has_second": [
+            66,
+            67,
+            68,
+            10201
+        ],
+        "has_hidden": [
+            588,
+            622,
+            623,
+            "lycanroc2"
+        ]
+    },
+    {
+        "id": 101,
+        "id_url": "normalize",
+        "id_name": "Normalize",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            300,
+            301
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 102,
+        "id_url": "poison-heal",
+        "id_name": "Poison Heal",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            285,
+            286
+        ],
+        "has_hidden": [
+            472
+        ]
+    },
+    {
+        "id": 103,
+        "id_url": "quick-feet",
+        "id_name": "Quick Feet",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            210,
+            216,
+            217,
+            261,
+            262
+        ],
+        "has_hidden": [
+            135,
+            263,
+            264,
+            285,
+            "galar263",
+            "galar264"
+        ]
+    },
+    {
+        "id": 104,
+        "id_url": "reckless",
+        "id_name": "Reckless",
+        "generation": 4,
+        "has_first": [
+            550,
+            626,
+            862
+        ],
+        "has_second": [
+            106
+        ],
+        "has_hidden": [
+            111,
+            112,
+            396,
+            397,
+            398,
+            464,
+            500,
+            619,
+            620
+        ]
+    },
+    {
+        "id": 105,
+        "id_url": "rivalry",
+        "id_name": "Rivalry",
+        "generation": 4,
+        "has_first": [
+            403,
+            404,
+            405,
+            610,
+            611,
+            612,
+            667,
+            668
+        ],
+        "has_second": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+        ],
+        "has_hidden": [
+            267,
+            519,
+            520,
+            521
+        ]
+    },
+    {
+        "id": 106,
+        "id_url": "scrappy",
+        "id_name": "Scrappy",
+        "generation": 4,
+        "has_first": [
+            "mega428"
+        ],
+        "has_second": [
+            115,
+            241
+        ],
+        "has_hidden": [
+            276,
+            277,
+            294,
+            295,
+            507,
+            508,
+            674,
+            675,
+            865,
+            "galar83"
+        ]
+    },
+    {
+        "id": 107,
+        "id_url": "simple",
+        "id_name": "Simple",
+        "generation": 4,
+        "has_first": [
+            399,
+            4
+        ],
+        "has_second": [
+            322
+        ],
+        "has_hidden": [
+            527,
+            528
+        ]
+    },
+    {
+        "id": 108,
+        "id_url": "skill-link",
+        "id_name": "Skill Link",
+        "generation": 4,
+        "has_first": [
+            "mega214"
+        ],
+        "has_second": [
+            90,
+            91,
+            731,
+            732,
+            733
+        ],
+        "has_hidden": [
+            190,
+            424,
+            572,
+            573
+        ]
+    },
+    {
+        "id": 109,
+        "id_url": "slow-start",
+        "id_name": "Slow Start",
+        "generation": 4,
+        "has_first": [
+            486
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 110,
+        "id_url": "sniper",
+        "id_name": "Sniper",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            116,
+            117,
+            223,
+            224,
+            230,
+            451,
+            452,
+            688,
+            689
+        ],
+        "has_hidden": [
+            15,
+            21,
+            22,
+            167,
+            168,
+            816,
+            817,
+            818,
+            10211
+        ]
+    },
+    {
+        "id": 111,
+        "id_url": "snow-cloak",
+        "id_name": "Snow Cloak",
+        "generation": 4,
+        "has_first": [
+            471,
+            478,
+            613,
+            614,
+            "alola27",
+            "alola28",
+            "alola37",
+            "alola38"
+        ],
+        "has_second": [
+            220,
+            221,
+            473,
+            582,
+            583
+        ],
+        "has_hidden": [
+            144
+        ]
+    },
+    {
+        "id": 112,
+        "id_url": "snow-warning",
+        "id_name": "Snow Warning",
+        "generation": 4,
+        "has_first": [
+            459,
+            460,
+            "mega460"
+        ],
+        "has_second": [
+            584
+        ],
+        "has_hidden": [
+            698,
+            699,
+            "alola37",
+            "alola38"
+        ]
+    },
+    {
+        "id": 113,
+        "id_url": "solar-power",
+        "id_name": "Solar Power",
+        "generation": 4,
+        "has_first": [
+            "mega229"
+        ],
+        "has_second": [
+            191,
+            192,
+            357
+        ],
+        "has_hidden": [
+            4,
+            5,
+            6,
+            694,
+            695,
+            10196
+        ]
+    },
+    {
+        "id": 114,
+        "id_url": "solid-rock",
+        "id_name": "Solid Rock",
+        "generation": 4,
+        "has_first": [
+            564,
+            565
+        ],
+        "has_second": [
+            323,
+            464
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 115,
+        "id_url": "stall",
+        "id_name": "Stall",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            302
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 116,
+        "id_url": "steadfast",
+        "id_name": "Steadfast",
+        "generation": 4,
+        "has_first": [
+            447,
+            448,
+            475,
+            865,
+            "mega-x150",
+            "galar83"
+        ],
+        "has_second": [
+            236,
+            832
+        ],
+        "has_hidden": [
+            66,
+            67,
+            68,
+            123,
+            237,
+            744,
+            745,
+            900,
+            10201
+        ]
+    },
+    {
+        "id": 117,
+        "id_url": "storm-drain",
+        "id_name": "Storm Drain",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            422,
+            423,
+            456,
+            457
+        ],
+        "has_hidden": [
+            345,
+            346,
+            556
+        ]
+    },
+    {
+        "id": 118,
+        "id_url": "super-luck",
+        "id_name": "Super Luck",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            198,
+            359,
+            430,
+            519,
+            520,
+            521
+        ],
+        "has_hidden": [
+            175,
+            176,
+            468
+        ]
+    },
+    {
+        "id": 119,
+        "id_url": "tangled-feet",
+        "id_name": "Tangled Feet",
+        "generation": 4,
+        "has_first": [
+            866
+        ],
+        "has_second": [
+            16,
+            17,
+            18,
+            327,
+            441
+        ],
+        "has_hidden": [
+            84,
+            85
+        ]
+    },
+    {
+        "id": 120,
+        "id_url": "technician",
+        "id_name": "Technician",
+        "generation": 4,
+        "has_first": [
+            424,
+            802,
+            "mega212"
+        ],
+        "has_second": [
+            52,
+            53,
+            123,
+            212,
+            235,
+            237,
+            572,
+            573,
+            "alola52",
+            "alola53",
+            10200
+        ],
+        "has_hidden": [
+            122,
+            286,
+            402,
+            407,
+            439,
+            849,
+            852,
+            853,
+            "toxtricity2",
+            10219,
+            10228
+        ]
+    },
+    {
+        "id": 121,
+        "id_url": "tinted-lens",
+        "id_name": "Tinted Lens",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            48,
+            49,
+            314,
+            469
+        ],
+        "has_hidden": [
+            12,
+            163,
+            164,
+            414,
+            561,
+            10198
+        ]
+    },
+    {
+        "id": 122,
+        "id_url": "unaware",
+        "id_name": "Unaware",
+        "generation": 4,
+        "has_first": [
+            527,
+            528,
+            789
+        ],
+        "has_second": [
+            399,
+            4
+        ],
+        "has_hidden": [
+            36,
+            194,
+            195,
+            771
+        ]
+    },
+    {
+        "id": 123,
+        "id_url": "unburden",
+        "id_name": "Unburden",
+        "generation": 4,
+        "has_first": [],
+        "has_second": [
+            425,
+            426,
+            509,
+            510,
+            701,
+            827,
+            828
+        ],
+        "has_hidden": [
+            106,
+            252,
+            253,
+            254,
+            617,
+            684,
+            685
+        ]
+    },
+    {
+        "id": 124,
+        "id_url": "analytic",
+        "id_name": "Analytic",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            81,
+            82,
+            120,
+            121,
+            137,
+            233,
+            462,
+            474,
+            504,
+            505,
+            605,
+            606
+        ]
+    },
+    {
+        "id": 125,
+        "id_url": "big-pecks",
+        "id_name": "Big Pecks",
+        "generation": 5,
+        "has_first": [
+            519,
+            520,
+            521,
+            629,
+            630,
+            661
+        ],
+        "has_second": [
+            580,
+            581
+        ],
+        "has_hidden": [
+            16,
+            17,
+            18,
+            441,
+            821,
+            822
+        ]
+    },
+    {
+        "id": 126,
+        "id_url": "contrary",
+        "id_name": "Contrary",
+        "generation": 5,
+        "has_first": [
+            686,
+            687
+        ],
+        "has_second": [],
+        "has_hidden": [
+            213,
+            327,
+            495,
+            496,
+            497,
+            753,
+            754,
+            905,
+            "totem754"
+        ]
+    },
+    {
+        "id": 127,
+        "id_url": "cursed-body",
+        "id_name": "Cursed Body",
+        "generation": 5,
+        "has_first": [
+            94,
+            "alola105",
+            "totem105",
+            10202
+        ],
+        "has_second": [
+            592,
+            593
+        ],
+        "has_hidden": [
+            353,
+            354,
+            478,
+            854,
+            855,
+            885,
+            886,
+            887,
+            "galar222"
+        ]
+    },
+    {
+        "id": 128,
+        "id_url": "defeatist",
+        "id_name": "Defeatist",
+        "generation": 5,
+        "has_first": [
+            566,
+            567
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 129,
+        "id_url": "defiant",
+        "id_name": "Defiant",
+        "generation": 5,
+        "has_first": [
+            624,
+            625,
+            "galar145"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            56,
+            57,
+            83,
+            393,
+            394,
+            395,
+            432,
+            628,
+            641,
+            642,
+            766,
+            862,
+            870,
+            "hisui628"
+        ]
+    },
+    {
+        "id": 130,
+        "id_url": "flare-boost",
+        "id_name": "Flare Boost",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            425,
+            426
+        ]
+    },
+    {
+        "id": 131,
+        "id_url": "friend-guard",
+        "id_name": "Friend Guard",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            35,
+            39,
+            173,
+            174,
+            440,
+            664,
+            665,
+            666
+        ]
+    },
+    {
+        "id": 132,
+        "id_url": "harvest",
+        "id_name": "Harvest",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            102,
+            103,
+            357,
+            708,
+            709,
+            "alola103"
+        ]
+    },
+    {
+        "id": 133,
+        "id_url": "healer",
+        "id_name": "Healer",
+        "generation": 5,
+        "has_first": [
+            531,
+            594,
+            682,
+            683,
+            856,
+            857,
+            858,
+            905,
+            "mega531",
+            10221
+        ],
+        "has_second": [],
+        "has_hidden": [
+            113,
+            182,
+            242
+        ]
+    },
+    {
+        "id": 134,
+        "id_url": "heavy-metal",
+        "id_name": "Heavy Metal",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [
+            884,
+            10225
+        ],
+        "has_hidden": [
+            304,
+            305,
+            306,
+            436,
+            437,
+            878,
+            879,
+            10224
+        ]
+    },
+    {
+        "id": 135,
+        "id_url": "illusion",
+        "id_name": "Illusion",
+        "generation": 5,
+        "has_first": [
+            570,
+            571,
+            "hisui570",
+            "hisui571"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 136,
+        "id_url": "imposter",
+        "id_name": "Imposter",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            132
+        ]
+    },
+    {
+        "id": 137,
+        "id_url": "infiltrator",
+        "id_name": "Infiltrator",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [
+            546,
+            547,
+            677,
+            678,
+            714,
+            715,
+            885,
+            886,
+            887,
+            "meowstic1"
+        ],
+        "has_hidden": [
+            41,
+            42,
+            169,
+            187,
+            188,
+            189,
+            291,
+            336,
+            442,
+            607,
+            608,
+            609,
+            686,
+            687
+        ]
+    },
+    {
+        "id": 138,
+        "id_url": "iron-barbs",
+        "id_name": "Iron Barbs",
+        "generation": 5,
+        "has_first": [
+            597,
+            598,
+            777,
+            "totem777"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 139,
+        "id_url": "justified",
+        "id_name": "Justified",
+        "generation": 5,
+        "has_first": [
+            638,
+            639,
+            640,
+            647,
+            "keldeo1"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            58,
+            59,
+            359,
+            448,
+            475,
+            "hisui58",
+            "hisui59"
+        ]
+    },
+    {
+        "id": 140,
+        "id_url": "light-metal",
+        "id_name": "Light Metal",
+        "generation": 5,
+        "has_first": [
+            884,
+            10225
+        ],
+        "has_second": [],
+        "has_hidden": [
+            212,
+            374,
+            375,
+            376,
+            379
+        ]
+    },
+    {
+        "id": 141,
+        "id_url": "magic-bounce",
+        "id_name": "Magic Bounce",
+        "generation": 5,
+        "has_first": [
+            "mega359",
+            "mega302",
+            "mega719"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            177,
+            178,
+            196,
+            856,
+            857,
+            858,
+            10221
+        ]
+    },
+    {
+        "id": 142,
+        "id_url": "moody",
+        "id_name": "Moody",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            223,
+            224,
+            235,
+            361,
+            362,
+            399,
+            400
+        ]
+    },
+    {
+        "id": 143,
+        "id_url": "moxie",
+        "id_name": "Moxie",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [
+            551,
+            552,
+            553,
+            559,
+            560
+        ],
+        "has_hidden": [
+            127,
+            130,
+            214,
+            262,
+            373,
+            430,
+            667,
+            668
+        ]
+    },
+    {
+        "id": 144,
+        "id_url": "multiscale",
+        "id_name": "Multiscale",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            149,
+            249
+        ]
+    },
+    {
+        "id": 145,
+        "id_url": "mummy",
+        "id_name": "Mummy",
+        "generation": 5,
+        "has_first": [
+            562,
+            563
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 146,
+        "id_url": "overcoat",
+        "id_name": "Overcoat",
+        "generation": 5,
+        "has_first": [
+            577,
+            578,
+            579,
+            "therian905"
+        ],
+        "has_second": [
+            629,
+            630,
+            "hisui705",
+            "hisui706"
+        ],
+        "has_hidden": [
+            90,
+            91,
+            204,
+            205,
+            372,
+            412,
+            413,
+            540,
+            541,
+            542,
+            589,
+            616,
+            782,
+            783,
+            784,
+            "wormadam1",
+            "wormadam2",
+            "totem784"
+        ]
+    },
+    {
+        "id": 147,
+        "id_url": "pickpocket",
+        "id_name": "Pickpocket",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            215,
+            273,
+            274,
+            275,
+            461,
+            688,
+            689,
+            859,
+            860,
+            861,
+            10222
+        ]
+    },
+    {
+        "id": 148,
+        "id_url": "poison-touch",
+        "id_name": "Poison Touch",
+        "generation": 5,
+        "has_first": [
+            "alola88",
+            "alola89"
+        ],
+        "has_second": [
+            537,
+            690,
+            691
+        ],
+        "has_hidden": [
+            88,
+            89,
+            453,
+            454,
+            903,
+            "hisui215"
+        ]
+    },
+    {
+        "id": 149,
+        "id_url": "prankster",
+        "id_name": "Prankster",
+        "generation": 5,
+        "has_first": [
+            546,
+            547,
+            641,
+            642,
+            707,
+            859,
+            860,
+            861,
+            "mega354",
+            10222
+        ],
+        "has_second": [],
+        "has_hidden": [
+            198,
+            302,
+            313,
+            314,
+            447,
+            509,
+            510,
+            678
+        ]
+    },
+    {
+        "id": 150,
+        "id_url": "rattled",
+        "id_name": "Rattled",
+        "generation": 5,
+        "has_first": [
+            848,
+            902,
+            "basculin2",
+            "basculegion1"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            129,
+            165,
+            185,
+            206,
+            209,
+            210,
+            261,
+            293,
+            366,
+            438,
+            613,
+            835,
+            "alola52",
+            "alola53"
+        ]
+    },
+    {
+        "id": 151,
+        "id_url": "regenerator",
+        "id_name": "Regenerator",
+        "generation": 5,
+        "has_first": [
+            "therian641"
+        ],
+        "has_second": [
+            531,
+            619,
+            620,
+            829,
+            830
+        ],
+        "has_hidden": [
+            79,
+            80,
+            114,
+            199,
+            222,
+            250,
+            465,
+            577,
+            578,
+            579,
+            590,
+            591,
+            594,
+            747,
+            748,
+            "galar79",
+            "galar80",
+            "galar199"
+        ]
+    },
+    {
+        "id": 152,
+        "id_url": "sand-force",
+        "id_name": "Sand Force",
+        "generation": 5,
+        "has_first": [
+            645,
+            "mega445",
+            "mega208"
+        ],
+        "has_second": [
+            529,
+            53
+        ],
+        "has_hidden": [
+            50,
+            51,
+            299,
+            422,
+            423,
+            449,
+            450,
+            476,
+            524,
+            525,
+            526,
+            "alola50",
+            "alola51"
+        ]
+    },
+    {
+        "id": 153,
+        "id_url": "sand-rush",
+        "id_name": "Sand Rush",
+        "generation": 5,
+        "has_first": [
+            529,
+            53
+        ],
+        "has_second": [
+            507,
+            508,
+            745
+        ],
+        "has_hidden": [
+            27,
+            28,
+            880,
+            882
+        ]
+    },
+    {
+        "id": 154,
+        "id_url": "sap-sipper",
+        "id_name": "Sap Sipper",
+        "generation": 5,
+        "has_first": [
+            672,
+            673,
+            704,
+            705,
+            706,
+            "hisui705",
+            "hisui706"
+        ],
+        "has_second": [
+            585,
+            586,
+            626,
+            780
+        ],
+        "has_hidden": [
+            183,
+            184,
+            203,
+            234,
+            241,
+            298,
+            522,
+            523,
+            899
+        ]
+    },
+    {
+        "id": 155,
+        "id_url": "sheer-force",
+        "id_name": "Sheer Force",
+        "generation": 5,
+        "has_first": [
+            555,
+            878,
+            879,
+            "zen1",
+            "mega323",
+            10224
+        ],
+        "has_second": [
+            532,
+            533,
+            534,
+            621,
+            627,
+            628,
+            900,
+            "hisui628"
+        ],
+        "has_hidden": [
+            31,
+            34,
+            98,
+            99,
+            128,
+            158,
+            159,
+            160,
+            208,
+            296,
+            297,
+            303,
+            328,
+            371,
+            408,
+            409,
+            645,
+            733,
+            10203
+        ]
+    },
+    {
+        "id": 156,
+        "id_url": "telepathy",
+        "id_name": "Telepathy",
+        "generation": 5,
+        "has_first": [
+            605,
+            606
+        ],
+        "has_second": [
+            765
+        ],
+        "has_hidden": [
+            202,
+            280,
+            281,
+            282,
+            307,
+            308,
+            360,
+            483,
+            484,
+            487,
+            517,
+            518,
+            714,
+            715,
+            785,
+            786,
+            787,
+            788,
+            824,
+            825,
+            826,
+            10213,
+            "origin483",
+            "origin484"
+        ]
+    },
+    {
+        "id": 157,
+        "id_url": "teravolt",
+        "id_name": "Teravolt",
+        "generation": 5,
+        "has_first": [
+            644,
+            "kyurem1"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 158,
+        "id_url": "toxic-boost",
+        "id_name": "Toxic Boost",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            335
+        ]
+    },
+    {
+        "id": 159,
+        "id_url": "turboblaze",
+        "id_name": "Turboblaze",
+        "generation": 5,
+        "has_first": [
+            643,
+            "kyurem2"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 160,
+        "id_url": "unnerve",
+        "id_name": "Unnerve",
+        "generation": 5,
+        "has_first": [
+            898
+        ],
+        "has_second": [
+            595,
+            596,
+            667,
+            668,
+            821,
+            822,
+            823,
+            10212
+        ],
+        "has_hidden": [
+            23,
+            24,
+            52,
+            53,
+            142,
+            150,
+            217,
+            228,
+            229,
+            248,
+            284,
+            416,
+            610,
+            611,
+            612,
+            760,
+            "galar52",
+            10200
+        ]
+    },
+    {
+        "id": 161,
+        "id_url": "victory-star",
+        "id_name": "Victory Star",
+        "generation": 5,
+        "has_first": [
+            494
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 162,
+        "id_url": "weak-armor",
+        "id_name": "Weak Armor",
+        "generation": 5,
+        "has_first": [
+            854,
+            855,
+            864,
+            "galar222"
+        ],
+        "has_second": [
+            524,
+            525,
+            569,
+            10207
+        ],
+        "has_hidden": [
+            95,
+            138,
+            139,
+            140,
+            141,
+            218,
+            219,
+            227,
+            557,
+            558,
+            582,
+            583,
+            584,
+            629,
+            630
+        ]
+    },
+    {
+        "id": 163,
+        "id_url": "wonder-skin",
+        "id_name": "Wonder Skin",
+        "generation": 5,
+        "has_first": [
+            561
+        ],
+        "has_second": [],
+        "has_hidden": [
+            49,
+            300,
+            301,
+            779
+        ]
+    },
+    {
+        "id": 164,
+        "id_url": "zen-mode",
+        "id_name": "Zen Mode",
+        "generation": 5,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            555,
+            "zen1",
+            "galar555",
+            "zen2"
+        ]
+    },
+    {
+        "id": 165,
+        "id_url": "aerilate",
+        "id_name": "Aerilate",
+        "generation": 6,
+        "has_first": [
+            "mega127",
+            "mega373"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 166,
+        "id_url": "aroma-veil",
+        "id_name": "Aroma Veil",
+        "generation": 6,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            682,
+            683,
+            868,
+            869,
+            10223
+        ]
+    },
+    {
+        "id": 167,
+        "id_url": "aura-break",
+        "id_name": "Aura Break",
+        "generation": 6,
+        "has_first": [
+            718,
+            "zygarde1"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 168,
+        "id_url": "bulletproof",
+        "id_name": "Bulletproof",
+        "generation": 6,
+        "has_first": [
+            782,
+            783,
+            784,
+            "totem784"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            650,
+            651,
+            652,
+            831,
+            832,
+            840
+        ]
+    },
+    {
+        "id": 169,
+        "id_url": "cheek-pouch",
+        "id_name": "Cheek Pouch",
+        "generation": 6,
+        "has_first": [
+            702,
+            819,
+            820
+        ],
+        "has_second": [
+            659,
+            66
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 170,
+        "id_url": "competitive",
+        "id_name": "Competitive",
+        "generation": 6,
+        "has_first": [
+            "galar144"
+        ],
+        "has_second": [
+            39,
+            40,
+            174,
+            350,
+            574,
+            575,
+            576
+        ],
+        "has_hidden": [
+            836,
+            "meowstic1"
+        ]
+    },
+    {
+        "id": 171,
+        "id_url": "dark-aura",
+        "id_name": "Dark Aura",
+        "generation": 6,
+        "has_first": [
+            717
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 172,
+        "id_url": "delta-stream",
+        "id_name": "Delta Stream",
+        "generation": 6,
+        "has_first": [
+            "mega384"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 173,
+        "id_url": "desolate-land",
+        "id_name": "Desolate Land",
+        "generation": 6,
+        "has_first": [
+            "primal383"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 174,
+        "id_url": "fairy-aura",
+        "id_name": "Fairy Aura",
+        "generation": 6,
+        "has_first": [
+            716
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 175,
+        "id_url": "flower-veil",
+        "id_name": "Flower Veil",
+        "generation": 6,
+        "has_first": [
+            669,
+            670,
+            671,
+            764,
+            "floette1"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 176,
+        "id_url": "fur-coat",
+        "id_name": "Fur Coat",
+        "generation": 6,
+        "has_first": [
+            676,
+            "alola53"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 177,
+        "id_url": "gale-wings",
+        "id_name": "Gale Wings",
+        "generation": 6,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            661,
+            662,
+            663
+        ]
+    },
+    {
+        "id": 178,
+        "id_url": "gooey",
+        "id_name": "Gooey",
+        "generation": 6,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            704,
+            705,
+            706,
+            "hisui705",
+            "hisui706"
+        ]
+    },
+    {
+        "id": 179,
+        "id_url": "grass-pelt",
+        "id_name": "Grass Pelt",
+        "generation": 6,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            672,
+            673
+        ]
+    },
+    {
+        "id": 180,
+        "id_url": "magician",
+        "id_name": "Magician",
+        "generation": 6,
+        "has_first": [
+            720,
+            "hoopa1"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            653,
+            654,
+            655,
+            707
+        ]
+    },
+    {
+        "id": 181,
+        "id_url": "mega-launcher",
+        "id_name": "Mega Launcher",
+        "generation": 6,
+        "has_first": [
+            692,
+            693,
+            "mega9"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 182,
+        "id_url": "parental-bond",
+        "id_name": "Parental Bond",
+        "generation": 6,
+        "has_first": [
+            "mega115"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 183,
+        "id_url": "pixilate",
+        "id_name": "Pixilate",
+        "generation": 6,
+        "has_first": [
+            "mega282",
+            "mega334"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            700
+        ]
+    },
+    {
+        "id": 184,
+        "id_url": "primordial-sea",
+        "id_name": "Primordial Sea",
+        "generation": 6,
+        "has_first": [
+            "primal382"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 185,
+        "id_url": "protean",
+        "id_name": "Protean",
+        "generation": 6,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            352,
+            656,
+            657,
+            658
+        ]
+    },
+    {
+        "id": 186,
+        "id_url": "refrigerate",
+        "id_name": "Refrigerate",
+        "generation": 6,
+        "has_first": [
+            698,
+            699,
+            "mega362"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 187,
+        "id_url": "stance-change",
+        "id_name": "Stance Change",
+        "generation": 6,
+        "has_first": [
+            681,
+            "aegislash1"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 188,
+        "id_url": "strong-jaw",
+        "id_name": "Strong Jaw",
+        "generation": 6,
+        "has_first": [
+            696,
+            697,
+            833,
+            834,
+            836,
+            "mega319",
+            10214,
+            "hisui713"
+        ],
+        "has_second": [
+            734,
+            735,
+            779,
+            882,
+            "totem735"
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 189,
+        "id_url": "sweet-veil",
+        "id_name": "Sweet Veil",
+        "generation": 6,
+        "has_first": [
+            684,
+            685,
+            868,
+            869,
+            10223
+        ],
+        "has_second": [],
+        "has_hidden": [
+            742,
+            743,
+            761,
+            762,
+            763,
+            "totem743"
+        ]
+    },
+    {
+        "id": 190,
+        "id_url": "symbiosis",
+        "id_name": "Symbiosis",
+        "generation": 6,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            669,
+            670,
+            671,
+            765,
+            "floette1"
+        ]
+    },
+    {
+        "id": 191,
+        "id_url": "tough-claws",
+        "id_name": "Tough Claws",
+        "generation": 6,
+        "has_first": [
+            688,
+            689,
+            "mega-x6",
+            "mega142",
+            "mega376",
+            "lycanroc3",
+            "mega-x6"
+        ],
+        "has_second": [
+            863,
+            "galar52"
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 192,
+        "id_url": "battery",
+        "id_name": "Battery",
+        "generation": 7,
+        "has_first": [
+            737
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 193,
+        "id_url": "battle-bond",
+        "id_name": "Battle Bond",
+        "generation": 7,
+        "has_first": [
+            "greninja2",
+            "greninja1"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 194,
+        "id_url": "beast-boost",
+        "id_name": "Beast Boost",
+        "generation": 7,
+        "has_first": [
+            793,
+            794,
+            795,
+            796,
+            797,
+            798,
+            799,
+            803,
+            804,
+            805,
+            806
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 195,
+        "id_url": "berserk",
+        "id_name": "Berserk",
+        "generation": 7,
+        "has_first": [
+            780,
+            "galar146"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 196,
+        "id_url": "comatose",
+        "id_name": "Comatose",
+        "generation": 7,
+        "has_first": [
+            775
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 197,
+        "id_url": "corrosion",
+        "id_name": "Corrosion",
+        "generation": 7,
+        "has_first": [
+            757,
+            758,
+            "totem758"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 198,
+        "id_url": "dancer",
+        "id_name": "Dancer",
+        "generation": 7,
+        "has_first": [
+            741,
+            "oricorio2",
+            "oricorio3",
+            "oricorio4"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 199,
+        "id_url": "dazzling",
+        "id_name": "Dazzling",
+        "generation": 7,
+        "has_first": [
+            779
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 200,
+        "id_url": "disguise",
+        "id_name": "Disguise",
+        "generation": 7,
+        "has_first": [
+            778,
+            "mimikyu-busted",
+            "totem778",
+            "totem778-busted"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 201,
+        "id_url": "electric-surge",
+        "id_name": "Electric Surge",
+        "generation": 7,
+        "has_first": [
+            785
+        ],
+        "has_second": [],
+        "has_hidden": [
+            871
+        ]
+    },
+    {
+        "id": 202,
+        "id_url": "emergency-exit",
+        "id_name": "Emergency Exit",
+        "generation": 7,
+        "has_first": [
+            768
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 203,
+        "id_url": "fluffy",
+        "id_name": "Fluffy",
+        "generation": 7,
+        "has_first": [
+            759,
+            760,
+            831,
+            832
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 204,
+        "id_url": "full-metal-body",
+        "id_name": "Full Metal Body",
+        "generation": 7,
+        "has_first": [
+            791
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 205,
+        "id_url": "galvanize",
+        "id_name": "Galvanize",
+        "generation": 7,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            "alola74",
+            "alola75",
+            "alola76"
+        ]
+    },
+    {
+        "id": 206,
+        "id_url": "grassy-surge",
+        "id_name": "Grassy Surge",
+        "generation": 7,
+        "has_first": [
+            787
+        ],
+        "has_second": [],
+        "has_hidden": [
+            810,
+            811,
+            812,
+            10209
+        ]
+    },
+    {
+        "id": 207,
+        "id_url": "innards-out",
+        "id_name": "Innards Out",
+        "generation": 7,
+        "has_first": [
+            771
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 208,
+        "id_url": "liquid-voice",
+        "id_name": "Liquid Voice",
+        "generation": 7,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            728,
+            729,
+            730
+        ]
+    },
+    {
+        "id": 209,
+        "id_url": "long-reach",
+        "id_name": "Long Reach",
+        "generation": 7,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            722,
+            723,
+            724,
+            "hisui724"
+        ]
+    },
+    {
+        "id": 210,
+        "id_url": "merciless",
+        "id_name": "Merciless",
+        "generation": 7,
+        "has_first": [
+            747,
+            748
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 211,
+        "id_url": "misty-surge",
+        "id_name": "Misty Surge",
+        "generation": 7,
+        "has_first": [
+            788
+        ],
+        "has_second": [],
+        "has_hidden": [
+            "galar110"
+        ]
+    },
+    {
+        "id": 212,
+        "id_url": "neuroforce",
+        "id_name": "Neuroforce",
+        "generation": 7,
+        "has_first": [
+            "necrozma3"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 213,
+        "id_url": "power-construct",
+        "id_name": "Power Construct",
+        "generation": 7,
+        "has_first": [
+            "zygarde1",
+            "zygarde3",
+            "zygarde2"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 214,
+        "id_url": "power-of-alchemy",
+        "id_name": "Power of Alchemy",
+        "generation": 7,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            "alola88",
+            "alola89"
+        ]
+    },
+    {
+        "id": 215,
+        "id_url": "prism-armor",
+        "id_name": "Prism Armor",
+        "generation": 7,
+        "has_first": [
+            800,
+            "necrozma1",
+            "necrozma2"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 216,
+        "id_url": "psychic-surge",
+        "id_name": "Psychic Surge",
+        "generation": 7,
+        "has_first": [
+            786
+        ],
+        "has_second": [],
+        "has_hidden": [
+            876,
+            "indeedee2"
+        ]
+    },
+    {
+        "id": 217,
+        "id_url": "queenly-majesty",
+        "id_name": "Queenly Majesty",
+        "generation": 7,
+        "has_first": [],
+        "has_second": [
+            763
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 218,
+        "id_url": "receiver",
+        "id_name": "Receiver",
+        "generation": 7,
+        "has_first": [
+            766
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 219,
+        "id_url": "rks-system",
+        "id_name": "RKS System",
+        "generation": 7,
+        "has_first": [
+            773
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 220,
+        "id_url": "schooling",
+        "id_name": "Schooling",
+        "generation": 7,
+        "has_first": [
+            746,
+            "wishiwashi1"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 221,
+        "id_url": "shadow-shield",
+        "id_name": "Shadow Shield",
+        "generation": 7,
+        "has_first": [
+            792
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 222,
+        "id_url": "shields-down",
+        "id_name": "Shields Down",
+        "generation": 7,
+        "has_first": [
+            774,
+            "minior-orange",
+            "minior-yellow",
+            10132,
+            10133,
+            10134,
+            10135,
+            10136,
+            10137,
+            10138,
+            10139,
+            10140,
+            10141,
+            10142
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 223,
+        "id_url": "slush-rush",
+        "id_name": "Slush Rush",
+        "generation": 7,
+        "has_first": [],
+        "has_second": [
+            613,
+            614
+        ],
+        "has_hidden": [
+            881,
+            883,
+            "alola27",
+            "alola28"
+        ]
+    },
+    {
+        "id": 224,
+        "id_url": "soul-heart",
+        "id_name": "Soul-Heart",
+        "generation": 7,
+        "has_first": [
+            801,
+            "magearna1"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 225,
+        "id_url": "stakeout",
+        "id_name": "Stakeout",
+        "generation": 7,
+        "has_first": [
+            734,
+            735,
+            "totem735"
+        ],
+        "has_second": [],
+        "has_hidden": [
+            827,
+            828
+        ]
+    },
+    {
+        "id": 226,
+        "id_url": "stamina",
+        "id_name": "Stamina",
+        "generation": 7,
+        "has_first": [],
+        "has_second": [
+            749,
+            75
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 227,
+        "id_url": "steelworker",
+        "id_name": "Steelworker",
+        "generation": 7,
+        "has_first": [
+            781
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 228,
+        "id_url": "surge-surfer",
+        "id_name": "Surge Surfer",
+        "generation": 7,
+        "has_first": [
+            "alola26"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 229,
+        "id_url": "tangling-hair",
+        "id_name": "Tangling Hair",
+        "generation": 7,
+        "has_first": [],
+        "has_second": [
+            "alola50",
+            "alola51"
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 230,
+        "id_url": "triage",
+        "id_name": "Triage",
+        "generation": 7,
+        "has_first": [],
+        "has_second": [
+            764
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 231,
+        "id_url": "water-bubble",
+        "id_name": "Water Bubble",
+        "generation": 7,
+        "has_first": [
+            751,
+            752,
+            "totem752"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 232,
+        "id_url": "water-compaction",
+        "id_name": "Water Compaction",
+        "generation": 7,
+        "has_first": [
+            769,
+            77
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 233,
+        "id_url": "wimp-out",
+        "id_name": "Wimp Out",
+        "generation": 7,
+        "has_first": [
+            767
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 234,
+        "id_url": "as-one-glastrier",
+        "id_name": "As One",
+        "generation": 8,
+        "has_first": [
+            "calyrex1"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 235,
+        "id_url": "as-one-spectrier",
+        "id_name": "As One",
+        "generation": 8,
+        "has_first": [
+            "calyrex2"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 236,
+        "id_url": "ball-fetch",
+        "id_name": "Ball Fetch",
+        "generation": 8,
+        "has_first": [
+            835
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 237,
+        "id_url": "chilling-neigh",
+        "id_name": "Chilling Neigh",
+        "generation": 8,
+        "has_first": [
+            896
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 238,
+        "id_url": "cotton-down",
+        "id_name": "Cotton Down",
+        "generation": 8,
+        "has_first": [
+            829,
+            83
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 239,
+        "id_url": "curious-medicine",
+        "id_name": "Curious Medicine",
+        "generation": 8,
+        "has_first": [
+            "galar199"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 240,
+        "id_url": "dauntless-shield",
+        "id_name": "Dauntless Shield",
+        "generation": 8,
+        "has_first": [
+            889,
+            "crowned889"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 241,
+        "id_url": "dragons-maw",
+        "id_name": "Dragon’s Maw",
+        "generation": 8,
+        "has_first": [
+            895
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 242,
+        "id_url": "gorilla-tactics",
+        "id_name": "Gorilla Tactics",
+        "generation": 8,
+        "has_first": [
+            "galar555",
+            "zen2"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 243,
+        "id_url": "grim-neigh",
+        "id_name": "Grim Neigh",
+        "generation": 8,
+        "has_first": [
+            897
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 244,
+        "id_url": "gulp-missile",
+        "id_name": "Gulp Missile",
+        "generation": 8,
+        "has_first": [
+            845,
+            "cramorant1",
+            "cramorant2"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 245,
+        "id_url": "hunger-switch",
+        "id_name": "Hunger Switch",
+        "generation": 8,
+        "has_first": [
+            877,
+            "morpeko1"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 246,
+        "id_url": "ice-face",
+        "id_name": "Ice Face",
+        "generation": 8,
+        "has_first": [
+            875,
+            "eiscue2"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 247,
+        "id_url": "ice-scales",
+        "id_name": "Ice Scales",
+        "generation": 8,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            872,
+            873
+        ]
+    },
+    {
+        "id": 248,
+        "id_url": "intrepid-sword",
+        "id_name": "Intrepid Sword",
+        "generation": 8,
+        "has_first": [
+            888,
+            "crowned888"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 249,
+        "id_url": "libero",
+        "id_name": "Libero",
+        "generation": 8,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            813,
+            814,
+            815,
+            10210
+        ]
+    },
+    {
+        "id": 250,
+        "id_url": "mimicry",
+        "id_name": "Mimicry",
+        "generation": 8,
+        "has_first": [
+            "galar618"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 251,
+        "id_url": "mirror-armor",
+        "id_name": "Mirror Armor",
+        "generation": 8,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            823,
+            10212
+        ]
+    },
+    {
+        "id": 252,
+        "id_url": "neutralizing-gas",
+        "id_name": "Neutralizing Gas",
+        "generation": 8,
+        "has_first": [],
+        "has_second": [
+            109,
+            110,
+            "galar110"
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 253,
+        "id_url": "pastel-veil",
+        "id_name": "Pastel Veil",
+        "generation": 8,
+        "has_first": [],
+        "has_second": [
+            "galar77",
+            "galar78"
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 254,
+        "id_url": "perish-body",
+        "id_name": "Perish Body",
+        "generation": 8,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            864
+        ]
+    },
+    {
+        "id": 255,
+        "id_url": "power-spot",
+        "id_name": "Power Spot",
+        "generation": 8,
+        "has_first": [
+            874
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 256,
+        "id_url": "propeller-tail",
+        "id_name": "Propeller Tail",
+        "generation": 8,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            846,
+            847
+        ]
+    },
+    {
+        "id": 257,
+        "id_url": "punk-rock",
+        "id_name": "Punk Rock",
+        "generation": 8,
+        "has_first": [
+            849,
+            "toxtricity2",
+            10219,
+            10228
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 258,
+        "id_url": "quick-draw",
+        "id_name": "Quick Draw",
+        "generation": 8,
+        "has_first": [
+            "galar80"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 259,
+        "id_url": "ripen",
+        "id_name": "Ripen",
+        "generation": 8,
+        "has_first": [
+            840,
+            841,
+            842,
+            10216,
+            10217
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 260,
+        "id_url": "sand-spit",
+        "id_name": "Sand Spit",
+        "generation": 8,
+        "has_first": [
+            843,
+            844,
+            10218
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 261,
+        "id_url": "screen-cleaner",
+        "id_name": "Screen Cleaner",
+        "generation": 8,
+        "has_first": [],
+        "has_second": [
+            866,
+            "galar122"
+        ],
+        "has_hidden": []
+    },
+    {
+        "id": 262,
+        "id_url": "stalwart",
+        "id_name": "Stalwart",
+        "generation": 8,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            884,
+            10225
+        ]
+    },
+    {
+        "id": 263,
+        "id_url": "steam-engine",
+        "id_name": "Steam Engine",
+        "generation": 8,
+        "has_first": [
+            837,
+            838,
+            839,
+            10215
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 264,
+        "id_url": "steely-spirit",
+        "id_name": "Steely Spirit",
+        "generation": 8,
+        "has_first": [],
+        "has_second": [],
+        "has_hidden": [
+            863
+        ]
+    },
+    {
+        "id": 265,
+        "id_url": "transistor",
+        "id_name": "Transistor",
+        "generation": 8,
+        "has_first": [
+            894
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 266,
+        "id_url": "unseen-fist",
+        "id_name": "Unseen Fist",
+        "generation": 8,
+        "has_first": [
+            892,
+            "urshifu2",
+            10226,
+            10227
+        ],
+        "has_second": [],
+        "has_hidden": []
+    },
+    {
+        "id": 267,
+        "id_url": "wandering-spirit",
+        "id_name": "Wandering Spirit",
+        "generation": 8,
+        "has_first": [
+            867,
+            "galar562"
+        ],
+        "has_second": [],
+        "has_hidden": []
+    }
+]
