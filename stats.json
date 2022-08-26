@@ -17195,8 +17195,8 @@
         }
     },
     {
-        "id": "F386A",
-        "id_species": 386,
+        "id": 386,
+        "id_form": "F386A",
         "stat": {
             "hp": 50,
             "attack": 180,
@@ -17215,8 +17215,8 @@
         }
     },
     {
-        "id": "F386B",
-        "id_species": 386,
+        "id": 386,
+        "id_form": "F386B",
         "stat": {
             "hp": 50,
             "attack": 70,
@@ -17235,8 +17235,8 @@
         }
     },
     {
-        "id": "F386C",
-        "id_species": 386,
+        "id": 386,
+        "id_form": "F386C",
         "stat": {
             "hp": 50,
             "attack": 95,
@@ -17255,8 +17255,8 @@
         }
     },
     {
-        "id": "F413A",
-        "id_species": 413,
+        "id": 413,
+        "id_form": "F413A",
         "stat": {
             "hp": 60,
             "attack": 79,
@@ -17275,8 +17275,8 @@
         }
     },
     {
-        "id": "F413B",
-        "id_species": 413,
+        "id": 413,
+        "id_form": "F413B",
         "stat": {
             "hp": 60,
             "attack": 69,
@@ -17295,8 +17295,8 @@
         }
     },
     {
-        "id": "F492",
-        "id_species": 492,
+        "id": 492,
+        "id_form": "F492",
         "stat": {
             "hp": 100,
             "attack": 103,
@@ -17315,8 +17315,8 @@
         }
     },
     {
-        "id": "F487",
-        "id_species": 487,
+        "id": 487,
+        "id_form": "F487",
         "stat": {
             "hp": 150,
             "attack": 120,
@@ -17335,8 +17335,8 @@
         }
     },
     {
-        "id": "F479A",
-        "id_species": 479,
+        "id": 479,
+        "id_form": "F479A",
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -17355,8 +17355,8 @@
         }
     },
     {
-        "id": "F479B",
-        "id_species": 479,
+        "id": 479,
+        "id_form": "F479B",
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -17375,8 +17375,8 @@
         }
     },
     {
-        "id": "F479C",
-        "id_species": 479,
+        "id": 479,
+        "id_form": "F479C",
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -17395,8 +17395,8 @@
         }
     },
     {
-        "id": "F479D",
-        "id_species": 479,
+        "id": 479,
+        "id_form": "F479D",
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -17415,8 +17415,8 @@
         }
     },
     {
-        "id": "F479E",
-        "id_species": 479,
+        "id": 479,
+        "id_form": "F479E",
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -17435,8 +17435,8 @@
         }
     },
     {
-        "id": "F550A",
-        "id_species": 550,
+        "id": 550,
+        "id_form": "F550A",
         "stat": {
             "hp": 70,
             "attack": 92,
@@ -17455,8 +17455,8 @@
         }
     },
     {
-        "id": "F555A",
-        "id_species": 555,
+        "id": 555,
+        "id_form": "F555A",
         "stat": {
             "hp": 105,
             "attack": 30,
@@ -17475,8 +17475,8 @@
         }
     },
     {
-        "id": "F648",
-        "id_species": 648,
+        "id": 648,
+        "id_form": "F648",
         "stat": {
             "hp": 100,
             "attack": 128,
@@ -17495,8 +17495,8 @@
         }
     },
     {
-        "id": "F641",
-        "id_species": 641,
+        "id": 641,
+        "id_form": "F641",
         "stat": {
             "hp": 79,
             "attack": 100,
@@ -17515,8 +17515,8 @@
         }
     },
     {
-        "id": "F642",
-        "id_species": 642,
+        "id": 642,
+        "id_form": "F642",
         "stat": {
             "hp": 79,
             "attack": 105,
@@ -17535,8 +17535,8 @@
         }
     },
     {
-        "id": "F645",
-        "id_species": 645,
+        "id": 645,
+        "id_form": "F645",
         "stat": {
             "hp": 89,
             "attack": 145,
@@ -17555,8 +17555,8 @@
         }
     },
     {
-        "id": "F646A",
-        "id_species": 646,
+        "id": 646,
+        "id_form": "F646A",
         "stat": {
             "hp": 125,
             "attack": 170,
@@ -17575,8 +17575,8 @@
         }
     },
     {
-        "id": "F646B",
-        "id_species": 646,
+        "id": 646,
+        "id_form": "F646B",
         "stat": {
             "hp": 125,
             "attack": 120,
@@ -17595,8 +17595,8 @@
         }
     },
     {
-        "id": "F647",
-        "id_species": 647,
+        "id": 647,
+        "id_form": "F647",
         "stat": {
             "hp": 91,
             "attack": 72,
@@ -17615,8 +17615,8 @@
         }
     },
     {
-        "id": "F678",
-        "id_species": 678,
+        "id": 678,
+        "id_form": "F678",
         "stat": {
             "hp": 74,
             "attack": 48,
@@ -17635,8 +17635,8 @@
         }
     },
     {
-        "id": "F681",
-        "id_species": 681,
+        "id": 681,
+        "id_form": "F681",
         "stat": {
             "hp": 60,
             "attack": 140,
@@ -17656,7 +17656,7 @@
     },
     {
         "id": "pumpkaboo1",
-        "id_species": "pumpkaboo1",
+        "id_form": "pumpkaboo1",
         "stat": {
             "hp": 44,
             "attack": 66,
@@ -17676,7 +17676,7 @@
     },
     {
         "id": "pumpkaboo2",
-        "id_species": "pumpkaboo2",
+        "id_form": "pumpkaboo2",
         "stat": {
             "hp": 54,
             "attack": 66,
@@ -17696,7 +17696,7 @@
     },
     {
         "id": "pumpkaboo3",
-        "id_species": "pumpkaboo3",
+        "id_form": "pumpkaboo3",
         "stat": {
             "hp": 59,
             "attack": 66,
@@ -17716,7 +17716,7 @@
     },
     {
         "id": "gourgeist1",
-        "id_species": "gourgeist1",
+        "id_form": "gourgeist1",
         "stat": {
             "hp": 55,
             "attack": 85,
@@ -17736,7 +17736,7 @@
     },
     {
         "id": "gourgeist2",
-        "id_species": "gourgeist2",
+        "id_form": "gourgeist2",
         "stat": {
             "hp": 75,
             "attack": 95,
@@ -17756,7 +17756,7 @@
     },
     {
         "id": "gourgeist3",
-        "id_species": "gourgeist3",
+        "id_form": "gourgeist3",
         "stat": {
             "hp": 85,
             "attack": 100,
@@ -17775,8 +17775,8 @@
         }
     },
     {
-        "id": "F3",
-        "id_species": 3,
+        "id": 3,
+        "id_form": "F3",
         "stat": {
             "hp": 80,
             "attack": 100,
@@ -17795,8 +17795,8 @@
         }
     },
     {
-        "id": "F6",
-        "id_species": 6,
+        "id": 6,
+        "id_form": "F6",
         "stat": {
             "hp": 78,
             "attack": 130,
@@ -17815,8 +17815,8 @@
         }
     },
     {
-        "id": "F6",
-        "id_species": 6,
+        "id": 6,
+        "id_form": "F6",
         "stat": {
             "hp": 78,
             "attack": 104,
@@ -17835,8 +17835,8 @@
         }
     },
     {
-        "id": "F9",
-        "id_species": 9,
+        "id": 9,
+        "id_form": "F9",
         "stat": {
             "hp": 79,
             "attack": 103,
@@ -17855,8 +17855,8 @@
         }
     },
     {
-        "id": "F65",
-        "id_species": 65,
+        "id": 65,
+        "id_form": "F65",
         "stat": {
             "hp": 55,
             "attack": 50,
@@ -17875,8 +17875,8 @@
         }
     },
     {
-        "id": "F94",
-        "id_species": 94,
+        "id": 94,
+        "id_form": "F94",
         "stat": {
             "hp": 60,
             "attack": 65,
@@ -17895,8 +17895,8 @@
         }
     },
     {
-        "id": "F115",
-        "id_species": 115,
+        "id": 115,
+        "id_form": "F115",
         "stat": {
             "hp": 105,
             "attack": 125,
@@ -17915,8 +17915,8 @@
         }
     },
     {
-        "id": "F127",
-        "id_species": 127,
+        "id": 127,
+        "id_form": "F127",
         "stat": {
             "hp": 65,
             "attack": 155,
@@ -17935,8 +17935,8 @@
         }
     },
     {
-        "id": "F130",
-        "id_species": 130,
+        "id": 130,
+        "id_form": "F130",
         "stat": {
             "hp": 95,
             "attack": 155,
@@ -17955,8 +17955,8 @@
         }
     },
     {
-        "id": "F142",
-        "id_species": 142,
+        "id": 142,
+        "id_form": "F142",
         "stat": {
             "hp": 80,
             "attack": 135,
@@ -17975,8 +17975,8 @@
         }
     },
     {
-        "id": "F150A",
-        "id_species": 150,
+        "id": 150,
+        "id_form": "F150A",
         "stat": {
             "hp": 106,
             "attack": 190,
@@ -17995,8 +17995,8 @@
         }
     },
     {
-        "id": "F150B",
-        "id_species": 150,
+        "id": 150,
+        "id_form": "F150B",
         "stat": {
             "hp": 106,
             "attack": 150,
@@ -18015,8 +18015,8 @@
         }
     },
     {
-        "id": "F181",
-        "id_species": 181,
+        "id": 181,
+        "id_form": "F181",
         "stat": {
             "hp": 90,
             "attack": 95,
@@ -18035,8 +18035,8 @@
         }
     },
     {
-        "id": "F212",
-        "id_species": 212,
+        "id": 212,
+        "id_form": "F212",
         "stat": {
             "hp": 70,
             "attack": 150,
@@ -18055,8 +18055,8 @@
         }
     },
     {
-        "id": "F214",
-        "id_species": 214,
+        "id": 214,
+        "id_form": "F214",
         "stat": {
             "hp": 80,
             "attack": 185,
@@ -18075,8 +18075,8 @@
         }
     },
     {
-        "id": "F229",
-        "id_species": 229,
+        "id": 229,
+        "id_form": "F229",
         "stat": {
             "hp": 75,
             "attack": 90,
@@ -18095,8 +18095,8 @@
         }
     },
     {
-        "id": "F248",
-        "id_species": 248,
+        "id": 248,
+        "id_form": "F248",
         "stat": {
             "hp": 100,
             "attack": 164,
@@ -18115,8 +18115,8 @@
         }
     },
     {
-        "id": "F257",
-        "id_species": 257,
+        "id": 257,
+        "id_form": "F257",
         "stat": {
             "hp": 80,
             "attack": 160,
@@ -18135,8 +18135,8 @@
         }
     },
     {
-        "id": "F282",
-        "id_species": 282,
+        "id": 282,
+        "id_form": "F282",
         "stat": {
             "hp": 68,
             "attack": 85,
@@ -18155,8 +18155,8 @@
         }
     },
     {
-        "id": "F303",
-        "id_species": 303,
+        "id": 303,
+        "id_form": "F303",
         "stat": {
             "hp": 50,
             "attack": 105,
@@ -18175,8 +18175,8 @@
         }
     },
     {
-        "id": "F306",
-        "id_species": 306,
+        "id": 306,
+        "id_form": "F306",
         "stat": {
             "hp": 70,
             "attack": 140,
@@ -18195,8 +18195,8 @@
         }
     },
     {
-        "id": "F308",
-        "id_species": 308,
+        "id": 308,
+        "id_form": "F308",
         "stat": {
             "hp": 60,
             "attack": 100,
@@ -18215,8 +18215,8 @@
         }
     },
     {
-        "id": "F310",
-        "id_species": 310,
+        "id": 310,
+        "id_form": "F310",
         "stat": {
             "hp": 70,
             "attack": 75,
@@ -18235,8 +18235,8 @@
         }
     },
     {
-        "id": "F354",
-        "id_species": 354,
+        "id": 354,
+        "id_form": "F354",
         "stat": {
             "hp": 64,
             "attack": 165,
@@ -18255,8 +18255,8 @@
         }
     },
     {
-        "id": "F359",
-        "id_species": 359,
+        "id": 359,
+        "id_form": "F359",
         "stat": {
             "hp": 65,
             "attack": 150,
@@ -18275,8 +18275,8 @@
         }
     },
     {
-        "id": "F445",
-        "id_species": 445,
+        "id": 445,
+        "id_form": "F445",
         "stat": {
             "hp": 108,
             "attack": 170,
@@ -18295,8 +18295,8 @@
         }
     },
     {
-        "id": "F448",
-        "id_species": 448,
+        "id": 448,
+        "id_form": "F448",
         "stat": {
             "hp": 70,
             "attack": 145,
@@ -18315,8 +18315,8 @@
         }
     },
     {
-        "id": "F460",
-        "id_species": 460,
+        "id": 460,
+        "id_form": "F460",
         "stat": {
             "hp": 90,
             "attack": 132,
@@ -18335,8 +18335,8 @@
         }
     },
     {
-        "id": "F670",
-        "id_species": 670,
+        "id": 670,
+        "id_form": "F670",
         "stat": {
             "hp": 74,
             "attack": 65,
@@ -18355,8 +18355,8 @@
         }
     },
     {
-        "id": "F380",
-        "id_species": 380,
+        "id": 380,
+        "id_form": "F380",
         "stat": {
             "hp": 80,
             "attack": 100,
@@ -18375,8 +18375,8 @@
         }
     },
     {
-        "id": "F381",
-        "id_species": 381,
+        "id": 381,
+        "id_form": "F381",
         "stat": {
             "hp": 80,
             "attack": 130,
@@ -18395,8 +18395,8 @@
         }
     },
     {
-        "id": "F260",
-        "id_species": 260,
+        "id": 260,
+        "id_form": "F260",
         "stat": {
             "hp": 100,
             "attack": 150,
@@ -18415,8 +18415,8 @@
         }
     },
     {
-        "id": "F254",
-        "id_species": 254,
+        "id": 254,
+        "id_form": "F254",
         "stat": {
             "hp": 70,
             "attack": 110,
@@ -18435,8 +18435,8 @@
         }
     },
     {
-        "id": "F302",
-        "id_species": 302,
+        "id": 302,
+        "id_form": "F302",
         "stat": {
             "hp": 50,
             "attack": 85,
@@ -18455,8 +18455,8 @@
         }
     },
     {
-        "id": "F334",
-        "id_species": 334,
+        "id": 334,
+        "id_form": "F334",
         "stat": {
             "hp": 75,
             "attack": 110,
@@ -18475,8 +18475,8 @@
         }
     },
     {
-        "id": "F475",
-        "id_species": 475,
+        "id": 475,
+        "id_form": "F475",
         "stat": {
             "hp": 68,
             "attack": 165,
@@ -18495,8 +18495,8 @@
         }
     },
     {
-        "id": "F531",
-        "id_species": 531,
+        "id": 531,
+        "id_form": "F531",
         "stat": {
             "hp": 103,
             "attack": 60,
@@ -18515,8 +18515,8 @@
         }
     },
     {
-        "id": "F319",
-        "id_species": 319,
+        "id": 319,
+        "id_form": "F319",
         "stat": {
             "hp": 70,
             "attack": 140,
@@ -18535,8 +18535,8 @@
         }
     },
     {
-        "id": "F80",
-        "id_species": 80,
+        "id": 80,
+        "id_form": "F80",
         "stat": {
             "hp": 95,
             "attack": 75,
@@ -18555,8 +18555,8 @@
         }
     },
     {
-        "id": "F208",
-        "id_species": 208,
+        "id": 208,
+        "id_form": "F208",
         "stat": {
             "hp": 75,
             "attack": 125,
@@ -18575,8 +18575,8 @@
         }
     },
     {
-        "id": "F18",
-        "id_species": 18,
+        "id": 18,
+        "id_form": "F18",
         "stat": {
             "hp": 83,
             "attack": 80,
@@ -18595,8 +18595,8 @@
         }
     },
     {
-        "id": "F362",
-        "id_species": 362,
+        "id": 362,
+        "id_form": "F362",
         "stat": {
             "hp": 80,
             "attack": 120,
@@ -18615,8 +18615,8 @@
         }
     },
     {
-        "id": "F719",
-        "id_species": 719,
+        "id": 719,
+        "id_form": "F719",
         "stat": {
             "hp": 50,
             "attack": 160,
@@ -18635,8 +18635,8 @@
         }
     },
     {
-        "id": "F376",
-        "id_species": 376,
+        "id": 376,
+        "id_form": "F376",
         "stat": {
             "hp": 80,
             "attack": 145,
@@ -18655,8 +18655,8 @@
         }
     },
     {
-        "id": "F382",
-        "id_species": 382,
+        "id": 382,
+        "id_form": "F382",
         "stat": {
             "hp": 100,
             "attack": 150,
@@ -18675,8 +18675,8 @@
         }
     },
     {
-        "id": "F383",
-        "id_species": 383,
+        "id": 383,
+        "id_form": "F383",
         "stat": {
             "hp": 100,
             "attack": 180,
@@ -18695,8 +18695,8 @@
         }
     },
     {
-        "id": "F384",
-        "id_species": 384,
+        "id": 384,
+        "id_form": "F384",
         "stat": {
             "hp": 105,
             "attack": 180,
@@ -18715,8 +18715,8 @@
         }
     },
     {
-        "id": "pikachu1",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu1",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18735,8 +18735,8 @@
         }
     },
     {
-        "id": "pikachu2",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu2",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18755,8 +18755,8 @@
         }
     },
     {
-        "id": "pikachu3",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu3",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18775,8 +18775,8 @@
         }
     },
     {
-        "id": "pikachu4",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu4",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18795,8 +18795,8 @@
         }
     },
     {
-        "id": "pikachu5",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu5",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18815,8 +18815,8 @@
         }
     },
     {
-        "id": "pikachu6",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu6",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -18835,8 +18835,8 @@
         }
     },
     {
-        "id": "F720",
-        "id_species": 720,
+        "id": 720,
+        "id_form": "F720",
         "stat": {
             "hp": 80,
             "attack": 160,
@@ -18855,8 +18855,8 @@
         }
     },
     {
-        "id": "F323",
-        "id_species": 323,
+        "id": 323,
+        "id_form": "F323",
         "stat": {
             "hp": 70,
             "attack": 120,
@@ -18875,8 +18875,8 @@
         }
     },
     {
-        "id": "F428",
-        "id_species": 428,
+        "id": 428,
+        "id_form": "F428",
         "stat": {
             "hp": 65,
             "attack": 136,
@@ -18895,8 +18895,8 @@
         }
     },
     {
-        "id": "F373",
-        "id_species": 373,
+        "id": 373,
+        "id_form": "F373",
         "stat": {
             "hp": 95,
             "attack": 145,
@@ -18915,8 +18915,8 @@
         }
     },
     {
-        "id": "F15",
-        "id_species": 15,
+        "id": 15,
+        "id_form": "F15",
         "stat": {
             "hp": 65,
             "attack": 150,
@@ -18935,8 +18935,8 @@
         }
     },
     {
-        "id": "F19",
-        "id_species": 19,
+        "id": 19,
+        "id_form": "F19",
         "stat": {
             "hp": 30,
             "attack": 56,
@@ -18955,8 +18955,8 @@
         }
     },
     {
-        "id": "F20",
-        "id_species": 20,
+        "id": 20,
+        "id_form": "F20",
         "stat": {
             "hp": 75,
             "attack": 71,
@@ -18975,8 +18975,8 @@
         }
     },
     {
-        "id": "totem20",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "totem20",
         "stat": {
             "hp": 75,
             "attack": 71,
@@ -18995,8 +18995,8 @@
         }
     },
     {
-        "id": "pikachu-cap1",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu-cap1",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19015,8 +19015,8 @@
         }
     },
     {
-        "id": "pikachu-cap2",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu-cap2",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19035,8 +19035,8 @@
         }
     },
     {
-        "id": "pikachu-cap3",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu-cap3",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19055,8 +19055,8 @@
         }
     },
     {
-        "id": "pikachu-cap4",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu-cap4",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19075,8 +19075,8 @@
         }
     },
     {
-        "id": "pikachu-cap5",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu-cap5",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19095,8 +19095,8 @@
         }
     },
     {
-        "id": "pikachu-cap6",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu-cap6",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -19115,8 +19115,8 @@
         }
     },
     {
-        "id": "F26",
-        "id_species": 26,
+        "id": 26,
+        "id_form": "F26",
         "stat": {
             "hp": 60,
             "attack": 85,
@@ -19135,8 +19135,8 @@
         }
     },
     {
-        "id": "F27",
-        "id_species": 27,
+        "id": 27,
+        "id_form": "F27",
         "stat": {
             "hp": 50,
             "attack": 75,
@@ -19155,8 +19155,8 @@
         }
     },
     {
-        "id": "F28",
-        "id_species": 28,
+        "id": 28,
+        "id_form": "F28",
         "stat": {
             "hp": 75,
             "attack": 100,
@@ -19175,8 +19175,8 @@
         }
     },
     {
-        "id": "F37",
-        "id_species": 37,
+        "id": 37,
+        "id_form": "F37",
         "stat": {
             "hp": 38,
             "attack": 41,
@@ -19195,8 +19195,8 @@
         }
     },
     {
-        "id": "F38",
-        "id_species": 38,
+        "id": 38,
+        "id_form": "F38",
         "stat": {
             "hp": 73,
             "attack": 67,
@@ -19215,8 +19215,8 @@
         }
     },
     {
-        "id": "F50",
-        "id_species": 50,
+        "id": 50,
+        "id_form": "F50",
         "stat": {
             "hp": 10,
             "attack": 55,
@@ -19235,8 +19235,8 @@
         }
     },
     {
-        "id": "F51",
-        "id_species": 51,
+        "id": 51,
+        "id_form": "F51",
         "stat": {
             "hp": 35,
             "attack": 100,
@@ -19255,8 +19255,8 @@
         }
     },
     {
-        "id": "F52",
-        "id_species": 52,
+        "id": 52,
+        "id_form": "F52",
         "stat": {
             "hp": 40,
             "attack": 35,
@@ -19275,8 +19275,8 @@
         }
     },
     {
-        "id": "F53",
-        "id_species": 53,
+        "id": 53,
+        "id_form": "F53",
         "stat": {
             "hp": 65,
             "attack": 60,
@@ -19295,8 +19295,8 @@
         }
     },
     {
-        "id": "F74",
-        "id_species": 74,
+        "id": 74,
+        "id_form": "F74",
         "stat": {
             "hp": 40,
             "attack": 80,
@@ -19315,8 +19315,8 @@
         }
     },
     {
-        "id": "F75",
-        "id_species": 75,
+        "id": 75,
+        "id_form": "F75",
         "stat": {
             "hp": 55,
             "attack": 95,
@@ -19335,8 +19335,8 @@
         }
     },
     {
-        "id": "F76",
-        "id_species": 76,
+        "id": 76,
+        "id_form": "F76",
         "stat": {
             "hp": 80,
             "attack": 120,
@@ -19355,8 +19355,8 @@
         }
     },
     {
-        "id": "F88",
-        "id_species": 88,
+        "id": 88,
+        "id_form": "F88",
         "stat": {
             "hp": 80,
             "attack": 80,
@@ -19375,8 +19375,8 @@
         }
     },
     {
-        "id": "F89",
-        "id_species": 89,
+        "id": 89,
+        "id_form": "F89",
         "stat": {
             "hp": 105,
             "attack": 105,
@@ -19395,8 +19395,8 @@
         }
     },
     {
-        "id": "F103",
-        "id_species": 103,
+        "id": 103,
+        "id_form": "F103",
         "stat": {
             "hp": 95,
             "attack": 105,
@@ -19415,8 +19415,8 @@
         }
     },
     {
-        "id": "F105",
-        "id_species": 105,
+        "id": 105,
+        "id_form": "F105",
         "stat": {
             "hp": 60,
             "attack": 80,
@@ -19435,8 +19435,8 @@
         }
     },
     {
-        "id": "greninja2",
-        "id_species": 658,
+        "id": 658,
+        "id_form": "greninja2",
         "stat": {
             "hp": 72,
             "attack": 95,
@@ -19455,8 +19455,8 @@
         }
     },
     {
-        "id": "F658",
-        "id_species": 658,
+        "id": 658,
+        "id_form": "F658",
         "stat": {
             "hp": 72,
             "attack": 145,
@@ -19475,8 +19475,8 @@
         }
     },
     {
-        "id": "F718A",
-        "id_species": 718,
+        "id": 718,
+        "id_form": "F718A",
         "stat": {
             "hp": 54,
             "attack": 100,
@@ -19495,8 +19495,8 @@
         }
     },
     {
-        "id": "F718B",
-        "id_species": 718,
+        "id": 718,
+        "id_form": "F718B",
         "stat": {
             "hp": 108,
             "attack": 100,
@@ -19515,8 +19515,8 @@
         }
     },
     {
-        "id": "F718C",
-        "id_species": 718,
+        "id": 718,
+        "id_form": "F718C",
         "stat": {
             "hp": 216,
             "attack": 100,
@@ -19535,8 +19535,8 @@
         }
     },
     {
-        "id": "totem735",
-        "id_species": 735,
+        "id": 735,
+        "id_form": "totem735",
         "stat": {
             "hp": 88,
             "attack": 110,
@@ -19555,8 +19555,8 @@
         }
     },
     {
-        "id": "totem738",
-        "id_species": 738,
+        "id": 738,
+        "id_form": "totem738",
         "stat": {
             "hp": 77,
             "attack": 70,
@@ -19575,8 +19575,8 @@
         }
     },
     {
-        "id": "F741A",
-        "id_species": 741,
+        "id": 741,
+        "id_form": "F741A",
         "stat": {
             "hp": 75,
             "attack": 70,
@@ -19595,8 +19595,8 @@
         }
     },
     {
-        "id": "F741B",
-        "id_species": 741,
+        "id": 741,
+        "id_form": "F741B",
         "stat": {
             "hp": 75,
             "attack": 70,
@@ -19615,8 +19615,8 @@
         }
     },
     {
-        "id": "F741C",
-        "id_species": 741,
+        "id": 741,
+        "id_form": "F741C",
         "stat": {
             "hp": 75,
             "attack": 70,
@@ -19635,8 +19635,8 @@
         }
     },
     {
-        "id": "F745A",
-        "id_species": 745,
+        "id": 745,
+        "id_form": "F745A",
         "stat": {
             "hp": 85,
             "attack": 115,
@@ -19655,8 +19655,8 @@
         }
     },
     {
-        "id": "F746",
-        "id_species": 746,
+        "id": 746,
+        "id_form": "F746",
         "stat": {
             "hp": 45,
             "attack": 140,
@@ -19675,8 +19675,8 @@
         }
     },
     {
-        "id": "totem754",
-        "id_species": 754,
+        "id": 754,
+        "id_form": "totem754",
         "stat": {
             "hp": 70,
             "attack": 105,
@@ -19695,8 +19695,8 @@
         }
     },
     {
-        "id": "totem758",
-        "id_species": 758,
+        "id": 758,
+        "id_form": "totem758",
         "stat": {
             "hp": 68,
             "attack": 64,
@@ -19715,8 +19715,8 @@
         }
     },
     {
-        "id": "minior-orange MINIOR START",
-        "id_species": 774,
+        "id": 774,
+        "id_form": "minior-orange MINIOR START",
         "stat": {
             "hp": 60,
             "attack": 60,
@@ -19735,8 +19735,8 @@
         }
     },
     {
-        "id": "minior-yellow",
-        "id_species": 774,
+        "id": 774,
+        "id_form": "minior-yellow",
         "stat": {
             "hp": 60,
             "attack": 60,
@@ -19755,7 +19755,7 @@
         }
     },
     {
-        "id": 10132,
+        "id_form": 10132,
         "stat": {
             "hp": 60,
             "attack": 60,
@@ -19774,7 +19774,7 @@
         }
     },
     {
-        "id": 10133,
+        "id_form": 10133,
         "stat": {
             "hp": 60,
             "attack": 60,
@@ -19793,7 +19793,7 @@
         }
     },
     {
-        "id": 10134,
+        "id_form": 10134,
         "stat": {
             "hp": 60,
             "attack": 60,
@@ -19812,7 +19812,7 @@
         }
     },
     {
-        "id": 10135,
+        "id_form": 10135,
         "stat": {
             "hp": 60,
             "attack": 60,
@@ -19831,7 +19831,7 @@
         }
     },
     {
-        "id": 10136,
+        "id_form": 10136,
         "stat": {
             "hp": 60,
             "attack": 100,
@@ -19850,7 +19850,7 @@
         }
     },
     {
-        "id": 10137,
+        "id_form": 10137,
         "stat": {
             "hp": 60,
             "attack": 100,
@@ -19869,7 +19869,7 @@
         }
     },
     {
-        "id": 10138,
+        "id_form": 10138,
         "stat": {
             "hp": 60,
             "attack": 100,
@@ -19888,7 +19888,7 @@
         }
     },
     {
-        "id": 10139,
+        "id_form": 10139,
         "stat": {
             "hp": 60,
             "attack": 100,
@@ -19907,7 +19907,7 @@
         }
     },
     {
-        "id": 10140,
+        "id_form": 10140,
         "stat": {
             "hp": 60,
             "attack": 100,
@@ -19926,7 +19926,7 @@
         }
     },
     {
-        "id": 10141,
+        "id_form": 10141,
         "stat": {
             "hp": 60,
             "attack": 100,
@@ -19945,8 +19945,8 @@
         }
     },
     {
-        "id": "10142 MINIOR END",
-        "id_species": 774,
+        "id": 774,
+        "id_form": "10142 MINIOR END",
         "stat": {
             "hp": 60,
             "attack": 100,
@@ -19965,8 +19965,8 @@
         }
     },
     {
-        "id": "mimikyu-busted",
-        "id_species": 778,
+        "id": 778,
+        "id_form": "mimikyu-busted",
         "stat": {
             "hp": 55,
             "attack": 90,
@@ -19985,8 +19985,8 @@
         }
     },
     {
-        "id": "totem778",
-        "id_species": 778,
+        "id": 778,
+        "id_form": "totem778",
         "stat": {
             "hp": 55,
             "attack": 90,
@@ -20005,8 +20005,8 @@
         }
     },
     {
-        "id": "totem778-busted",
-        "id_species": 778,
+        "id": 778,
+        "id_form": "totem778-busted",
         "stat": {
             "hp": 55,
             "attack": 90,
@@ -20025,8 +20025,8 @@
         }
     },
     {
-        "id": "totem784",
-        "id_species": 784,
+        "id": 784,
+        "id_form": "totem784",
         "stat": {
             "hp": 75,
             "attack": 110,
@@ -20045,8 +20045,8 @@
         }
     },
     {
-        "id": "magearna1",
-        "id_species": 801,
+        "id": 801,
+        "id_form": "magearna1",
         "stat": {
             "hp": 80,
             "attack": 95,
@@ -20065,8 +20065,8 @@
         }
     },
     {
-        "id": "pikachu-cap7",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu-cap7",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -20085,8 +20085,8 @@
         }
     },
     {
-        "id": "totem105",
-        "id_species": 105,
+        "id": 105,
+        "id_form": "totem105",
         "stat": {
             "hp": 60,
             "attack": 80,
@@ -20105,8 +20105,8 @@
         }
     },
     {
-        "id": "totem743",
-        "id_species": 743,
+        "id": 743,
+        "id_form": "totem743",
         "stat": {
             "hp": 60,
             "attack": 55,
@@ -20125,8 +20125,8 @@
         }
     },
     {
-        "id": "rockruff1",
-        "id_species": 744,
+        "id": 744,
+        "id_form": "rockruff1",
         "stat": {
             "hp": 45,
             "attack": 65,
@@ -20145,8 +20145,8 @@
         }
     },
     {
-        "id": "F745B",
-        "id_species": 745,
+        "id": 745,
+        "id_form": "F745B",
         "stat": {
             "hp": 75,
             "attack": 117,
@@ -20165,8 +20165,8 @@
         }
     },
     {
-        "id": "totem752",
-        "id_species": 752,
+        "id": 752,
+        "id_form": "totem752",
         "stat": {
             "hp": 68,
             "attack": 70,
@@ -20185,8 +20185,8 @@
         }
     },
     {
-        "id": "totem777",
-        "id_species": 777,
+        "id": 777,
+        "id_form": "totem777",
         "stat": {
             "hp": 65,
             "attack": 98,
@@ -20205,8 +20205,8 @@
         }
     },
     {
-        "id": "F800A",
-        "id_species": 800,
+        "id": 800,
+        "id_form": "F800A",
         "stat": {
             "hp": 97,
             "attack": 157,
@@ -20225,8 +20225,8 @@
         }
     },
     {
-        "id": "F800B",
-        "id_species": 800,
+        "id": 800,
+        "id_form": "F800B",
         "stat": {
             "hp": 97,
             "attack": 113,
@@ -20245,8 +20245,8 @@
         }
     },
     {
-        "id": "F800C",
-        "id_species": 800,
+        "id": 800,
+        "id_form": "F800C",
         "stat": {
             "hp": 97,
             "attack": 167,
@@ -20265,8 +20265,8 @@
         }
     },
     {
-        "id": "F25",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "F25",
         "stat": {
             "hp": 45,
             "attack": 80,
@@ -20285,8 +20285,8 @@
         }
     },
     {
-        "id": "F133",
-        "id_species": 133,
+        "id": 133,
+        "id_form": "F133",
         "stat": {
             "hp": 65,
             "attack": 75,
@@ -20305,8 +20305,8 @@
         }
     },
     {
-        "id": "pikachu-cap8",
-        "id_species": 25,
+        "id": 25,
+        "id_form": "pikachu-cap8",
         "stat": {
             "hp": 35,
             "attack": 55,
@@ -20325,8 +20325,8 @@
         }
     },
     {
-        "id": "F52",
-        "id_species": 52,
+        "id": 52,
+        "id_form": "F52",
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -20345,8 +20345,8 @@
         }
     },
     {
-        "id": "F77",
-        "id_species": 77,
+        "id": 77,
+        "id_form": "F77",
         "stat": {
             "hp": 50,
             "attack": 85,
@@ -20365,8 +20365,8 @@
         }
     },
     {
-        "id": "F78",
-        "id_species": 78,
+        "id": 78,
+        "id_form": "F78",
         "stat": {
             "hp": 65,
             "attack": 100,
@@ -20385,8 +20385,8 @@
         }
     },
     {
-        "id": "F79",
-        "id_species": 79,
+        "id": 79,
+        "id_form": "F79",
         "stat": {
             "hp": 90,
             "attack": 65,
@@ -20405,8 +20405,8 @@
         }
     },
     {
-        "id": "F80",
-        "id_species": 80,
+        "id": 80,
+        "id_form": "F80",
         "stat": {
             "hp": 95,
             "attack": 100,
@@ -20425,8 +20425,8 @@
         }
     },
     {
-        "id": "F83",
-        "id_species": 83,
+        "id": 83,
+        "id_form": "F83",
         "stat": {
             "hp": 52,
             "attack": 95,
@@ -20445,8 +20445,8 @@
         }
     },
     {
-        "id": "F110",
-        "id_species": 110,
+        "id": 110,
+        "id_form": "F110",
         "stat": {
             "hp": 65,
             "attack": 90,
@@ -20465,8 +20465,8 @@
         }
     },
     {
-        "id": "F122",
-        "id_species": 122,
+        "id": 122,
+        "id_form": "F122",
         "stat": {
             "hp": 50,
             "attack": 65,
@@ -20485,8 +20485,8 @@
         }
     },
     {
-        "id": "F144",
-        "id_species": 144,
+        "id": 144,
+        "id_form": "F144",
         "stat": {
             "hp": 90,
             "attack": 85,
@@ -20505,8 +20505,8 @@
         }
     },
     {
-        "id": "F145",
-        "id_species": 145,
+        "id": 145,
+        "id_form": "F145",
         "stat": {
             "hp": 90,
             "attack": 125,
@@ -20525,8 +20525,8 @@
         }
     },
     {
-        "id": "F146",
-        "id_species": 146,
+        "id": 146,
+        "id_form": "F146",
         "stat": {
             "hp": 90,
             "attack": 85,
@@ -20545,8 +20545,8 @@
         }
     },
     {
-        "id": "F199",
-        "id_species": 199,
+        "id": 199,
+        "id_form": "F199",
         "stat": {
             "hp": 95,
             "attack": 65,
@@ -20565,8 +20565,8 @@
         }
     },
     {
-        "id": "F222",
-        "id_species": 222,
+        "id": 222,
+        "id_form": "F222",
         "stat": {
             "hp": 60,
             "attack": 55,
@@ -20585,8 +20585,8 @@
         }
     },
     {
-        "id": "F263",
-        "id_species": 263,
+        "id": 263,
+        "id_form": "F263",
         "stat": {
             "hp": 38,
             "attack": 30,
@@ -20605,8 +20605,8 @@
         }
     },
     {
-        "id": "F264",
-        "id_species": 264,
+        "id": 264,
+        "id_form": "F264",
         "stat": {
             "hp": 78,
             "attack": 70,
@@ -20625,8 +20625,8 @@
         }
     },
     {
-        "id": "F554",
-        "id_species": 554,
+        "id": 554,
+        "id_form": "F554",
         "stat": {
             "hp": 70,
             "attack": 90,
@@ -20645,8 +20645,8 @@
         }
     },
     {
-        "id": "F555B",
-        "id_species": 555,
+        "id": 555,
+        "id_form": "F555B",
         "stat": {
             "hp": 105,
             "attack": 140,
@@ -20665,8 +20665,8 @@
         }
     },
     {
-        "id": "F555C",
-        "id_species": 555,
+        "id": 555,
+        "id_form": "F555C",
         "stat": {
             "hp": 105,
             "attack": 160,
@@ -20685,8 +20685,8 @@
         }
     },
     {
-        "id": "F562",
-        "id_species": 562,
+        "id": 562,
+        "id_form": "F562",
         "stat": {
             "hp": 38,
             "attack": 55,
@@ -20705,8 +20705,8 @@
         }
     },
     {
-        "id": "F618",
-        "id_species": 618,
+        "id": 618,
+        "id_form": "F618",
         "stat": {
             "hp": 109,
             "attack": 81,
@@ -20725,8 +20725,8 @@
         }
     },
     {
-        "id": "F845A",
-        "id_species": 845,
+        "id": 845,
+        "id_form": "F845A",
         "stat": {
             "hp": 70,
             "attack": 85,
@@ -20745,8 +20745,8 @@
         }
     },
     {
-        "id": "F845B",
-        "id_species": 845,
+        "id": 845,
+        "id_form": "F845B",
         "stat": {
             "hp": 70,
             "attack": 85,
@@ -20765,8 +20765,8 @@
         }
     },
     {
-        "id": "F849",
-        "id_species": 849,
+        "id": 849,
+        "id_form": "F849",
         "stat": {
             "hp": 75,
             "attack": 98,
@@ -20785,8 +20785,8 @@
         }
     },
     {
-        "id": "F875",
-        "id_species": 875,
+        "id": 875,
+        "id_form": "F875",
         "stat": {
             "hp": 75,
             "attack": 80,
@@ -20805,8 +20805,8 @@
         }
     },
     {
-        "id": "F876",
-        "id_species": 876,
+        "id": 876,
+        "id_form": "F876",
         "stat": {
             "hp": 70,
             "attack": 55,
@@ -20825,8 +20825,8 @@
         }
     },
     {
-        "id": "F877",
-        "id_species": 877,
+        "id": 877,
+        "id_form": "F877",
         "stat": {
             "hp": 58,
             "attack": 95,
@@ -20845,8 +20845,8 @@
         }
     },
     {
-        "id": "F888",
-        "id_species": 888,
+        "id": 888,
+        "id_form": "F888",
         "stat": {
             "hp": 92,
             "attack": 170,
@@ -20865,8 +20865,8 @@
         }
     },
     {
-        "id": "F889",
-        "id_species": 889,
+        "id": 889,
+        "id_form": "F889",
         "stat": {
             "hp": 92,
             "attack": 130,
@@ -20885,8 +20885,8 @@
         }
     },
     {
-        "id": "F890",
-        "id_species": 890,
+        "id": 890,
+        "id_form": "F890",
         "stat": {
             "hp": 255,
             "attack": 115,
@@ -20905,8 +20905,8 @@
         }
     },
     {
-        "id": "F892",
-        "id_species": 892,
+        "id": 892,
+        "id_form": "F892",
         "stat": {
             "hp": 100,
             "attack": 130,
@@ -20925,8 +20925,8 @@
         }
     },
     {
-        "id": "F898",
-        "id_species": 898,
+        "id": 898,
+        "id_form": "F898",
         "stat": {
             "hp": 105,
             "attack": 120,
@@ -20945,8 +20945,8 @@
         }
     },
     {
-        "id": "F898A",
-        "id_species": 898,
+        "id": 898,
+        "id_form": "F898A",
         "stat": {
             "hp": 100,
             "attack": 165,
@@ -20965,8 +20965,8 @@
         }
     },
     {
-        "id": "F849",
-        "id_species": 849,
+        "id": 849,
+        "id_form": "F849",
         "stat": {
             "hp": 75,
             "attack": 98,
@@ -20985,8 +20985,8 @@
         }
     },
     {
-        "id": "F58",
-        "id_species": 58,
+        "id": 58,
+        "id_form": "F58",
         "stat": {
             "hp": 60,
             "attack": 75,
@@ -21005,8 +21005,8 @@
         }
     },
     {
-        "id": "F59",
-        "id_species": 59,
+        "id": 59,
+        "id_form": "F59",
         "stat": {
             "hp": 95,
             "attack": 115,
@@ -21025,8 +21025,8 @@
         }
     },
     {
-        "id": "F100",
-        "id_species": 100,
+        "id": 100,
+        "id_form": "F100",
         "stat": {
             "hp": 40,
             "attack": 30,
@@ -21045,8 +21045,8 @@
         }
     },
     {
-        "id": "F101",
-        "id_species": 101,
+        "id": 101,
+        "id_form": "F101",
         "stat": {
             "hp": 60,
             "attack": 50,
@@ -21065,8 +21065,8 @@
         }
     },
     {
-        "id": "F157",
-        "id_species": 157,
+        "id": 157,
+        "id_form": "F157",
         "stat": {
             "hp": 73,
             "attack": 84,
@@ -21085,8 +21085,8 @@
         }
     },
     {
-        "id": "F211",
-        "id_species": 211,
+        "id": 211,
+        "id_form": "F211",
         "stat": {
             "hp": 65,
             "attack": 95,
@@ -21105,8 +21105,8 @@
         }
     },
     {
-        "id": "F215",
-        "id_species": 215,
+        "id": 215,
+        "id_form": "F215",
         "stat": {
             "hp": 55,
             "attack": 95,
@@ -21125,8 +21125,8 @@
         }
     },
     {
-        "id": "F503",
-        "id_species": 503,
+        "id": 503,
+        "id_form": "F503",
         "stat": {
             "hp": 90,
             "attack": 108,
@@ -21145,8 +21145,8 @@
         }
     },
     {
-        "id": "F549",
-        "id_species": 549,
+        "id": 549,
+        "id_form": "F549",
         "stat": {
             "hp": 70,
             "attack": 105,
@@ -21165,8 +21165,8 @@
         }
     },
     {
-        "id": "F570",
-        "id_species": 570,
+        "id": 570,
+        "id_form": "F570",
         "stat": {
             "hp": 35,
             "attack": 60,
@@ -21185,8 +21185,8 @@
         }
     },
     {
-        "id": "F571",
-        "id_species": 571,
+        "id": 571,
+        "id_form": "F571",
         "stat": {
             "hp": 55,
             "attack": 100,
@@ -21205,8 +21205,8 @@
         }
     },
     {
-        "id": "F628",
-        "id_species": 628,
+        "id": 628,
+        "id_form": "F628",
         "stat": {
             "hp": 110,
             "attack": 83,
@@ -21225,8 +21225,8 @@
         }
     },
     {
-        "id": "F705",
-        "id_species": 705,
+        "id": 705,
+        "id_form": "F705",
         "stat": {
             "hp": 58,
             "attack": 75,
@@ -21245,8 +21245,8 @@
         }
     },
     {
-        "id": "F706",
-        "id_species": 706,
+        "id": 706,
+        "id_form": "F706",
         "stat": {
             "hp": 80,
             "attack": 100,
@@ -21265,8 +21265,8 @@
         }
     },
     {
-        "id": "F713",
-        "id_species": 713,
+        "id": 713,
+        "id_form": "F713",
         "stat": {
             "hp": 95,
             "attack": 127,
@@ -21285,8 +21285,8 @@
         }
     },
     {
-        "id": "F724",
-        "id_species": 724,
+        "id": 724,
+        "id_form": "F724",
         "stat": {
             "hp": 88,
             "attack": 112,
@@ -21305,8 +21305,8 @@
         }
     },
     {
-        "id": "F483",
-        "id_species": 483,
+        "id": 483,
+        "id_form": "F483",
         "stat": {
             "hp": 100,
             "attack": 100,
@@ -21325,8 +21325,8 @@
         }
     },
     {
-        "id": "origin484",
-        "id_species": 484,
+        "id": 484,
+        "id_form": "484",
         "stat": {
             "hp": 90,
             "attack": 100,
@@ -21345,8 +21345,8 @@
         }
     },
     {
-        "id": "F550B",
-        "id_species": 550,
+        "id": 550,
+        "id_form": "F550B",
         "stat": {
             "hp": 70,
             "attack": 92,
@@ -21365,8 +21365,8 @@
         }
     },
     {
-        "id": "F902",
-        "id_species": 902,
+        "id": 902,
+        "id_form": "F902",
         "stat": {
             "hp": 120,
             "attack": 92,
@@ -21385,8 +21385,8 @@
         }
     },
     {
-        "id": "F905",
-        "id_species": 905,
+        "id": 905,
+        "id_form": "F905",
         "stat": {
             "hp": 74,
             "attack": 115,
