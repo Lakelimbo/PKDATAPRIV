@@ -39,6 +39,7 @@
         "id_name": "Charmander",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Lizard Pokémon",
         "starter": 1
     },
@@ -49,6 +50,7 @@
         "id_name": "Charmeleon",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Flame Pokémon",
         "starter": 2
     },
@@ -70,6 +72,7 @@
         "id_name": "Squirtle",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Tiny Turtle Pokémon",
         "starter": 1
     },
@@ -80,6 +83,7 @@
         "id_name": "Wartortle",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Turtle Pokémon",
         "starter": 2
     },
@@ -90,6 +94,7 @@
         "id_name": "Blastoise",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Shellfish Pokémon",
         "starter": 3
     },
@@ -100,6 +105,7 @@
         "id_name": "Caterpie",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Worm Pokémon"
     },
     {
@@ -109,6 +115,7 @@
         "id_name": "Metapod",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Cocoon Pokémon"
     },
     {
@@ -188,6 +195,7 @@
         "id_name": "Rattata",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Mouse Pokémon"
     },
     {
@@ -197,6 +205,7 @@
         "id_name": "Raticate",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Mouse Pokémon"
     },
     {
@@ -226,6 +235,7 @@
         "id_name": "Ekans",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Snake Pokémon"
     },
     {
@@ -235,6 +245,7 @@
         "id_name": "Arbok",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Cobra Pokémon"
     },
     {
@@ -244,6 +255,7 @@
         "id_name": "Pikachu",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Mouse Pokémon",
         "starter": 1
     },
@@ -254,6 +266,7 @@
         "id_name": "Raichu",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Mouse Pokémon"
     },
     {
@@ -263,6 +276,7 @@
         "id_name": "Sandshrew",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Mouse Pokémon"
     },
     {
@@ -272,6 +286,7 @@
         "id_name": "Sandslash",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Mouse Pokémon"
     },
     {
@@ -281,6 +296,7 @@
         "id_name": "Nidoran♀",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Poison Pin Pokémon"
     },
     {
@@ -290,6 +306,7 @@
         "id_name": "Nidorina",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Poison Pin Pokémon"
     },
     {
@@ -309,6 +326,7 @@
         "id_name": "Nidoran♂",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Poison Pin Pokémon"
     },
     {
@@ -318,6 +336,7 @@
         "id_name": "Nidorino",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Poison Pin Pokémon"
     },
     {
@@ -337,6 +356,7 @@
         "id_name": "Clefairy",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Fairy Pokémon"
     },
     {
@@ -346,6 +366,7 @@
         "id_name": "Clefable",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Fairy Pokémon"
     },
     {
@@ -355,6 +376,7 @@
         "id_name": "Vulpix",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fox Pokémon"
     },
     {
@@ -364,6 +386,7 @@
         "id_name": "Ninetales",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fox Pokémon"
     },
     {
@@ -483,6 +506,7 @@
         "id_name": "Diglett",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Mole Pokémon"
     },
     {
@@ -492,6 +516,7 @@
         "id_name": "Dugtrio",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Mole Pokémon"
     },
     {
@@ -501,6 +526,7 @@
         "id_name": "Meowth",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Scratch Cat Pokémon"
     },
     {
@@ -510,6 +536,7 @@
         "id_name": "Persian",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Classy Cat Pokémon"
     },
     {
@@ -519,6 +546,7 @@
         "id_name": "Psyduck",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Duck Pokémon"
     },
     {
@@ -528,6 +556,7 @@
         "id_name": "Golduck",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Duck Pokémon"
     },
     {
@@ -537,6 +566,7 @@
         "id_name": "Mankey",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Pig Monkey Pokémon"
     },
     {
@@ -546,6 +576,7 @@
         "id_name": "Primeape",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Pig Monkey Pokémon"
     },
     {
@@ -555,6 +586,7 @@
         "id_name": "Growlithe",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Puppy Pokémon"
     },
     {
@@ -564,6 +596,7 @@
         "id_name": "Arcanine",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Legendary Pokémon"
     },
     {
@@ -573,6 +606,7 @@
         "id_name": "Poliwag",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Tadpole Pokémon"
     },
     {
@@ -582,6 +616,7 @@
         "id_name": "Poliwhirl",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Tadpole Pokémon"
     },
     {
@@ -601,6 +636,7 @@
         "id_name": "Abra",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Psi Pokémon"
     },
     {
@@ -610,6 +646,7 @@
         "id_name": "Kadabra",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Psi Pokémon"
     },
     {
@@ -619,6 +656,7 @@
         "id_name": "Alakazam",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Psi Pokémon"
     },
     {
@@ -628,6 +666,7 @@
         "id_name": "Machop",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Superpower Pokémon"
     },
     {
@@ -637,6 +676,7 @@
         "id_name": "Machoke",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Superpower Pokémon"
     },
     {
@@ -646,6 +686,7 @@
         "id_name": "Machamp",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Superpower Pokémon"
     },
     {
@@ -735,6 +776,7 @@
         "id_name": "Ponyta",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fire Horse Pokémon"
     },
     {
@@ -744,6 +786,7 @@
         "id_name": "Rapidash",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fire Horse Pokémon"
     },
     {
@@ -823,6 +866,7 @@
         "id_name": "Seel",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Sea Lion Pokémon"
     },
     {
@@ -842,6 +886,7 @@
         "id_name": "Grimer",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Sludge Pokémon"
     },
     {
@@ -851,6 +896,7 @@
         "id_name": "Muk",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Sludge Pokémon"
     },
     {
@@ -860,6 +906,7 @@
         "id_name": "Shellder",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Bivalve Pokémon"
     },
     {
@@ -919,6 +966,7 @@
         "id_name": "Drowzee",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Hypnosis Pokémon"
     },
     {
@@ -928,6 +976,7 @@
         "id_name": "Hypno",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Hypnosis Pokémon"
     },
     {
@@ -937,6 +986,7 @@
         "id_name": "Krabby",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "River Crab Pokémon"
     },
     {
@@ -946,6 +996,7 @@
         "id_name": "Kingler",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Pincer Pokémon"
     },
     {
@@ -955,6 +1006,7 @@
         "id_name": "Voltorb",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Ball Pokémon"
     },
     {
@@ -964,6 +1016,7 @@
         "id_name": "Electrode",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Ball Pokémon"
     },
     {
@@ -993,6 +1046,7 @@
         "id_name": "Cubone",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Lonely Pokémon"
     },
     {
@@ -1002,6 +1056,7 @@
         "id_name": "Marowak",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Bone Keeper Pokémon"
     },
     {
@@ -1011,6 +1066,7 @@
         "id_name": "Hitmonlee",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Kicking Pokémon"
     },
     {
@@ -1020,6 +1076,7 @@
         "id_name": "Hitmonchan",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Punching Pokémon"
     },
     {
@@ -1029,6 +1086,7 @@
         "id_name": "Lickitung",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Licking Pokémon"
     },
     {
@@ -1038,6 +1096,7 @@
         "id_name": "Koffing",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Poison Gas Pokémon"
     },
     {
@@ -1047,6 +1106,7 @@
         "id_name": "Weezing",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Poison Gas Pokémon"
     },
     {
@@ -1076,6 +1136,7 @@
         "id_name": "Chansey",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Egg Pokémon"
     },
     {
@@ -1085,6 +1146,7 @@
         "id_name": "Tangela",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Vine Pokémon"
     },
     {
@@ -1094,6 +1156,7 @@
         "id_name": "Kangaskhan",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Parent Pokémon"
     },
     {
@@ -1103,6 +1166,7 @@
         "id_name": "Horsea",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Dragon Pokémon"
     },
     {
@@ -1112,6 +1176,7 @@
         "id_name": "Seadra",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Dragon Pokémon"
     },
     {
@@ -1121,6 +1186,7 @@
         "id_name": "Goldeen",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Goldfish Pokémon"
     },
     {
@@ -1130,6 +1196,7 @@
         "id_name": "Seaking",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Goldfish Pokémon"
     },
     {
@@ -1139,6 +1206,7 @@
         "id_name": "Staryu",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Star Shape Pokémon"
     },
     {
@@ -1188,6 +1256,7 @@
         "id_name": "Electabuzz",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Electric Pokémon"
     },
     {
@@ -1197,6 +1266,7 @@
         "id_name": "Magmar",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Spitfire Pokémon"
     },
     {
@@ -1206,6 +1276,7 @@
         "id_name": "Pinsir",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Stag Beetle Pokémon"
     },
     {
@@ -1215,6 +1286,7 @@
         "id_name": "Tauros",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Wild Bull Pokémon"
     },
     {
@@ -1224,6 +1296,7 @@
         "id_name": "Magikarp",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Fish Pokémon"
     },
     {
@@ -1253,6 +1326,7 @@
         "id_name": "Ditto",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Transform Pokémon"
     },
     {
@@ -1262,6 +1336,7 @@
         "id_name": "Eevee",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Evolution Pokémon"
     },
     {
@@ -1271,6 +1346,7 @@
         "id_name": "Vaporeon",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Bubble Jet Pokémon"
     },
     {
@@ -1280,6 +1356,7 @@
         "id_name": "Jolteon",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Lightning Pokémon"
     },
     {
@@ -1289,6 +1366,7 @@
         "id_name": "Flareon",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Flame Pokémon"
     },
     {
@@ -1298,6 +1376,7 @@
         "id_name": "Porygon",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Virtual Pokémon"
     },
     {
@@ -1357,6 +1436,7 @@
         "id_name": "Snorlax",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Sleeping Pokémon"
     },
     {
@@ -1368,7 +1448,7 @@
         "type_first": "ice",
         "type_second": "flying",
         "category": "Freeze Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 145,
@@ -1379,7 +1459,7 @@
         "type_first": "electric",
         "type_second": "flying",
         "category": "Electric Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 146,
@@ -1390,7 +1470,7 @@
         "type_first": "fire",
         "type_second": "flying",
         "category": "Flame Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 147,
@@ -1399,6 +1479,7 @@
         "id_name": "Dratini",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Dragon Pokémon"
     },
     {
@@ -1408,6 +1489,7 @@
         "id_name": "Dragonair",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Dragon Pokémon"
     },
     {
@@ -1419,7 +1501,7 @@
         "type_first": "dragon",
         "type_second": "flying",
         "category": "Dragon Pokémon",
-        "pseudo_legendary": true
+        "pseudo_legendary": "TRUE"
     },
     {
         "id": 150,
@@ -1428,8 +1510,9 @@
         "id_name": "Mewtwo",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Genetic Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 151,
@@ -1438,8 +1521,9 @@
         "id_name": "Mew",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "New Species Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 152,
@@ -1448,6 +1532,7 @@
         "id_name": "Chikorita",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Leaf Pokémon",
         "starter": 1
     },
@@ -1458,6 +1543,7 @@
         "id_name": "Bayleef",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Leaf Pokémon",
         "starter": 2
     },
@@ -1468,6 +1554,7 @@
         "id_name": "Meganium",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Herb Pokémon",
         "starter": 3
     },
@@ -1478,6 +1565,7 @@
         "id_name": "Cyndaquil",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fire Mouse Pokémon",
         "starter": 1
     },
@@ -1488,6 +1576,7 @@
         "id_name": "Quilava",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Volcano Pokémon",
         "starter": 2
     },
@@ -1498,6 +1587,7 @@
         "id_name": "Typhlosion",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Volcano Pokémon",
         "starter": 3
     },
@@ -1508,6 +1598,7 @@
         "id_name": "Totodile",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Big Jaw Pokémon",
         "starter": 1
     },
@@ -1518,6 +1609,7 @@
         "id_name": "Croconaw",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Big Jaw Pokémon",
         "starter": 2
     },
@@ -1528,6 +1620,7 @@
         "id_name": "Feraligatr",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Big Jaw Pokémon",
         "starter": 3
     },
@@ -1538,6 +1631,7 @@
         "id_name": "Sentret",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Scout Pokémon"
     },
     {
@@ -1547,6 +1641,7 @@
         "id_name": "Furret",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Long Body Pokémon"
     },
     {
@@ -1646,8 +1741,9 @@
         "id_name": "Pichu",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Tiny Mouse Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 173,
@@ -1656,8 +1752,9 @@
         "id_name": "Cleffa",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Star Shape Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 174,
@@ -1668,7 +1765,7 @@
         "type_first": "normal",
         "type_second": "fairy",
         "category": "Balloon Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 175,
@@ -1677,8 +1774,9 @@
         "id_name": "Togepi",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Spike Ball Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 176,
@@ -1717,6 +1815,7 @@
         "id_name": "Mareep",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Wool Pokémon"
     },
     {
@@ -1726,6 +1825,7 @@
         "id_name": "Flaaffy",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Wool Pokémon"
     },
     {
@@ -1735,6 +1835,7 @@
         "id_name": "Ampharos",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Light Pokémon"
     },
     {
@@ -1744,6 +1845,7 @@
         "id_name": "Bellossom",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Flower Pokémon"
     },
     {
@@ -1773,6 +1875,7 @@
         "id_name": "Sudowoodo",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Imitation Pokémon"
     },
     {
@@ -1782,6 +1885,7 @@
         "id_name": "Politoed",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Frog Pokémon"
     },
     {
@@ -1821,6 +1925,7 @@
         "id_name": "Aipom",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Long Tail Pokémon"
     },
     {
@@ -1830,6 +1935,7 @@
         "id_name": "Sunkern",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Seed Pokémon"
     },
     {
@@ -1839,6 +1945,7 @@
         "id_name": "Sunflora",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Sun Pokémon"
     },
     {
@@ -1878,6 +1985,7 @@
         "id_name": "Espeon",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Sun Pokémon"
     },
     {
@@ -1887,6 +1995,7 @@
         "id_name": "Umbreon",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Moonlight Pokémon"
     },
     {
@@ -1916,6 +2025,7 @@
         "id_name": "Misdreavus",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Screech Pokémon"
     },
     {
@@ -1925,6 +2035,7 @@
         "id_name": "Unown",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Symbol Pokémon"
     },
     {
@@ -1934,6 +2045,7 @@
         "id_name": "Wobbuffet",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Patient Pokémon"
     },
     {
@@ -1953,6 +2065,7 @@
         "id_name": "Pineco",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Bagworm Pokémon"
     },
     {
@@ -1972,6 +2085,7 @@
         "id_name": "Dunsparce",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Land Snake Pokémon"
     },
     {
@@ -2001,6 +2115,7 @@
         "id_name": "Snubbull",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Fairy Pokémon"
     },
     {
@@ -2010,6 +2125,7 @@
         "id_name": "Granbull",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Fairy Pokémon"
     },
     {
@@ -2069,6 +2185,7 @@
         "id_name": "Teddiursa",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Little Bear Pokémon"
     },
     {
@@ -2078,6 +2195,7 @@
         "id_name": "Ursaring",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Hibernator Pokémon"
     },
     {
@@ -2087,6 +2205,7 @@
         "id_name": "Slugma",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Lava Pokémon"
     },
     {
@@ -2136,6 +2255,7 @@
         "id_name": "Remoraid",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Jet Pokémon"
     },
     {
@@ -2145,6 +2265,7 @@
         "id_name": "Octillery",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Jet Pokémon"
     },
     {
@@ -2214,6 +2335,7 @@
         "id_name": "Phanpy",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Long Nose Pokémon"
     },
     {
@@ -2223,6 +2345,7 @@
         "id_name": "Donphan",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Armor Pokémon"
     },
     {
@@ -2232,6 +2355,7 @@
         "id_name": "Porygon2",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Virtual Pokémon"
     },
     {
@@ -2241,6 +2365,7 @@
         "id_name": "Stantler",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Big Horn Pokémon"
     },
     {
@@ -2250,6 +2375,7 @@
         "id_name": "Smeargle",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Painter Pokémon"
     },
     {
@@ -2259,8 +2385,9 @@
         "id_name": "Tyrogue",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Scuffle Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 237,
@@ -2269,6 +2396,7 @@
         "id_name": "Hitmontop",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Handstand Pokémon"
     },
     {
@@ -2280,7 +2408,7 @@
         "type_first": "ice",
         "type_second": "psychic",
         "category": "Kiss Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 239,
@@ -2289,8 +2417,9 @@
         "id_name": "Elekid",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Electric Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 240,
@@ -2299,8 +2428,9 @@
         "id_name": "Magby",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Live Coal Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 241,
@@ -2309,6 +2439,7 @@
         "id_name": "Miltank",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Milk Cow Pokémon"
     },
     {
@@ -2318,6 +2449,7 @@
         "id_name": "Blissey",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Happiness Pokémon"
     },
     {
@@ -2327,8 +2459,9 @@
         "id_name": "Raikou",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Thunder Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 244,
@@ -2337,8 +2470,9 @@
         "id_name": "Entei",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Volcano Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 245,
@@ -2347,8 +2481,9 @@
         "id_name": "Suicune",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Aurora Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 246,
@@ -2379,7 +2514,7 @@
         "type_first": "rock",
         "type_second": "dark",
         "category": "Armor Pokémon",
-        "pseudo_legendary": true
+        "pseudo_legendary": "TRUE"
     },
     {
         "id": 249,
@@ -2390,7 +2525,7 @@
         "type_first": "psychic",
         "type_second": "flying",
         "category": "Diving Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 250,
@@ -2401,7 +2536,7 @@
         "type_first": "fire",
         "type_second": "flying",
         "category": "Rainbow Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 251,
@@ -2412,7 +2547,7 @@
         "type_first": "psychic",
         "type_second": "grass",
         "category": "Time Travel Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 252,
@@ -2421,6 +2556,7 @@
         "id_name": "Treecko",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Wood Gecko Pokémon",
         "starter": 1
     },
@@ -2431,6 +2567,7 @@
         "id_name": "Grovyle",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Wood Gecko Pokémon",
         "starter": 2
     },
@@ -2441,6 +2578,7 @@
         "id_name": "Sceptile",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Forest Pokémon",
         "starter": 3
     },
@@ -2451,6 +2589,7 @@
         "id_name": "Torchic",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Chick Pokémon",
         "starter": 1
     },
@@ -2483,6 +2622,7 @@
         "id_name": "Mudkip",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Mud Fish Pokémon",
         "starter": 1
     },
@@ -2515,6 +2655,7 @@
         "id_name": "Poochyena",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Bite Pokémon"
     },
     {
@@ -2524,6 +2665,7 @@
         "id_name": "Mightyena",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Bite Pokémon"
     },
     {
@@ -2533,6 +2675,7 @@
         "id_name": "Zigzagoon",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Tiny Raccoon Pokémon"
     },
     {
@@ -2542,6 +2685,7 @@
         "id_name": "Linoone",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Rushing Pokémon"
     },
     {
@@ -2551,6 +2695,7 @@
         "id_name": "Wurmple",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Worm Pokémon"
     },
     {
@@ -2560,6 +2705,7 @@
         "id_name": "Silcoon",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Cocoon Pokémon"
     },
     {
@@ -2579,6 +2725,7 @@
         "id_name": "Cascoon",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Cocoon Pokémon"
     },
     {
@@ -2628,6 +2775,7 @@
         "id_name": "Seedot",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Acorn Pokémon"
     },
     {
@@ -2747,6 +2895,7 @@
         "id_name": "Shroomish",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Mushroom Pokémon"
     },
     {
@@ -2766,6 +2915,7 @@
         "id_name": "Slakoth",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Slacker Pokémon"
     },
     {
@@ -2775,6 +2925,7 @@
         "id_name": "Vigoroth",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Wild Monkey Pokémon"
     },
     {
@@ -2784,6 +2935,7 @@
         "id_name": "Slaking",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Lazy Pokémon"
     },
     {
@@ -2823,6 +2975,7 @@
         "id_name": "Whismur",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Whisper Pokémon"
     },
     {
@@ -2832,6 +2985,7 @@
         "id_name": "Loudred",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Big Voice Pokémon"
     },
     {
@@ -2841,6 +2995,7 @@
         "id_name": "Exploud",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Loud Noise Pokémon"
     },
     {
@@ -2850,6 +3005,7 @@
         "id_name": "Makuhita",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Guts Pokémon"
     },
     {
@@ -2859,6 +3015,7 @@
         "id_name": "Hariyama",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Arm Thrust Pokémon"
     },
     {
@@ -2870,7 +3027,7 @@
         "type_first": "normal",
         "type_second": "fairy",
         "category": "Polka Dot Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 299,
@@ -2879,6 +3036,7 @@
         "id_name": "Nosepass",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Compass Pokémon"
     },
     {
@@ -2888,6 +3046,7 @@
         "id_name": "Skitty",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Kitten Pokémon"
     },
     {
@@ -2897,6 +3056,7 @@
         "id_name": "Delcatty",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Prim Pokémon"
     },
     {
@@ -2976,6 +3136,7 @@
         "id_name": "Electrike",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Lightning Pokémon"
     },
     {
@@ -2985,6 +3146,7 @@
         "id_name": "Manectric",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Discharge Pokémon"
     },
     {
@@ -2994,6 +3156,7 @@
         "id_name": "Plusle",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Cheering Pokémon"
     },
     {
@@ -3003,6 +3166,7 @@
         "id_name": "Minun",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Cheering Pokémon"
     },
     {
@@ -3012,6 +3176,7 @@
         "id_name": "Volbeat",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Firefly Pokémon"
     },
     {
@@ -3021,6 +3186,7 @@
         "id_name": "Illumise",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Firefly Pokémon"
     },
     {
@@ -3040,6 +3206,7 @@
         "id_name": "Gulpin",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Stomach Pokémon"
     },
     {
@@ -3049,6 +3216,7 @@
         "id_name": "Swalot",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Poison Bag Pokémon"
     },
     {
@@ -3078,6 +3246,7 @@
         "id_name": "Wailmer",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Ball Whale Pokémon"
     },
     {
@@ -3087,6 +3256,7 @@
         "id_name": "Wailord",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Float Whale Pokémon"
     },
     {
@@ -3116,6 +3286,7 @@
         "id_name": "Torkoal",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Coal Pokémon"
     },
     {
@@ -3125,6 +3296,7 @@
         "id_name": "Spoink",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Bounce Pokémon"
     },
     {
@@ -3134,6 +3306,7 @@
         "id_name": "Grumpig",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Manipulate Pokémon"
     },
     {
@@ -3143,6 +3316,7 @@
         "id_name": "Spinda",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Spot Panda Pokémon"
     },
     {
@@ -3152,6 +3326,7 @@
         "id_name": "Trapinch",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Ant Pit Pokémon"
     },
     {
@@ -3181,6 +3356,7 @@
         "id_name": "Cacnea",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Cactus Pokémon"
     },
     {
@@ -3220,6 +3396,7 @@
         "id_name": "Zangoose",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Cat Ferret Pokémon"
     },
     {
@@ -3229,6 +3406,7 @@
         "id_name": "Seviper",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Fang Snake Pokémon"
     },
     {
@@ -3278,6 +3456,7 @@
         "id_name": "Corphish",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Ruffian Pokémon"
     },
     {
@@ -3357,6 +3536,7 @@
         "id_name": "Feebas",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Fish Pokémon"
     },
     {
@@ -3366,6 +3546,7 @@
         "id_name": "Milotic",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Tender Pokémon"
     },
     {
@@ -3375,6 +3556,7 @@
         "id_name": "Castform",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Weather Pokémon"
     },
     {
@@ -3384,6 +3566,7 @@
         "id_name": "Kecleon",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Color Swap Pokémon"
     },
     {
@@ -3393,6 +3576,7 @@
         "id_name": "Shuppet",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Puppet Pokémon"
     },
     {
@@ -3402,6 +3586,7 @@
         "id_name": "Banette",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Marionette Pokémon"
     },
     {
@@ -3411,6 +3596,7 @@
         "id_name": "Duskull",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Requiem Pokémon"
     },
     {
@@ -3420,6 +3606,7 @@
         "id_name": "Dusclops",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Beckon Pokémon"
     },
     {
@@ -3439,6 +3626,7 @@
         "id_name": "Chimecho",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Wind Chime Pokémon"
     },
     {
@@ -3448,6 +3636,7 @@
         "id_name": "Absol",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Disaster Pokémon"
     },
     {
@@ -3457,8 +3646,9 @@
         "id_name": "Wynaut",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Bright Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 361,
@@ -3467,6 +3657,7 @@
         "id_name": "Snorunt",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Snow Hat Pokémon"
     },
     {
@@ -3476,6 +3667,7 @@
         "id_name": "Glalie",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Face Pokémon"
     },
     {
@@ -3515,6 +3707,7 @@
         "id_name": "Clamperl",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Bivalve Pokémon"
     },
     {
@@ -3524,6 +3717,7 @@
         "id_name": "Huntail",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Deep Sea Pokémon"
     },
     {
@@ -3533,6 +3727,7 @@
         "id_name": "Gorebyss",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "South Sea Pokémon"
     },
     {
@@ -3552,6 +3747,7 @@
         "id_name": "Luvdisc",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Rendezvous Pokémon"
     },
     {
@@ -3561,6 +3757,7 @@
         "id_name": "Bagon",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Rock Head Pokémon"
     },
     {
@@ -3570,6 +3767,7 @@
         "id_name": "Shelgon",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Endurance Pokémon"
     },
     {
@@ -3581,7 +3779,7 @@
         "type_first": "dragon",
         "type_second": "flying",
         "category": "Dragon Pokémon",
-        "pseudo_legendary": true
+        "pseudo_legendary": "TRUE"
     },
     {
         "id": 374,
@@ -3612,7 +3810,7 @@
         "type_first": "steel",
         "type_second": "psychic",
         "category": "Iron Leg Pokémon",
-        "pseudo_legendary": true
+        "pseudo_legendary": "TRUE"
     },
     {
         "id": 377,
@@ -3621,8 +3819,9 @@
         "id_name": "Regirock",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Rock Peak Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 378,
@@ -3631,8 +3830,9 @@
         "id_name": "Regice",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Iceberg Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 379,
@@ -3641,8 +3841,9 @@
         "id_name": "Registeel",
         "form": "",
         "type_first": "steel",
+        "type_second": "",
         "category": "Iron Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 380,
@@ -3653,7 +3854,7 @@
         "type_first": "dragon",
         "type_second": "psychic",
         "category": "Eon Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 381,
@@ -3664,7 +3865,7 @@
         "type_first": "dragon",
         "type_second": "psychic",
         "category": "Eon Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 382,
@@ -3673,8 +3874,9 @@
         "id_name": "Kyogre",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Sea Basin Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 383,
@@ -3683,8 +3885,9 @@
         "id_name": "Groudon",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Continent Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 384,
@@ -3695,7 +3898,7 @@
         "type_first": "dragon",
         "type_second": "flying",
         "category": "Sky High Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 385,
@@ -3706,7 +3909,7 @@
         "type_first": "steel",
         "type_second": "psychic",
         "category": "Wish Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 386,
@@ -3715,8 +3918,9 @@
         "id_name": "Deoxys",
         "form": "Normal Forme",
         "type_first": "psychic",
+        "type_second": "",
         "category": "DNA Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 387,
@@ -3725,6 +3929,7 @@
         "id_name": "Turtwig",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Tiny Leaf Pokémon",
         "starter": 1
     },
@@ -3735,6 +3940,7 @@
         "id_name": "Grotle",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Grove Pokémon",
         "starter": 2
     },
@@ -3756,6 +3962,7 @@
         "id_name": "Chimchar",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Chimp Pokémon",
         "starter": 1
     },
@@ -3788,6 +3995,7 @@
         "id_name": "Piplup",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Penguin Pokémon",
         "starter": 1
     },
@@ -3798,6 +4006,7 @@
         "id_name": "Prinplup",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Penguin Pokémon",
         "starter": 2
     },
@@ -3849,6 +4058,7 @@
         "id_name": "Bidoof",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Plump Mouse Pokémon"
     },
     {
@@ -3868,6 +4078,7 @@
         "id_name": "Kricketot",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Cricket Pokémon"
     },
     {
@@ -3877,6 +4088,7 @@
         "id_name": "Kricketune",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Cricket Pokémon"
     },
     {
@@ -3886,6 +4098,7 @@
         "id_name": "Shinx",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Flash Pokémon"
     },
     {
@@ -3895,6 +4108,7 @@
         "id_name": "Luxio",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Spark Pokémon"
     },
     {
@@ -3904,6 +4118,7 @@
         "id_name": "Luxray",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Gleam Eyes Pokémon"
     },
     {
@@ -3915,7 +4130,7 @@
         "type_first": "grass",
         "type_second": "poison",
         "category": "Bud Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 407,
@@ -3934,6 +4149,7 @@
         "id_name": "Cranidos",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Head Butt Pokémon"
     },
     {
@@ -3943,6 +4159,7 @@
         "id_name": "Rampardos",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Head Butt Pokémon"
     },
     {
@@ -3972,6 +4189,7 @@
         "id_name": "Burmy",
         "form": "Plant Cloak",
         "type_first": "bug",
+        "type_second": "",
         "category": "Bagworm Pokémon"
     },
     {
@@ -4021,6 +4239,7 @@
         "id_name": "Pachirisu",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "EleSquirrel Pokémon"
     },
     {
@@ -4030,6 +4249,7 @@
         "id_name": "Buizel",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Sea Weasel Pokémon"
     },
     {
@@ -4039,6 +4259,7 @@
         "id_name": "Floatzel",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Sea Weasel Pokémon"
     },
     {
@@ -4048,6 +4269,7 @@
         "id_name": "Cherubi",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Cherry Pokémon"
     },
     {
@@ -4057,6 +4279,7 @@
         "id_name": "Cherrim",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Blossom Pokémon"
     },
     {
@@ -4066,6 +4289,7 @@
         "id_name": "Shellos",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Sea Slug Pokémon"
     },
     {
@@ -4085,6 +4309,7 @@
         "id_name": "Ambipom",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Long Tail Pokémon"
     },
     {
@@ -4114,6 +4339,7 @@
         "id_name": "Buneary",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Rabbit Pokémon"
     },
     {
@@ -4123,6 +4349,7 @@
         "id_name": "Lopunny",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Rabbit Pokémon"
     },
     {
@@ -4132,6 +4359,7 @@
         "id_name": "Mismagius",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Magical Pokémon"
     },
     {
@@ -4151,6 +4379,7 @@
         "id_name": "Glameow",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Catty Pokémon"
     },
     {
@@ -4160,6 +4389,7 @@
         "id_name": "Purugly",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Tiger Cat Pokémon"
     },
     {
@@ -4169,6 +4399,7 @@
         "id_name": "Chingling",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Bell Pokémon"
     },
     {
@@ -4218,8 +4449,9 @@
         "id_name": "Bonsly",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Bonsai Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 439,
@@ -4230,7 +4462,7 @@
         "type_first": "psychic",
         "type_second": "fairy",
         "category": "Mime Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 440,
@@ -4239,8 +4471,9 @@
         "id_name": "Happiny",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Playhouse Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 441,
@@ -4291,7 +4524,7 @@
         "type_first": "dragon",
         "type_second": "ground",
         "category": "Mach Pokémon",
-        "pseudo_legendary": true
+        "pseudo_legendary": "TRUE"
     },
     {
         "id": 446,
@@ -4300,8 +4533,9 @@
         "id_name": "Munchlax",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Big Eater Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 447,
@@ -4310,8 +4544,9 @@
         "id_name": "Riolu",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Emanation Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 448,
@@ -4330,6 +4565,7 @@
         "id_name": "Hippopotas",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Hippo Pokémon"
     },
     {
@@ -4339,6 +4575,7 @@
         "id_name": "Hippowdon",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Heavyweight Pokémon"
     },
     {
@@ -4388,6 +4625,7 @@
         "id_name": "Carnivine",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Bug Catcher Pokémon"
     },
     {
@@ -4397,6 +4635,7 @@
         "id_name": "Finneon",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Wing Fish Pokémon"
     },
     {
@@ -4406,6 +4645,7 @@
         "id_name": "Lumineon",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Neon Pokémon"
     },
     {
@@ -4417,7 +4657,7 @@
         "type_first": "water",
         "type_second": "flying",
         "category": "Kite Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 459,
@@ -4466,6 +4706,7 @@
         "id_name": "Lickilicky",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Licking Pokémon"
     },
     {
@@ -4485,6 +4726,7 @@
         "id_name": "Tangrowth",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Vine Pokémon"
     },
     {
@@ -4494,6 +4736,7 @@
         "id_name": "Electivire",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Thunderbolt Pokémon"
     },
     {
@@ -4503,6 +4746,7 @@
         "id_name": "Magmortar",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Blast Pokémon"
     },
     {
@@ -4532,6 +4776,7 @@
         "id_name": "Leafeon",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Verdant Pokémon"
     },
     {
@@ -4541,6 +4786,7 @@
         "id_name": "Glaceon",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Fresh Snow Pokémon"
     },
     {
@@ -4570,6 +4816,7 @@
         "id_name": "Porygon-Z",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Virtual Pokémon"
     },
     {
@@ -4599,6 +4846,7 @@
         "id_name": "Dusknoir",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Gripper Pokémon"
     },
     {
@@ -4628,8 +4876,9 @@
         "id_name": "Uxie",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Knowledge Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 481,
@@ -4638,8 +4887,9 @@
         "id_name": "Mesprit",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Emotion Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 482,
@@ -4648,8 +4898,9 @@
         "id_name": "Azelf",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Willpower Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 483,
@@ -4660,7 +4911,7 @@
         "type_first": "steel",
         "type_second": "dragon",
         "category": "Temporal Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 484,
@@ -4671,7 +4922,7 @@
         "type_first": "water",
         "type_second": "dragon",
         "category": "Spatial Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 485,
@@ -4682,7 +4933,7 @@
         "type_first": "fire",
         "type_second": "steel",
         "category": "Lava Dome Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 486,
@@ -4691,8 +4942,9 @@
         "id_name": "Regigigas",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Colossal Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 487,
@@ -4703,7 +4955,7 @@
         "type_first": "ghost",
         "type_second": "dragon",
         "category": "Renegade Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 488,
@@ -4712,8 +4964,9 @@
         "id_name": "Cresselia",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Lunar Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 489,
@@ -4722,8 +4975,9 @@
         "id_name": "Phione",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Sea Drifter Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 490,
@@ -4732,8 +4986,9 @@
         "id_name": "Manaphy",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Seafaring Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 491,
@@ -4742,8 +4997,9 @@
         "id_name": "Darkrai",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Pitch-Black Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 492,
@@ -4752,8 +5008,9 @@
         "id_name": "Shaymin",
         "form": "Land Forme",
         "type_first": "grass",
+        "type_second": "",
         "category": "Gratitude Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 493,
@@ -4762,8 +5019,9 @@
         "id_name": "Arceus",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Alpha Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 494,
@@ -4774,7 +5032,7 @@
         "type_first": "psychic",
         "type_second": "fire",
         "category": "Victory Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 495,
@@ -4783,6 +5041,7 @@
         "id_name": "Snivy",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Grass Snake Pokémon",
         "starter": 1
     },
@@ -4793,6 +5052,7 @@
         "id_name": "Servine",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Grass Snake Pokémon",
         "starter": 2
     },
@@ -4803,6 +5063,7 @@
         "id_name": "Serperior",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Regal Pokémon",
         "starter": 3
     },
@@ -4813,6 +5074,7 @@
         "id_name": "Tepig",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fire Pig Pokémon",
         "starter": 1
     },
@@ -4845,6 +5107,7 @@
         "id_name": "Oshawott",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Sea Otter Pokémon",
         "starter": 1
     },
@@ -4855,6 +5118,7 @@
         "id_name": "Dewott",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Discipline Pokémon",
         "starter": 2
     },
@@ -4865,6 +5129,7 @@
         "id_name": "Samurott",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Formidable Pokémon",
         "starter": 3
     },
@@ -4875,6 +5140,7 @@
         "id_name": "Patrat",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Scout Pokémon"
     },
     {
@@ -4884,6 +5150,7 @@
         "id_name": "Watchog",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Lookout Pokémon"
     },
     {
@@ -4893,6 +5160,7 @@
         "id_name": "Lillipup",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Puppy Pokémon"
     },
     {
@@ -4902,6 +5170,7 @@
         "id_name": "Herdier",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Loyal Dog Pokémon"
     },
     {
@@ -4911,6 +5180,7 @@
         "id_name": "Stoutland",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Big-Hearted Pokémon"
     },
     {
@@ -4920,6 +5190,7 @@
         "id_name": "Purrloin",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Devious Pokémon"
     },
     {
@@ -4929,6 +5200,7 @@
         "id_name": "Liepard",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Cruel Pokémon"
     },
     {
@@ -4938,6 +5210,7 @@
         "id_name": "Pansage",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Grass Monkey Pokémon"
     },
     {
@@ -4947,6 +5220,7 @@
         "id_name": "Simisage",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Thorn Monkey Pokémon"
     },
     {
@@ -4956,6 +5230,7 @@
         "id_name": "Pansear",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "High Temp Pokémon"
     },
     {
@@ -4965,6 +5240,7 @@
         "id_name": "Simisear",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Ember Pokémon"
     },
     {
@@ -4974,6 +5250,7 @@
         "id_name": "Panpour",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Spray Pokémon"
     },
     {
@@ -4983,6 +5260,7 @@
         "id_name": "Simipour",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Geyser Pokémon"
     },
     {
@@ -4992,6 +5270,7 @@
         "id_name": "Munna",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Dream Eater Pokémon"
     },
     {
@@ -5001,6 +5280,7 @@
         "id_name": "Musharna",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Drowsing Pokémon"
     },
     {
@@ -5040,6 +5320,7 @@
         "id_name": "Blitzle",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Electrified Pokémon"
     },
     {
@@ -5049,6 +5330,7 @@
         "id_name": "Zebstrika",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Thunderbolt Pokémon"
     },
     {
@@ -5058,6 +5340,7 @@
         "id_name": "Roggenrola",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Mantle Pokémon"
     },
     {
@@ -5067,6 +5350,7 @@
         "id_name": "Boldore",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Ore Pokémon"
     },
     {
@@ -5076,6 +5360,7 @@
         "id_name": "Gigalith",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Compressed Pokémon"
     },
     {
@@ -5105,6 +5390,7 @@
         "id_name": "Drilbur",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Mole Pokémon"
     },
     {
@@ -5124,6 +5410,7 @@
         "id_name": "Audino",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Hearing Pokémon"
     },
     {
@@ -5133,6 +5420,7 @@
         "id_name": "Timburr",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Muscular Pokémon"
     },
     {
@@ -5142,6 +5430,7 @@
         "id_name": "Gurdurr",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Muscular Pokémon"
     },
     {
@@ -5151,6 +5440,7 @@
         "id_name": "Conkeldurr",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Muscular Pokémon"
     },
     {
@@ -5160,6 +5450,7 @@
         "id_name": "Tympole",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Tadpole Pokémon"
     },
     {
@@ -5189,6 +5480,7 @@
         "id_name": "Throh",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Judo Pokémon"
     },
     {
@@ -5198,6 +5490,7 @@
         "id_name": "Sawk",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Karate Pokémon"
     },
     {
@@ -5287,6 +5580,7 @@
         "id_name": "Petilil",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Bulb Pokémon"
     },
     {
@@ -5296,6 +5590,7 @@
         "id_name": "Lilligant",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Flowering Pokémon"
     },
     {
@@ -5305,6 +5600,7 @@
         "id_name": "Basculin",
         "form": "Blue-Striped Form",
         "type_first": "water",
+        "type_second": "",
         "category": "Hostile Pokémon"
     },
     {
@@ -5344,6 +5640,7 @@
         "id_name": "Darumaka",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Zen Charm Pokémon"
     },
     {
@@ -5353,6 +5650,7 @@
         "id_name": "Darmanitan",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Blazing Pokémon"
     },
     {
@@ -5362,6 +5660,7 @@
         "id_name": "Maractus",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Cactus Pokémon"
     },
     {
@@ -5421,6 +5720,7 @@
         "id_name": "Yamask",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Spirit Pokémon"
     },
     {
@@ -5430,6 +5730,7 @@
         "id_name": "Cofagrigus",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Coffin Pokémon"
     },
     {
@@ -5479,6 +5780,7 @@
         "id_name": "Trubbish",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Trash Bag Pokémon"
     },
     {
@@ -5488,6 +5790,7 @@
         "id_name": "Garbodor",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Trash Heap Pokémon"
     },
     {
@@ -5497,6 +5800,7 @@
         "id_name": "Zorua",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Tricky Fox Pokémon"
     },
     {
@@ -5506,6 +5810,7 @@
         "id_name": "Zoroark",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Illusion Fox Pokémon"
     },
     {
@@ -5515,6 +5820,7 @@
         "id_name": "Minccino",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Chinchilla Pokémon"
     },
     {
@@ -5524,6 +5830,7 @@
         "id_name": "Cinccino",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Scarf Pokémon"
     },
     {
@@ -5533,6 +5840,7 @@
         "id_name": "Gothita",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Fixation Pokémon"
     },
     {
@@ -5542,6 +5850,7 @@
         "id_name": "Gothorita",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Manipulate Pokémon"
     },
     {
@@ -5551,6 +5860,7 @@
         "id_name": "Gothitelle",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Astral Body Pokémon"
     },
     {
@@ -5560,6 +5870,7 @@
         "id_name": "Solosis",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Cell Pokémon"
     },
     {
@@ -5569,6 +5880,7 @@
         "id_name": "Duosion",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Mitosis Pokémon"
     },
     {
@@ -5578,6 +5890,7 @@
         "id_name": "Reuniclus",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Multiplying Pokémon"
     },
     {
@@ -5607,6 +5920,7 @@
         "id_name": "Vanillite",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Fresh Snow Pokémon"
     },
     {
@@ -5616,6 +5930,7 @@
         "id_name": "Vanillish",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Icy Snow Pokémon"
     },
     {
@@ -5625,6 +5940,7 @@
         "id_name": "Vanilluxe",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Snowstorm Pokémon"
     },
     {
@@ -5664,6 +5980,7 @@
         "id_name": "Karrablast",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Clamping Pokémon"
     },
     {
@@ -5723,6 +6040,7 @@
         "id_name": "Alomomola",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Caring Pokémon"
     },
     {
@@ -5772,6 +6090,7 @@
         "id_name": "Klink",
         "form": "",
         "type_first": "steel",
+        "type_second": "",
         "category": "Gear Pokémon"
     },
     {
@@ -5781,6 +6100,7 @@
         "id_name": "Klang",
         "form": "",
         "type_first": "steel",
+        "type_second": "",
         "category": "Gear Pokémon"
     },
     {
@@ -5790,6 +6110,7 @@
         "id_name": "Klinklang",
         "form": "",
         "type_first": "steel",
+        "type_second": "",
         "category": "Gear Pokémon"
     },
     {
@@ -5799,6 +6120,7 @@
         "id_name": "Tynamo",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "EleFish Pokémon"
     },
     {
@@ -5808,6 +6130,7 @@
         "id_name": "Eelektrik",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "EleFish Pokémon"
     },
     {
@@ -5817,6 +6140,7 @@
         "id_name": "Eelektross",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "EleFish Pokémon"
     },
     {
@@ -5826,6 +6150,7 @@
         "id_name": "Elgyem",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Cerebral Pokémon"
     },
     {
@@ -5835,6 +6160,7 @@
         "id_name": "Beheeyem",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Cerebral Pokémon"
     },
     {
@@ -5874,6 +6200,7 @@
         "id_name": "Axew",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Tusk Pokémon"
     },
     {
@@ -5883,6 +6210,7 @@
         "id_name": "Fraxure",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Axe Jaw Pokémon"
     },
     {
@@ -5892,6 +6220,7 @@
         "id_name": "Haxorus",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Axe Jaw Pokémon"
     },
     {
@@ -5901,6 +6230,7 @@
         "id_name": "Cubchoo",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Chill Pokémon"
     },
     {
@@ -5910,6 +6240,7 @@
         "id_name": "Beartic",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Freezing Pokémon"
     },
     {
@@ -5919,6 +6250,7 @@
         "id_name": "Cryogonal",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Crystallizing Pokémon"
     },
     {
@@ -5928,6 +6260,7 @@
         "id_name": "Shelmet",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Snail Pokémon"
     },
     {
@@ -5937,6 +6270,7 @@
         "id_name": "Accelgor",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Shell Out Pokémon"
     },
     {
@@ -5956,6 +6290,7 @@
         "id_name": "Mienfoo",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Martial Arts Pokémon"
     },
     {
@@ -5965,6 +6300,7 @@
         "id_name": "Mienshao",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Martial Arts Pokémon"
     },
     {
@@ -5974,6 +6310,7 @@
         "id_name": "Druddigon",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Cave Pokémon"
     },
     {
@@ -6023,6 +6360,7 @@
         "id_name": "Bouffalant",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Bash Buffalo Pokémon"
     },
     {
@@ -6072,6 +6410,7 @@
         "id_name": "Heatmor",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Anteater Pokémon"
     },
     {
@@ -6113,7 +6452,7 @@
         "type_first": "dark",
         "type_second": "dragon",
         "category": "Brutal Pokémon",
-        "pseudo_legendary": true
+        "pseudo_legendary": "TRUE"
     },
     {
         "id": 636,
@@ -6144,7 +6483,7 @@
         "type_first": "steel",
         "type_second": "fighting",
         "category": "Iron Will Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 639,
@@ -6155,7 +6494,7 @@
         "type_first": "rock",
         "type_second": "fighting",
         "category": "Cavern Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 640,
@@ -6166,7 +6505,7 @@
         "type_first": "grass",
         "type_second": "fighting",
         "category": "Grassland Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 641,
@@ -6175,8 +6514,9 @@
         "id_name": "Tornadus",
         "form": "Incarnate Forme",
         "type_first": "flying",
+        "type_second": "",
         "category": "Cyclone Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 642,
@@ -6187,7 +6527,7 @@
         "type_first": "electric",
         "type_second": "flying",
         "category": "Bolt Strike Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 643,
@@ -6198,7 +6538,7 @@
         "type_first": "dragon",
         "type_second": "fire",
         "category": "Vast White Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 644,
@@ -6209,7 +6549,7 @@
         "type_first": "dragon",
         "type_second": "electric",
         "category": "Deep Black Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 645,
@@ -6220,7 +6560,7 @@
         "type_first": "ground",
         "type_second": "flying",
         "category": "Abundance Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 646,
@@ -6231,7 +6571,7 @@
         "type_first": "dragon",
         "type_second": "ice",
         "category": "Boundary Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 647,
@@ -6242,7 +6582,7 @@
         "type_first": "water",
         "type_second": "fighting",
         "category": "Colt Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 648,
@@ -6253,7 +6593,7 @@
         "type_first": "normal",
         "type_second": "psychic",
         "category": "Melody Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 649,
@@ -6264,7 +6604,7 @@
         "type_first": "bug",
         "type_second": "steel",
         "category": "Paleozoic Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 650,
@@ -6273,6 +6613,7 @@
         "id_name": "Chespin",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Spiny Nut Pokémon",
         "starter": 1
     },
@@ -6283,6 +6624,7 @@
         "id_name": "Quilladin",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Spiny Armor Pokémon",
         "starter": 2
     },
@@ -6304,6 +6646,7 @@
         "id_name": "Fennekin",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fox Pokémon",
         "starter": 1
     },
@@ -6314,6 +6657,7 @@
         "id_name": "Braixen",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fox Pokémon",
         "starter": 2
     },
@@ -6335,6 +6679,7 @@
         "id_name": "Froakie",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Bubble Frog Pokémon",
         "starter": 1
     },
@@ -6345,6 +6690,7 @@
         "id_name": "Frogadier",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Bubble Frog Pokémon",
         "starter": 2
     },
@@ -6366,6 +6712,7 @@
         "id_name": "Bunnelby",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Digging Pokémon"
     },
     {
@@ -6415,6 +6762,7 @@
         "id_name": "Scatterbug",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Scatterdust Pokémon"
     },
     {
@@ -6424,6 +6772,7 @@
         "id_name": "Spewpa",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Scatterdust Pokémon"
     },
     {
@@ -6463,6 +6812,7 @@
         "id_name": "Flabébé",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Single Bloom Pokémon"
     },
     {
@@ -6472,6 +6822,7 @@
         "id_name": "Floette",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Single Bloom Pokémon"
     },
     {
@@ -6481,6 +6832,7 @@
         "id_name": "Florges",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Garden Pokémon"
     },
     {
@@ -6490,6 +6842,7 @@
         "id_name": "Skiddo",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Mount Pokémon"
     },
     {
@@ -6499,6 +6852,7 @@
         "id_name": "Gogoat",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Mount Pokémon"
     },
     {
@@ -6508,6 +6862,7 @@
         "id_name": "Pancham",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Playful Pokémon"
     },
     {
@@ -6527,6 +6882,7 @@
         "id_name": "Furfrou",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Poodle Pokémon"
     },
     {
@@ -6536,6 +6892,7 @@
         "id_name": "Espurr",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Restraint Pokémon"
     },
     {
@@ -6545,6 +6902,7 @@
         "id_name": "Meowstic",
         "form": "Male",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Constraint Pokémon"
     },
     {
@@ -6584,6 +6942,7 @@
         "id_name": "Spritzee",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Perfume Pokémon"
     },
     {
@@ -6593,6 +6952,7 @@
         "id_name": "Aromatisse",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Fragrance Pokémon"
     },
     {
@@ -6602,6 +6962,7 @@
         "id_name": "Swirlix",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Cotton Candy Pokémon"
     },
     {
@@ -6611,6 +6972,7 @@
         "id_name": "Slurpuff",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Meringue Pokémon"
     },
     {
@@ -6680,6 +7042,7 @@
         "id_name": "Clauncher",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Water Gun Pokémon"
     },
     {
@@ -6689,6 +7052,7 @@
         "id_name": "Clawitzer",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Howitzer Pokémon"
     },
     {
@@ -6758,6 +7122,7 @@
         "id_name": "Sylveon",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Intertwining Pokémon"
     },
     {
@@ -6797,6 +7162,7 @@
         "id_name": "Goomy",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Soft Tissue Pokémon"
     },
     {
@@ -6806,6 +7172,7 @@
         "id_name": "Sliggoo",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Soft Tissue Pokémon"
     },
     {
@@ -6815,8 +7182,9 @@
         "id_name": "Goodra",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Dragon Pokémon",
-        "pseudo_legendary": true
+        "pseudo_legendary": "TRUE"
     },
     {
         "id": 707,
@@ -6875,6 +7243,7 @@
         "id_name": "Bergmite",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Ice Chunk Pokémon"
     },
     {
@@ -6884,6 +7253,7 @@
         "id_name": "Avalugg",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Iceberg Pokémon"
     },
     {
@@ -6913,8 +7283,9 @@
         "id_name": "Xerneas",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Life Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 717,
@@ -6925,7 +7296,7 @@
         "type_first": "dark",
         "type_second": "flying",
         "category": "Destruction Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 718,
@@ -6936,7 +7307,7 @@
         "type_first": "dragon",
         "type_second": "ground",
         "category": "Order Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 719,
@@ -6947,7 +7318,7 @@
         "type_first": "rock",
         "type_second": "fairy",
         "category": "Jewel Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 720,
@@ -6958,7 +7329,7 @@
         "type_first": "psychic",
         "type_second": "ghost",
         "category": "Mischief Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 721,
@@ -6969,7 +7340,7 @@
         "type_first": "fire",
         "type_second": "water",
         "category": "Steam Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 722,
@@ -7011,6 +7382,7 @@
         "id_name": "Litten",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fire Cat Pokémon",
         "starter": 1
     },
@@ -7021,6 +7393,7 @@
         "id_name": "Torracat",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fire Cat Pokémon",
         "starter": 2
     },
@@ -7042,6 +7415,7 @@
         "id_name": "Popplio",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Sea Lion Pokémon",
         "starter": 1
     },
@@ -7052,6 +7426,7 @@
         "id_name": "Brionne",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Pop Star Pokémon",
         "starter": 2
     },
@@ -7103,6 +7478,7 @@
         "id_name": "Yungoos",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Loitering Pokémon"
     },
     {
@@ -7112,6 +7488,7 @@
         "id_name": "Gumshoos",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Stakeout Pokémon"
     },
     {
@@ -7121,6 +7498,7 @@
         "id_name": "Grubbin",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Larva Pokémon"
     },
     {
@@ -7150,6 +7528,7 @@
         "id_name": "Crabrawler",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Boxing Pokémon"
     },
     {
@@ -7199,6 +7578,7 @@
         "id_name": "Rockruff",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Puppy Pokémon"
     },
     {
@@ -7208,6 +7588,7 @@
         "id_name": "Lycanroc",
         "form": "Midday Form",
         "type_first": "rock",
+        "type_second": "",
         "category": "Wolf Pokémon"
     },
     {
@@ -7217,6 +7598,7 @@
         "id_name": "Wishiwashi",
         "form": "Solo Form",
         "type_first": "water",
+        "type_second": "",
         "category": "Small Fry Pokémon"
     },
     {
@@ -7246,6 +7628,7 @@
         "id_name": "Mudbray",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Donkey Pokémon"
     },
     {
@@ -7255,6 +7638,7 @@
         "id_name": "Mudsdale",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Draft Horse Pokémon"
     },
     {
@@ -7284,6 +7668,7 @@
         "id_name": "Fomantis",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Sickle Grass Pokémon"
     },
     {
@@ -7293,6 +7678,7 @@
         "id_name": "Lurantis",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Bloom Sickle Pokémon"
     },
     {
@@ -7362,6 +7748,7 @@
         "id_name": "Bounsweet",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Fruit Pokémon"
     },
     {
@@ -7371,6 +7758,7 @@
         "id_name": "Steenee",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Fruit Pokémon"
     },
     {
@@ -7380,6 +7768,7 @@
         "id_name": "Tsareena",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Fruit Pokémon"
     },
     {
@@ -7389,6 +7778,7 @@
         "id_name": "Comfey",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Posy Picker Pokémon"
     },
     {
@@ -7408,6 +7798,7 @@
         "id_name": "Passimian",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Teamwork Pokémon"
     },
     {
@@ -7457,6 +7848,7 @@
         "id_name": "Pyukumuku",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Sea Cucumber Pokémon"
     },
     {
@@ -7466,6 +7858,7 @@
         "id_name": "Type: Null",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Synthetic Pokémon"
     },
     {
@@ -7475,6 +7868,7 @@
         "id_name": "Silvally",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Synthetic Pokémon"
     },
     {
@@ -7494,6 +7888,7 @@
         "id_name": "Komala",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Drowsing Pokémon"
     },
     {
@@ -7563,6 +7958,7 @@
         "id_name": "Jangmo-o",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Scaly Pokémon"
     },
     {
@@ -7584,7 +7980,7 @@
         "type_first": "dragon",
         "type_second": "fighting",
         "category": "Scaly Pokémon",
-        "pseudo_legendary": true
+        "pseudo_legendary": "TRUE"
     },
     {
         "id": 785,
@@ -7595,7 +7991,7 @@
         "type_first": "electric",
         "type_second": "fairy",
         "category": "Land Spirit Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 786,
@@ -7606,7 +8002,7 @@
         "type_first": "psychic",
         "type_second": "fairy",
         "category": "Land Spirit Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 787,
@@ -7617,7 +8013,7 @@
         "type_first": "grass",
         "type_second": "fairy",
         "category": "Land Spirit Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 788,
@@ -7628,7 +8024,7 @@
         "type_first": "water",
         "type_second": "fairy",
         "category": "Land Spirit Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 789,
@@ -7637,8 +8033,9 @@
         "id_name": "Cosmog",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Nebula Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 790,
@@ -7647,8 +8044,9 @@
         "id_name": "Cosmoem",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Protostar Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 791,
@@ -7659,7 +8057,7 @@
         "type_first": "psychic",
         "type_second": "steel",
         "category": "Sunne Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 792,
@@ -7670,7 +8068,7 @@
         "type_first": "psychic",
         "type_second": "ghost",
         "category": "Moone Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 793,
@@ -7681,7 +8079,7 @@
         "type_first": "rock",
         "type_second": "poison",
         "category": "Parasite Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 794,
@@ -7692,7 +8090,7 @@
         "type_first": "bug",
         "type_second": "fighting",
         "category": "Swollen Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 795,
@@ -7703,7 +8101,7 @@
         "type_first": "bug",
         "type_second": "fighting",
         "category": "Lissome Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 796,
@@ -7712,8 +8110,9 @@
         "id_name": "Xurkitree",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Glowing Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 797,
@@ -7724,7 +8123,7 @@
         "type_first": "steel",
         "type_second": "flying",
         "category": "Launch Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 798,
@@ -7735,7 +8134,7 @@
         "type_first": "grass",
         "type_second": "steel",
         "category": "Drawn Sword Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 799,
@@ -7746,7 +8145,7 @@
         "type_first": "dark",
         "type_second": "dragon",
         "category": "Junkivore Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 800,
@@ -7755,8 +8154,9 @@
         "id_name": "Necrozma",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Prism Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 801,
@@ -7767,7 +8167,7 @@
         "type_first": "steel",
         "type_second": "fairy",
         "category": "Artificial Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 802,
@@ -7778,7 +8178,7 @@
         "type_first": "fighting",
         "type_second": "ghost",
         "category": "Gloomdweller Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 803,
@@ -7787,8 +8187,9 @@
         "id_name": "Poipole",
         "form": "",
         "type_first": "poison",
+        "type_second": "",
         "category": "Poison Pin Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 804,
@@ -7799,7 +8200,7 @@
         "type_first": "poison",
         "type_second": "dragon",
         "category": "Poison Pin Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 805,
@@ -7810,7 +8211,7 @@
         "type_first": "rock",
         "type_second": "steel",
         "category": "Rampart Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 806,
@@ -7821,7 +8222,7 @@
         "type_first": "fire",
         "type_second": "ghost",
         "category": "Fireworks Pokémon",
-        "ultra_beast": true
+        "ultra_beast": "TRUE"
     },
     {
         "id": 807,
@@ -7830,8 +8231,9 @@
         "id_name": "Zeraora",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Thunderclap Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 808,
@@ -7840,8 +8242,9 @@
         "id_name": "Meltan",
         "form": "",
         "type_first": "steel",
+        "type_second": "",
         "category": "Hex Nut Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 809,
@@ -7850,8 +8253,9 @@
         "id_name": "Melmetal",
         "form": "",
         "type_first": "steel",
+        "type_second": "",
         "category": "Hex Nut Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 810,
@@ -7860,6 +8264,7 @@
         "id_name": "Grookey",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Chimp Pokémon",
         "starter": 1
     },
@@ -7870,6 +8275,7 @@
         "id_name": "Thwackey",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Beat Pokémon",
         "starter": 2
     },
@@ -7880,6 +8286,7 @@
         "id_name": "Rillaboom",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Drummer Pokémon",
         "starter": 3
     },
@@ -7890,6 +8297,7 @@
         "id_name": "Scorbunny",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Rabbit Pokémon",
         "starter": 1
     },
@@ -7900,6 +8308,7 @@
         "id_name": "Raboot",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Rabbit Pokémon",
         "starter": 2
     },
@@ -7910,6 +8319,7 @@
         "id_name": "Cinderace",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Striker Pokémon",
         "starter": 3
     },
@@ -7920,6 +8330,7 @@
         "id_name": "Sobble",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Water Lizard Pokémon",
         "starter": 1
     },
@@ -7930,6 +8341,7 @@
         "id_name": "Drizzile",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Water Lizard Pokémon",
         "starter": 2
     },
@@ -7940,6 +8352,7 @@
         "id_name": "Inteleon",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Secret Agent Pokémon",
         "starter": 3
     },
@@ -7950,6 +8363,7 @@
         "id_name": "Skwovet",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Cheeky Pokémon"
     },
     {
@@ -7959,6 +8373,7 @@
         "id_name": "Greedent",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Greedy Pokémon"
     },
     {
@@ -7968,6 +8383,7 @@
         "id_name": "Rookidee",
         "form": "",
         "type_first": "flying",
+        "type_second": "",
         "category": "Tiny Bird Pokémon"
     },
     {
@@ -7977,6 +8393,7 @@
         "id_name": "Corvisquire",
         "form": "",
         "type_first": "flying",
+        "type_second": "",
         "category": "Raven Pokémon"
     },
     {
@@ -7996,6 +8413,7 @@
         "id_name": "Blipbug",
         "form": "",
         "type_first": "bug",
+        "type_second": "",
         "category": "Larva Pokémon"
     },
     {
@@ -8025,6 +8443,7 @@
         "id_name": "Nickit",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Fox Pokémon"
     },
     {
@@ -8034,6 +8453,7 @@
         "id_name": "Thievul",
         "form": "",
         "type_first": "dark",
+        "type_second": "",
         "category": "Fox Pokémon"
     },
     {
@@ -8043,6 +8463,7 @@
         "id_name": "Gossifleur",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Flowering Pokémon"
     },
     {
@@ -8052,6 +8473,7 @@
         "id_name": "Eldegoss",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Cotton Bloom Pokémon"
     },
     {
@@ -8061,6 +8483,7 @@
         "id_name": "Wooloo",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Sheep Pokémon"
     },
     {
@@ -8070,6 +8493,7 @@
         "id_name": "Dubwool",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Sheep Pokémon"
     },
     {
@@ -8079,6 +8503,7 @@
         "id_name": "Chewtle",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Snapping Pokémon"
     },
     {
@@ -8098,6 +8523,7 @@
         "id_name": "Yamper",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Puppy Pokémon"
     },
     {
@@ -8107,6 +8533,7 @@
         "id_name": "Boltund",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Dog Pokémon"
     },
     {
@@ -8116,6 +8543,7 @@
         "id_name": "Rolycoly",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Coal Pokémon"
     },
     {
@@ -8175,6 +8603,7 @@
         "id_name": "Silicobra",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Sand Snake Pokémon"
     },
     {
@@ -8184,6 +8613,7 @@
         "id_name": "Sandaconda",
         "form": "",
         "type_first": "ground",
+        "type_second": "",
         "category": "Sand Snake Pokémon"
     },
     {
@@ -8203,6 +8633,7 @@
         "id_name": "Arrokuda",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Rush Pokémon"
     },
     {
@@ -8212,6 +8643,7 @@
         "id_name": "Barraskewda",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Skewer Pokémon"
     },
     {
@@ -8223,7 +8655,7 @@
         "type_first": "electric",
         "type_second": "poison",
         "category": "Baby Pokémon",
-        "baby": true
+        "baby": "TRUE"
     },
     {
         "id": 849,
@@ -8262,6 +8694,7 @@
         "id_name": "Clobbopus",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Tantrum Pokémon"
     },
     {
@@ -8271,6 +8704,7 @@
         "id_name": "Grapploct",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Jujitsu Pokémon"
     },
     {
@@ -8280,6 +8714,7 @@
         "id_name": "Sinistea",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Black Tea Pokémon"
     },
     {
@@ -8289,6 +8724,7 @@
         "id_name": "Polteageist",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Black Tea Pokémon"
     },
     {
@@ -8298,6 +8734,7 @@
         "id_name": "Hatenna",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Calm Pokémon"
     },
     {
@@ -8307,6 +8744,7 @@
         "id_name": "Hattrem",
         "form": "",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Serene Pokémon"
     },
     {
@@ -8366,6 +8804,7 @@
         "id_name": "Perrserker",
         "form": "",
         "type_first": "steel",
+        "type_second": "",
         "category": "Viking Pokémon"
     },
     {
@@ -8375,6 +8814,7 @@
         "id_name": "Cursola",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Coral Pokémon"
     },
     {
@@ -8384,6 +8824,7 @@
         "id_name": "Sirfetch'd",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Wild Duck Pokémon"
     },
     {
@@ -8413,6 +8854,7 @@
         "id_name": "Milcery",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Cream Pokémon"
     },
     {
@@ -8422,6 +8864,7 @@
         "id_name": "Alcremie",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Cream Pokémon"
     },
     {
@@ -8431,6 +8874,7 @@
         "id_name": "Falinks",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Formation Pokémon"
     },
     {
@@ -8440,6 +8884,7 @@
         "id_name": "Pincurchin",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Sea Urchin Pokémon"
     },
     {
@@ -8469,6 +8914,7 @@
         "id_name": "Stonjourner",
         "form": "",
         "type_first": "rock",
+        "type_second": "",
         "category": "Big Rock Pokémon"
     },
     {
@@ -8478,6 +8924,7 @@
         "id_name": "Eiscue",
         "form": "Ice Face",
         "type_first": "ice",
+        "type_second": "",
         "category": "Penguin Pokémon"
     },
     {
@@ -8507,6 +8954,7 @@
         "id_name": "Cufant",
         "form": "",
         "type_first": "steel",
+        "type_second": "",
         "category": "Copperderm Pokémon"
     },
     {
@@ -8516,6 +8964,7 @@
         "id_name": "Copperajah",
         "form": "",
         "type_first": "steel",
+        "type_second": "",
         "category": "Copperderm Pokémon"
     },
     {
@@ -8597,7 +9046,7 @@
         "type_first": "dragon",
         "type_second": "ghost",
         "category": "Stealth Pokémon",
-        "pseudo_legendary": true
+        "pseudo_legendary": "TRUE"
     },
     {
         "id": 888,
@@ -8606,8 +9055,9 @@
         "id_name": "Zacian",
         "form": "Hero of Many Battles",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Warrior Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 889,
@@ -8616,8 +9066,9 @@
         "id_name": "Zamazenta",
         "form": "Hero of Many Battles",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Warrior Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 890,
@@ -8628,7 +9079,7 @@
         "type_first": "poison",
         "type_second": "dragon",
         "category": "Gigantic Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 891,
@@ -8637,8 +9088,9 @@
         "id_name": "Kubfu",
         "form": "",
         "type_first": "fighting",
+        "type_second": "",
         "category": "Wushu Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 892,
@@ -8649,7 +9101,7 @@
         "type_first": "fighting",
         "type_second": "dark",
         "category": "Wushu Pokémon",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 893,
@@ -8660,7 +9112,7 @@
         "type_first": "dark",
         "type_second": "grass",
         "category": "Rogue Monkey Pokémon",
-        "mythical": true
+        "mythical": "TRUE"
     },
     {
         "id": 894,
@@ -8669,6 +9121,7 @@
         "id_name": "Regieleki",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Electron Pokémon"
     },
     {
@@ -8678,6 +9131,7 @@
         "id_name": "Regidrago",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "Dragon Orb Pokémon"
     },
     {
@@ -8687,6 +9141,7 @@
         "id_name": "Glastrier",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Wild Horse Pokémon"
     },
     {
@@ -8696,6 +9151,7 @@
         "id_name": "Spectrier",
         "form": "",
         "type_first": "ghost",
+        "type_second": "",
         "category": "Swift Horse Pokémon"
     },
     {
@@ -8785,6 +9241,7 @@
         "id_name": "Sprigatito",
         "form": "",
         "type_first": "grass",
+        "type_second": "",
         "category": "Grass Cat Pokémon",
         "starter": 1
     },
@@ -8795,6 +9252,7 @@
         "id_name": "Fuecoco",
         "form": "",
         "type_first": "fire",
+        "type_second": "",
         "category": "Fire Croc Pokémon",
         "starter": 1
     },
@@ -8805,6 +9263,7 @@
         "id_name": "Quaxly",
         "form": "",
         "type_first": "water",
+        "type_second": "",
         "category": "Duckling Pokémon",
         "starter": 1
     },
@@ -8815,6 +9274,7 @@
         "id_name": "Pawmi",
         "form": "",
         "type_first": "electric",
+        "type_second": "",
         "category": "Mouse Pokémon"
     },
     {
@@ -8834,6 +9294,7 @@
         "id_name": "Lechonk",
         "form": "",
         "type_first": "normal",
+        "type_second": "",
         "category": "Hog Pokémon"
     },
     {
@@ -8843,6 +9304,7 @@
         "id_name": "Fidough",
         "form": "",
         "type_first": "fairy",
+        "type_second": "",
         "category": "Puppy Pokémon"
     },
     {
@@ -8852,6 +9314,7 @@
         "id_name": "Cetitan",
         "form": "",
         "type_first": "ice",
+        "type_second": "",
         "category": "Terra Whale Pokémon"
     },
     {
@@ -8871,8 +9334,9 @@
         "id_name": "Koraidon",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "UNKNOWN",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 916,
@@ -8881,8 +9345,9 @@
         "id_name": "Miraidon",
         "form": "",
         "type_first": "dragon",
+        "type_second": "",
         "category": "UNKNOWN",
-        "legendary": true
+        "legendary": "TRUE"
     },
     {
         "id": 10001,
@@ -8917,7 +9382,8 @@
         "id_url": "blastoise",
         "id_name": "Blastoise",
         "form": "Mega Blastoise",
-        "type_first": "water"
+        "type_first": "water",
+        "type_second": ""
     },
     {
         "id": 10005,
@@ -8962,6 +9428,7 @@
         "id_name": "Pikachu",
         "form": "Partner Pikachu",
         "type_first": "electric",
+        "type_second": "",
         "starter": 1
     },
     {
@@ -8997,7 +9464,8 @@
         "id_url": "vulpix",
         "id_name": "Vulpix",
         "form": "Alolan Vulpix",
-        "type_first": "ice"
+        "type_first": "ice",
+        "type_second": ""
     },
     {
         "id": 10014,
@@ -9032,7 +9500,8 @@
         "id_url": "meowth",
         "id_name": "Meowth",
         "form": "Alolan Meowth",
-        "type_first": "dark"
+        "type_first": "dark",
+        "type_second": ""
     },
     {
         "id": 10018,
@@ -9040,7 +9509,8 @@
         "id_url": "meowth",
         "id_name": "Meowth",
         "form": "Galarian Meowth",
-        "type_first": "steel"
+        "type_first": "steel",
+        "type_second": ""
     },
     {
         "id": 10019,
@@ -9048,7 +9518,8 @@
         "id_url": "persian",
         "id_name": "Persian",
         "form": "Alolan Persian",
-        "type_first": "dark"
+        "type_first": "dark",
+        "type_second": ""
     },
     {
         "id": 10020,
@@ -9075,7 +9546,8 @@
         "id_url": "alakazam",
         "id_name": "Alakazam",
         "form": "Mega Alakazam",
-        "type_first": "psychic"
+        "type_first": "psychic",
+        "type_second": ""
     },
     {
         "id": 10023,
@@ -9111,6 +9583,7 @@
         "id_name": "Ponyta",
         "form": "Galarian Ponyta",
         "type_first": "psychic",
+        "type_second": "",
         "category": "Unique Horn Pokémon"
     },
     {
@@ -9129,7 +9602,8 @@
         "id_url": "slowpoke",
         "id_name": "Slowpoke",
         "form": "Galarian Slowpoke",
-        "type_first": "psychic"
+        "type_first": "psychic",
+        "type_second": ""
     },
     {
         "id": 10029,
@@ -9155,7 +9629,8 @@
         "id_url": "farfetchd",
         "id_name": "Farfetch'd",
         "form": "Galarian Farfetch'd",
-        "type_first": "fighting"
+        "type_first": "fighting",
+        "type_second": ""
     },
     {
         "id": 10032,
@@ -9237,7 +9712,8 @@
         "id_url": "kangaskhan",
         "id_name": "Kangaskhan",
         "form": "Mega Kangaskhan",
-        "type_first": "normal"
+        "type_first": "normal",
+        "type_second": ""
     },
     {
         "id": 10041,
@@ -9274,6 +9750,7 @@
         "id_name": "Eevee",
         "form": "Partner Eevee",
         "type_first": "normal",
+        "type_second": "",
         "starter": 1
     },
     {
@@ -9330,7 +9807,8 @@
         "id_url": "mewtwo",
         "id_name": "Mewtwo",
         "form": "Mega Mewtwo Y",
-        "type_first": "psychic"
+        "type_first": "psychic",
+        "type_second": ""
     },
     {
         "id": 10051,
@@ -9423,7 +9901,8 @@
         "id_url": "corsola",
         "id_name": "Corsola",
         "form": "Galarian Corsola",
-        "type_first": "ghost"
+        "type_first": "ghost",
+        "type_second": ""
     },
     {
         "id": 10061,
@@ -9521,7 +10000,8 @@
         "id_url": "aggron",
         "id_name": "Aggron",
         "form": "Mega Aggron",
-        "type_first": "steel"
+        "type_first": "steel",
+        "type_second": ""
     },
     {
         "id": 10072,
@@ -9538,7 +10018,8 @@
         "id_url": "manectric",
         "id_name": "Manectric",
         "form": "Mega Manectric",
-        "type_first": "electric"
+        "type_first": "electric",
+        "type_second": ""
     },
     {
         "id": 10074,
@@ -9573,7 +10054,8 @@
         "id_url": "castform",
         "id_name": "Castform",
         "form": "Sunny Form",
-        "type_first": "fire"
+        "type_first": "fire",
+        "type_second": ""
     },
     {
         "id": 10078,
@@ -9581,7 +10063,8 @@
         "id_url": "castform",
         "id_name": "Castform",
         "form": "Rainy Form",
-        "type_first": "water"
+        "type_first": "water",
+        "type_second": ""
     },
     {
         "id": 10079,
@@ -9589,7 +10072,8 @@
         "id_url": "castform",
         "id_name": "Castform",
         "form": "Snowy Form",
-        "type_first": "ice"
+        "type_first": "ice",
+        "type_second": ""
     },
     {
         "id": 10080,
@@ -9597,7 +10081,8 @@
         "id_url": "banette",
         "id_name": "Banette",
         "form": "Mega Banette",
-        "type_first": "ghost"
+        "type_first": "ghost",
+        "type_second": ""
     },
     {
         "id": 10081,
@@ -9605,7 +10090,8 @@
         "id_url": "absol",
         "id_name": "Absol",
         "form": "Mega Absol",
-        "type_first": "dark"
+        "type_first": "dark",
+        "type_second": ""
     },
     {
         "id": 10082,
@@ -9613,7 +10099,8 @@
         "id_url": "glalie",
         "id_name": "Glalie",
         "form": "Mega Glalie",
-        "type_first": "ice"
+        "type_first": "ice",
+        "type_second": ""
     },
     {
         "id": 10083,
@@ -9657,7 +10144,8 @@
         "id_url": "kyogre",
         "id_name": "Kyogre",
         "form": "Primal Kyogre",
-        "type_first": "water"
+        "type_first": "water",
+        "type_second": ""
     },
     {
         "id": 10088,
@@ -9683,7 +10171,8 @@
         "id_url": "deoxys",
         "id_name": "Deoxys",
         "form": "Attack Forme",
-        "type_first": "psychic"
+        "type_first": "psychic",
+        "type_second": ""
     },
     {
         "id": 10091,
@@ -9691,7 +10180,8 @@
         "id_url": "deoxys",
         "id_name": "Deoxys",
         "form": "Defense Forme",
-        "type_first": "psychic"
+        "type_first": "psychic",
+        "type_second": ""
     },
     {
         "id": 10092,
@@ -9699,7 +10189,8 @@
         "id_url": "deoxys",
         "id_name": "Deoxys",
         "form": "Speed Forme",
-        "type_first": "psychic"
+        "type_first": "psychic",
+        "type_second": ""
     },
     {
         "id": 10093,
@@ -9707,7 +10198,8 @@
         "id_url": "burmy",
         "id_name": "Burmy",
         "form": "Sandy Cloak",
-        "type_first": "bug"
+        "type_first": "bug",
+        "type_second": ""
     },
     {
         "id": 10094,
@@ -9715,7 +10207,8 @@
         "id_url": "burmy",
         "id_name": "Burmy",
         "form": "Trash Cloak",
-        "type_first": "bug"
+        "type_first": "bug",
+        "type_second": ""
     },
     {
         "id": 10095,
@@ -9896,7 +10389,8 @@
         "id_url": "basculin",
         "id_name": "Basculin",
         "form": "Red-Striped Form",
-        "type_first": "water"
+        "type_first": "water",
+        "type_second": ""
     },
     {
         "id": 10115,
@@ -9905,6 +10399,7 @@
         "id_name": "Basculin",
         "form": "White-Striped Form",
         "type_first": "water",
+        "type_second": "",
         "category": "Mellow Pokémon"
     },
     {
@@ -9913,7 +10408,8 @@
         "id_url": "darumaka",
         "id_name": "Darumaka",
         "form": "Galarian Darumaka",
-        "type_first": "ice"
+        "type_first": "ice",
+        "type_second": ""
     },
     {
         "id": 10117,
@@ -9931,7 +10427,8 @@
         "id_url": "darmanitan",
         "id_name": "Darmanitan",
         "form": "Galarian Darmanitan",
-        "type_first": "ice"
+        "type_first": "ice",
+        "type_second": ""
     },
     {
         "id": 10119,
@@ -9993,7 +10490,8 @@
         "id_url": "tornadus",
         "id_name": "Tornadus",
         "form": "Therian Forme",
-        "type_first": "flying"
+        "type_first": "flying",
+        "type_second": ""
     },
     {
         "id": 10126,
@@ -10064,7 +10562,8 @@
         "id_url": "meowstic",
         "id_name": "Meowstic",
         "form": "Female",
-        "type_first": "psychic"
+        "type_first": "psychic",
+        "type_second": ""
     },
     {
         "id": 10134,
@@ -10238,7 +10737,8 @@
         "id_url": "rockruff",
         "id_name": "Rockruff",
         "form": "Own Tempo Rockruff",
-        "type_first": "rock"
+        "type_first": "rock",
+        "type_second": ""
     },
     {
         "id": 10153,
@@ -10246,7 +10746,8 @@
         "id_url": "lycanroc",
         "id_name": "Lycanroc",
         "form": "Midnight Form",
-        "type_first": "rock"
+        "type_first": "rock",
+        "type_second": ""
     },
     {
         "id": 10154,
@@ -10254,7 +10755,8 @@
         "id_url": "lycanroc",
         "id_name": "Lycanroc",
         "form": "Dusk Form",
-        "type_first": "rock"
+        "type_first": "rock",
+        "type_second": ""
     },
     {
         "id": 10155,
@@ -10262,7 +10764,8 @@
         "id_url": "wishiwashi",
         "id_name": "Wishiwashi",
         "form": "School Form",
-        "type_first": "water"
+        "type_first": "water",
+        "type_second": ""
     },
     {
         "id": 10156,
@@ -10315,7 +10818,8 @@
         "id_url": "eiscue",
         "id_name": "Eiscue",
         "form": "Noice Face",
-        "type_first": "ice"
+        "type_first": "ice",
+        "type_second": ""
     },
     {
         "id": 10162,
