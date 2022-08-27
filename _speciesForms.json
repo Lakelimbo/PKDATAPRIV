@@ -1,0 +1,1356 @@
+[
+    {
+        "id_dex": "003",
+        "id_url": "venusaur",
+        "id_name": "Venusaur",
+        "form": "Mega Venusaur",
+        "type_first": "grass",
+        "type_second": "poison"
+    },
+    {
+        "id_dex": "006",
+        "id_url": "charizard",
+        "id_name": "Charizard",
+        "form": "Mega Charizard X",
+        "type_first": "fire",
+        "type_second": "dragon"
+    },
+    {
+        "id_dex": "006",
+        "id_url": "charizard",
+        "id_name": "Charizard",
+        "form": "Mega Charizard Y",
+        "type_first": "fire",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": "009",
+        "id_url": "blastoise",
+        "id_name": "Blastoise",
+        "form": "Mega Blastoise",
+        "type_first": "water"
+    },
+    {
+        "id_dex": "015",
+        "id_url": "beedrill",
+        "id_name": "Beedrill",
+        "form": "Mega Beedrill",
+        "type_first": "bug",
+        "type_second": "poison"
+    },
+    {
+        "id_dex": "018",
+        "id_url": "pidgeot",
+        "id_name": "Pidgeot",
+        "form": "Mega Pidgeot",
+        "type_first": "normal",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": "019",
+        "id_url": "rattata",
+        "id_name": "Rattata",
+        "form": "Alolan Rattata",
+        "type_first": "dark",
+        "type_second": "normal"
+    },
+    {
+        "id_dex": "020",
+        "id_url": "raticate",
+        "id_name": "Raticate",
+        "form": "Alolan Raticate",
+        "type_first": "dark",
+        "type_second": "normal"
+    },
+    {
+        "id_dex": "025",
+        "id_url": "pikachu",
+        "id_name": "Pikachu",
+        "form": "Partner Pikachu",
+        "type_first": "electric",
+        "starter": 1
+    },
+    {
+        "id_dex": "026",
+        "id_url": "raichu",
+        "id_name": "Raichu",
+        "form": "Alolan Raichu",
+        "type_first": "electric",
+        "type_second": "psychic"
+    },
+    {
+        "id_dex": "027",
+        "id_url": "sandshrew",
+        "id_name": "Sandshrew",
+        "form": "Alolan Sandshrew",
+        "type_first": "ice",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": "028",
+        "id_url": "sandslash",
+        "id_name": "Sandslash",
+        "form": "Alolan Sandslash",
+        "type_first": "ice",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": "037",
+        "id_url": "vulpix",
+        "id_name": "Vulpix",
+        "form": "Alolan Vulpix",
+        "type_first": "ice"
+    },
+    {
+        "id_dex": "038",
+        "id_url": "ninetales",
+        "id_name": "Ninetales",
+        "form": "Alolan Ninetales",
+        "type_first": "ice",
+        "type_second": "fairy"
+    },
+    {
+        "id_dex": "050",
+        "id_url": "diglett",
+        "id_name": "Diglett",
+        "form": "Alolan Diglett",
+        "type_first": "ground",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": "051",
+        "id_url": "dugtrio",
+        "id_name": "Dugtrio",
+        "form": "Alolan Dugtrio",
+        "type_first": "ground",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": "052",
+        "id_url": "meowth",
+        "id_name": "Meowth",
+        "form": "Alolan Meowth",
+        "type_first": "dark"
+    },
+    {
+        "id_dex": "052",
+        "id_url": "meowth",
+        "id_name": "Meowth",
+        "form": "Galarian Meowth",
+        "type_first": "steel"
+    },
+    {
+        "id_dex": "053",
+        "id_url": "persian",
+        "id_name": "Persian",
+        "form": "Alolan Persian",
+        "type_first": "dark"
+    },
+    {
+        "id_dex": "058",
+        "id_url": "growlithe",
+        "id_name": "Growlithe",
+        "form": "Hisuian Growlithe",
+        "type_first": "fire",
+        "type_second": "rock",
+        "category": "Scout Pokémon"
+    },
+    {
+        "id_dex": "059",
+        "id_url": "arcanine",
+        "id_name": "Arcanine",
+        "form": "Hisuian Arcanine",
+        "type_first": "fire",
+        "type_second": "rock"
+    },
+    {
+        "id_dex": "065",
+        "id_url": "alakazam",
+        "id_name": "Alakazam",
+        "form": "Mega Alakazam",
+        "type_first": "psychic"
+    },
+    {
+        "id_dex": "074",
+        "id_url": "geodude",
+        "id_name": "Geodude",
+        "form": "Alolan Geodude",
+        "type_first": "rock",
+        "type_second": "electric"
+    },
+    {
+        "id_dex": "075",
+        "id_url": "graveler",
+        "id_name": "Graveler",
+        "form": "Alolan Graveler",
+        "type_first": "rock",
+        "type_second": "electric"
+    },
+    {
+        "id_dex": "076",
+        "id_url": "golem",
+        "id_name": "Golem",
+        "form": "Alolan Golem",
+        "type_first": "rock",
+        "type_second": "electric"
+    },
+    {
+        "id_dex": "077",
+        "id_url": "ponyta",
+        "id_name": "Ponyta",
+        "form": "Galarian Ponyta",
+        "type_first": "psychic",
+        "category": "Unique Horn Pokémon"
+    },
+    {
+        "id_dex": "078",
+        "id_url": "rapidash",
+        "id_name": "Rapidash",
+        "form": "Galarian Rapidash",
+        "type_first": "psychic",
+        "type_second": "fairy",
+        "category": "Unique Horn Pokémon"
+    },
+    {
+        "id_dex": "079",
+        "id_url": "slowpoke",
+        "id_name": "Slowpoke",
+        "form": "Galarian Slowpoke",
+        "type_first": "psychic"
+    },
+    {
+        "id_dex": "080",
+        "id_url": "slowbro",
+        "id_name": "Slowbro",
+        "form": "Mega Slowbro",
+        "type_first": "water",
+        "type_second": "psychic"
+    },
+    {
+        "id_dex": "080",
+        "id_url": "slowbro",
+        "id_name": "Slowbro",
+        "form": "Galarian Slowbro",
+        "type_first": "poison",
+        "type_second": "psychic"
+    },
+    {
+        "id_dex": "083",
+        "id_url": "farfetchd",
+        "id_name": "Farfetch'd",
+        "form": "Galarian Farfetch'd",
+        "type_first": "fighting"
+    },
+    {
+        "id_dex": "088",
+        "id_url": "grimer",
+        "id_name": "Grimer",
+        "form": "Alolan Grimer",
+        "type_first": "poison",
+        "type_second": "dark"
+    },
+    {
+        "id_dex": "089",
+        "id_url": "muk",
+        "id_name": "Muk",
+        "form": "Alolan Muk",
+        "type_first": "poison",
+        "type_second": "dark"
+    },
+    {
+        "id_dex": "094",
+        "id_url": "gengar",
+        "id_name": "Gengar",
+        "form": "Mega Gengar",
+        "type_first": "ghost",
+        "type_second": "poison"
+    },
+    {
+        "id_dex": 100,
+        "id_url": "voltorb",
+        "id_name": "Voltorb",
+        "form": "Hisuian Voltorb",
+        "type_first": "electric",
+        "type_second": "grass",
+        "category": "Sphere Pokémon"
+    },
+    {
+        "id_dex": 101,
+        "id_url": "electrode",
+        "id_name": "Electrode",
+        "form": "Hisuian Electrode",
+        "type_first": "electric",
+        "type_second": "grass",
+        "category": "Sphere Pokémon"
+    },
+    {
+        "id_dex": 103,
+        "id_url": "exeggutor",
+        "id_name": "Exeggutor",
+        "form": "Alolan Exeggutor",
+        "type_first": "grass",
+        "type_second": "dragon"
+    },
+    {
+        "id_dex": 105,
+        "id_url": "marowak",
+        "id_name": "Marowak",
+        "form": "Alolan Marowak",
+        "type_first": "fire",
+        "type_second": "ghost"
+    },
+    {
+        "id_dex": 110,
+        "id_url": "weezing",
+        "id_name": "Weezing",
+        "form": "Galarian Weezing",
+        "type_first": "poison",
+        "type_second": "fairy"
+    },
+    {
+        "id_dex": 115,
+        "id_url": "kangaskhan",
+        "id_name": "Kangaskhan",
+        "form": "Mega Kangaskhan",
+        "type_first": "normal"
+    },
+    {
+        "id_dex": 122,
+        "id_url": "mr-mime",
+        "id_name": "Mr. Mime",
+        "form": "Galarian Mr. Mime",
+        "type_first": "ice",
+        "type_second": "psychic",
+        "category": "Dancing Pokémon"
+    },
+    {
+        "id_dex": 127,
+        "id_url": "pinsir",
+        "id_name": "Pinsir",
+        "form": "Mega Pinsir",
+        "type_first": "bug",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 130,
+        "id_url": "gyarados",
+        "id_name": "Gyarados",
+        "form": "Mega Gyarados",
+        "type_first": "water",
+        "type_second": "dark"
+    },
+    {
+        "id_dex": 133,
+        "id_url": "eevee",
+        "id_name": "Eevee",
+        "form": "Partner Eevee",
+        "type_first": "normal",
+        "starter": 1
+    },
+    {
+        "id_dex": 142,
+        "id_url": "aerodactyl",
+        "id_name": "Aerodactyl",
+        "form": "Mega Aerodactyl",
+        "type_first": "rock",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 144,
+        "id_url": "articuno",
+        "id_name": "Articuno",
+        "form": "Galarian Articuno",
+        "type_first": "psychic",
+        "type_second": "flying",
+        "category": "Cruel Pokémon"
+    },
+    {
+        "id_dex": 145,
+        "id_url": "zapdos",
+        "id_name": "Zapdos",
+        "form": "Galarian Zapdos",
+        "type_first": "fighting",
+        "type_second": "flying",
+        "category": "Strong Legs Pokémon"
+    },
+    {
+        "id_dex": 146,
+        "id_url": "moltres",
+        "id_name": "Moltres",
+        "form": "Galarian Moltres",
+        "type_first": "dark",
+        "type_second": "flying",
+        "category": "Malevolent Pokémon"
+    },
+    {
+        "id_dex": 150,
+        "id_url": "mewtwo",
+        "id_name": "Mewtwo",
+        "form": "Mega Mewtwo X",
+        "type_first": "psychic",
+        "type_second": "fighting"
+    },
+    {
+        "id_dex": 150,
+        "id_url": "mewtwo",
+        "id_name": "Mewtwo",
+        "form": "Mega Mewtwo Y",
+        "type_first": "psychic"
+    },
+    {
+        "id_dex": 157,
+        "id_url": "typhlosion",
+        "id_name": "Typhlosion",
+        "form": "Hisuian Typhlosion",
+        "type_first": "fire",
+        "type_second": "ghost",
+        "category": "Ghost Flame Pokémon",
+        "starter": 3
+    },
+    {
+        "id_dex": 181,
+        "id_url": "ampharos",
+        "id_name": "Ampharos",
+        "form": "Mega Ampharos",
+        "type_first": "electric",
+        "type_second": "dragon"
+    },
+    {
+        "id_dex": 194,
+        "id_url": "wooper",
+        "id_name": "Wooper",
+        "form": "Paldean Wooper",
+        "type_first": "poison",
+        "type_second": "ground",
+        "category": "Poison Fish Pokémon"
+    },
+    {
+        "id_dex": 199,
+        "id_url": "slowking",
+        "id_name": "Slowking",
+        "form": "Galarian Slowking",
+        "type_first": "poison",
+        "type_second": "psychic",
+        "category": "Hexpert Pokémon"
+    },
+    {
+        "id_dex": 208,
+        "id_url": "steelix",
+        "id_name": "Steelix",
+        "form": "Mega Steelix",
+        "type_first": "steel",
+        "type_second": "ground"
+    },
+    {
+        "id_dex": 211,
+        "id_url": "qwilfish",
+        "id_name": "Qwilfish",
+        "form": "Hisuian Qwilfish",
+        "type_first": "dark",
+        "type_second": "poison"
+    },
+    {
+        "id_dex": 212,
+        "id_url": "scizor",
+        "id_name": "Scizor",
+        "form": "Mega Scizor",
+        "type_first": "bug",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": 214,
+        "id_url": "heracross",
+        "id_name": "Heracross",
+        "form": "Mega Heracross",
+        "type_first": "bug",
+        "type_second": "fighting"
+    },
+    {
+        "id_dex": 215,
+        "id_url": "sneasel",
+        "id_name": "Sneasel",
+        "form": "Hisuian Sneasel",
+        "type_first": "poison",
+        "type_second": "fighting"
+    },
+    {
+        "id_dex": 222,
+        "id_url": "corsola",
+        "id_name": "Corsola",
+        "form": "Galarian Corsola",
+        "type_first": "ghost"
+    },
+    {
+        "id_dex": 229,
+        "id_url": "houndoom",
+        "id_name": "Houndoom",
+        "form": "Mega Houndoom",
+        "type_first": "dark",
+        "type_second": "fire"
+    },
+    {
+        "id_dex": 248,
+        "id_url": "tyranitar",
+        "id_name": "Tyranitar",
+        "form": "Mega Tyranitar",
+        "type_first": "rock",
+        "type_second": "dark"
+    },
+    {
+        "id_dex": 254,
+        "id_url": "sceptile",
+        "id_name": "Sceptile",
+        "form": "Mega Sceptile",
+        "type_first": "grass",
+        "type_second": "dragon"
+    },
+    {
+        "id_dex": 257,
+        "id_url": "blaziken",
+        "id_name": "Blaziken",
+        "form": "Mega Blaziken",
+        "type_first": "fire",
+        "type_second": "fighting"
+    },
+    {
+        "id_dex": 260,
+        "id_url": "swampert",
+        "id_name": "Swampert",
+        "form": "Mega Swampert",
+        "type_first": "water",
+        "type_second": "ground"
+    },
+    {
+        "id_dex": 263,
+        "id_url": "zigzagoon",
+        "id_name": "Zigzagoon",
+        "form": "Galarian Zigzagoon",
+        "type_first": "dark",
+        "type_second": "normal"
+    },
+    {
+        "id_dex": 264,
+        "id_url": "linoone",
+        "id_name": "Linoone",
+        "form": "Galarian Linoone",
+        "type_first": "dark",
+        "type_second": "normal"
+    },
+    {
+        "id_dex": 282,
+        "id_url": "gardevoir",
+        "id_name": "Gardevoir",
+        "form": "Mega Gardevoir",
+        "type_first": "psychic",
+        "type_second": "fairy"
+    },
+    {
+        "id_dex": 302,
+        "id_url": "sableye",
+        "id_name": "Sableye",
+        "form": "Mega Sableye",
+        "type_first": "dark",
+        "type_second": "ghost"
+    },
+    {
+        "id_dex": 303,
+        "id_url": "mawile",
+        "id_name": "Mawile",
+        "form": "Mega Mawile",
+        "type_first": "steel",
+        "type_second": "fairy"
+    },
+    {
+        "id_dex": 306,
+        "id_url": "aggron",
+        "id_name": "Aggron",
+        "form": "Mega Aggron",
+        "type_first": "steel"
+    },
+    {
+        "id_dex": 308,
+        "id_url": "medicham",
+        "id_name": "Medicham",
+        "form": "Mega Medicham",
+        "type_first": "fighting",
+        "type_second": "psychic"
+    },
+    {
+        "id_dex": 310,
+        "id_url": "manectric",
+        "id_name": "Manectric",
+        "form": "Mega Manectric",
+        "type_first": "electric"
+    },
+    {
+        "id_dex": 319,
+        "id_url": "sharpedo",
+        "id_name": "Sharpedo",
+        "form": "Mega Sharpedo",
+        "type_first": "water",
+        "type_second": "dark"
+    },
+    {
+        "id_dex": 323,
+        "id_url": "camerupt",
+        "id_name": "Camerupt",
+        "form": "Mega Camerupt",
+        "type_first": "fire",
+        "type_second": "ground"
+    },
+    {
+        "id_dex": 334,
+        "id_url": "altaria",
+        "id_name": "Altaria",
+        "form": "Mega Altaria",
+        "type_first": "dragon",
+        "type_second": "fairy"
+    },
+    {
+        "id_dex": 351,
+        "id_url": "castform",
+        "id_name": "Castform",
+        "form": "Sunny Form",
+        "type_first": "fire"
+    },
+    {
+        "id_dex": 351,
+        "id_url": "castform",
+        "id_name": "Castform",
+        "form": "Rainy Form",
+        "type_first": "water"
+    },
+    {
+        "id_dex": 351,
+        "id_url": "castform",
+        "id_name": "Castform",
+        "form": "Snowy Form",
+        "type_first": "ice"
+    },
+    {
+        "id_dex": 354,
+        "id_url": "banette",
+        "id_name": "Banette",
+        "form": "Mega Banette",
+        "type_first": "ghost"
+    },
+    {
+        "id_dex": 359,
+        "id_url": "absol",
+        "id_name": "Absol",
+        "form": "Mega Absol",
+        "type_first": "dark"
+    },
+    {
+        "id_dex": 362,
+        "id_url": "glalie",
+        "id_name": "Glalie",
+        "form": "Mega Glalie",
+        "type_first": "ice"
+    },
+    {
+        "id_dex": 373,
+        "id_url": "salamence",
+        "id_name": "Salamence",
+        "form": "Mega Salamence",
+        "type_first": "dragon",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 376,
+        "id_url": "metagross",
+        "id_name": "Metagross",
+        "form": "Mega Metagross",
+        "type_first": "steel",
+        "type_second": "psychic"
+    },
+    {
+        "id_dex": 380,
+        "id_url": "latias",
+        "id_name": "Latias",
+        "form": "Mega Latias",
+        "type_first": "dragon",
+        "type_second": "psychic"
+    },
+    {
+        "id_dex": 381,
+        "id_url": "latios",
+        "id_name": "Latios",
+        "form": "Mega Latios",
+        "type_first": "dragon",
+        "type_second": "psychic"
+    },
+    {
+        "id_dex": 382,
+        "id_url": "kyogre",
+        "id_name": "Kyogre",
+        "form": "Primal Kyogre",
+        "type_first": "water"
+    },
+    {
+        "id_dex": 383,
+        "id_url": "groudon",
+        "id_name": "Groudon",
+        "form": "Primal Groudon",
+        "type_first": "ground",
+        "type_second": "fire"
+    },
+    {
+        "id_dex": 384,
+        "id_url": "rayquaza",
+        "id_name": "Rayquaza",
+        "form": "Mega Rayquaza",
+        "type_first": "dragon",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 386,
+        "id_url": "deoxys",
+        "id_name": "Deoxys",
+        "form": "Attack Forme",
+        "type_first": "psychic"
+    },
+    {
+        "id_dex": 386,
+        "id_url": "deoxys",
+        "id_name": "Deoxys",
+        "form": "Defense Forme",
+        "type_first": "psychic"
+    },
+    {
+        "id_dex": 386,
+        "id_url": "deoxys",
+        "id_name": "Deoxys",
+        "form": "Speed Forme",
+        "type_first": "psychic"
+    },
+    {
+        "id_dex": 412,
+        "id_url": "burmy",
+        "id_name": "Burmy",
+        "form": "Sandy Cloak",
+        "type_first": "bug"
+    },
+    {
+        "id_dex": 412,
+        "id_url": "burmy",
+        "id_name": "Burmy",
+        "form": "Trash Cloak",
+        "type_first": "bug"
+    },
+    {
+        "id_dex": 413,
+        "id_url": "wormadam",
+        "id_name": "Wormadam",
+        "form": "Sandy Cloak",
+        "type_first": "bug",
+        "type_second": "ground"
+    },
+    {
+        "id_dex": 413,
+        "id_url": "wormadam",
+        "id_name": "Wormadam",
+        "form": "Trash Cloak",
+        "type_first": "bug",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": 428,
+        "id_url": "lopunny",
+        "id_name": "Lopunny",
+        "form": "Mega Lopunny",
+        "type_first": "normal",
+        "type_second": "fighting"
+    },
+    {
+        "id_dex": 445,
+        "id_url": "garchomp",
+        "id_name": "Garchomp",
+        "form": "Mega Garchomp",
+        "type_first": "dragon",
+        "type_second": "ground"
+    },
+    {
+        "id_dex": 448,
+        "id_url": "lucario",
+        "id_name": "Lucario",
+        "form": "Mega Lucario",
+        "type_first": "fighting",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": 460,
+        "id_url": "abomasnow",
+        "id_name": "Abomasnow",
+        "form": "Mega Abomasnow",
+        "type_first": "grass",
+        "type_second": "ice"
+    },
+    {
+        "id_dex": 475,
+        "id_url": "gallade",
+        "id_name": "Gallade",
+        "form": "Mega Gallade",
+        "type_first": "psychic",
+        "type_second": "fighting"
+    },
+    {
+        "id_dex": 479,
+        "id_url": "rotom",
+        "id_name": "Rotom",
+        "form": "Heat Rotom",
+        "type_first": "electric",
+        "type_second": "fire"
+    },
+    {
+        "id_dex": 479,
+        "id_url": "rotom",
+        "id_name": "Rotom",
+        "form": "Wash Rotom",
+        "type_first": "electric",
+        "type_second": "water"
+    },
+    {
+        "id_dex": 479,
+        "id_url": "rotom",
+        "id_name": "Rotom",
+        "form": "Frost Rotom",
+        "type_first": "electric",
+        "type_second": "ice"
+    },
+    {
+        "id_dex": 479,
+        "id_url": "rotom",
+        "id_name": "Rotom",
+        "form": "Fan Rotom",
+        "type_first": "electric",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 479,
+        "id_url": "rotom",
+        "id_name": "Rotom",
+        "form": "Mow Rotom",
+        "type_first": "electric",
+        "type_second": "grass"
+    },
+    {
+        "id_dex": 483,
+        "id_url": "dialga",
+        "id_name": "Dialga",
+        "form": "Origin Forme",
+        "type_first": "steel",
+        "type_second": "dragon"
+    },
+    {
+        "id_dex": 484,
+        "id_url": "palkia",
+        "id_name": "Palkia",
+        "form": "Origin Forme",
+        "type_first": "water",
+        "type_second": "dragon"
+    },
+    {
+        "id_dex": 487,
+        "id_url": "giratina",
+        "id_name": "Giratina",
+        "form": "Origin Forme",
+        "type_first": "ghost",
+        "type_second": "dragon"
+    },
+    {
+        "id_dex": 492,
+        "id_url": "shaymin",
+        "id_name": "Shaymin",
+        "form": "Sky Forme",
+        "type_first": "grass",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 503,
+        "id_url": "samurott",
+        "id_name": "Samurott",
+        "form": "Hisuian Samurott",
+        "type_first": "water",
+        "type_second": "dark",
+        "starter": 3
+    },
+    {
+        "id_dex": 531,
+        "id_url": "audino",
+        "id_name": "Audino",
+        "form": "Mega Audino",
+        "type_first": "normal",
+        "type_second": "fairy"
+    },
+    {
+        "id_dex": 549,
+        "id_url": "lilligant",
+        "id_name": "Lilligant",
+        "form": "Hisuian Lilligant",
+        "type_first": "grass",
+        "type_second": "fighting",
+        "category": "Spinning Pokémon"
+    },
+    {
+        "id_dex": 550,
+        "id_url": "basculin",
+        "id_name": "Basculin",
+        "form": "Red-Striped Form",
+        "type_first": "water"
+    },
+    {
+        "id_dex": 550,
+        "id_url": "basculin",
+        "id_name": "Basculin",
+        "form": "White-Striped Form",
+        "type_first": "water",
+        "category": "Mellow Pokémon"
+    },
+    {
+        "id_dex": 554,
+        "id_url": "darumaka",
+        "id_name": "Darumaka",
+        "form": "Galarian Darumaka",
+        "type_first": "ice"
+    },
+    {
+        "id_dex": 555,
+        "id_url": "darmanitan",
+        "id_name": "Darmanitan",
+        "form": "Zen Mode",
+        "type_first": "fire",
+        "type_second": "psychic",
+        "category": "Zen Charm Pokémon"
+    },
+    {
+        "id_dex": 555,
+        "id_url": "darmanitan",
+        "id_name": "Darmanitan",
+        "form": "Galarian Darmanitan",
+        "type_first": "ice"
+    },
+    {
+        "id_dex": 555,
+        "id_url": "darmanitan",
+        "id_name": "Darmanitan",
+        "form": "Galarian Zen Mode",
+        "type_first": "ice",
+        "type_second": "fire"
+    },
+    {
+        "id_dex": 562,
+        "id_url": "yamask",
+        "id_name": "Yamask",
+        "form": "Galarian Yamask",
+        "type_first": "ground",
+        "type_second": "ghost"
+    },
+    {
+        "id_dex": 570,
+        "id_url": "zorua",
+        "id_name": "Zorua",
+        "form": "Hisuian Zorua",
+        "type_first": "normal",
+        "type_second": "ghost"
+    },
+    {
+        "id_dex": 571,
+        "id_url": "zoroark",
+        "id_name": "Zoroark",
+        "form": "Hisuian Zoroark",
+        "type_first": "normal",
+        "type_second": "ghost"
+    },
+    {
+        "id_dex": 618,
+        "id_url": "stunfisk",
+        "id_name": "Stunfisk",
+        "form": "Galarian Stunfisk",
+        "type_first": "ground",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": 628,
+        "id_url": "braviary",
+        "id_name": "Braviary",
+        "form": "Hisuian Braviary",
+        "type_first": "psychic",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 641,
+        "id_url": "tornadus",
+        "id_name": "Tornadus",
+        "form": "Therian Forme",
+        "type_first": "flying"
+    },
+    {
+        "id_dex": 642,
+        "id_url": "thundurus",
+        "id_name": "Thundurus",
+        "form": "Therian Forme",
+        "type_first": "electric",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 645,
+        "id_url": "landorus",
+        "id_name": "Landorus",
+        "form": "Therian Forme",
+        "type_first": "ground",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 646,
+        "id_url": "kyurem",
+        "id_name": "Kyurem",
+        "form": "White Kyurem",
+        "type_first": "dragon",
+        "type_second": "ice"
+    },
+    {
+        "id_dex": 646,
+        "id_url": "kyurem",
+        "id_name": "Kyurem",
+        "form": "Black Kyurem",
+        "type_first": "dragon",
+        "type_second": "ice"
+    },
+    {
+        "id_dex": 647,
+        "id_url": "keldeo",
+        "id_name": "Keldeo",
+        "form": "Resolute Form",
+        "type_first": "water",
+        "type_second": "fighting"
+    },
+    {
+        "id_dex": 648,
+        "id_url": "meloetta",
+        "id_name": "Meloetta",
+        "form": "Pirouette Forme",
+        "type_first": "normal",
+        "type_second": "fighting"
+    },
+    {
+        "id_dex": 658,
+        "id_url": "greninja",
+        "id_name": "Greninja",
+        "form": "Ash-Greninja",
+        "type_first": "water",
+        "type_second": "dark"
+    },
+    {
+        "id_dex": 678,
+        "id_url": "meowstic",
+        "id_name": "Meowstic",
+        "form": "Female",
+        "type_first": "psychic"
+    },
+    {
+        "id_dex": 681,
+        "id_url": "aegislash",
+        "id_name": "Aegislash",
+        "form": "Shield Forme",
+        "type_first": "steel",
+        "type_second": "ghost"
+    },
+    {
+        "id_dex": 705,
+        "id_url": "sliggoo",
+        "id_name": "Sliggoo",
+        "form": "Hisuian Sliggoo",
+        "type_first": "dragon",
+        "type_second": "steel",
+        "category": "Snail Pokémon"
+    },
+    {
+        "id_dex": 706,
+        "id_url": "goodra",
+        "id_name": "Goodra",
+        "form": "Hisuian Goodra",
+        "type_first": "dragon",
+        "type_second": "steel",
+        "category": "Shell Bunker Pokémon"
+    },
+    {
+        "id_dex": 710,
+        "id_url": "pumpkaboo",
+        "id_name": "Pumpkaboo",
+        "form": "Small Size",
+        "type_first": "ghost",
+        "type_second": "grass"
+    },
+    {
+        "id_dex": 710,
+        "id_url": "pumpkaboo",
+        "id_name": "Pumpkaboo",
+        "form": "Large Size",
+        "type_first": "ghost",
+        "type_second": "grass"
+    },
+    {
+        "id_dex": 710,
+        "id_url": "pumpkaboo",
+        "id_name": "Pumpkaboo",
+        "form": "Super Size",
+        "type_first": "ghost",
+        "type_second": "grass"
+    },
+    {
+        "id_dex": 711,
+        "id_url": "gourgeist",
+        "id_name": "Gourgeist",
+        "form": "Small Size",
+        "type_first": "ghost",
+        "type_second": "grass"
+    },
+    {
+        "id_dex": 711,
+        "id_url": "gourgeist",
+        "id_name": "Gourgeist",
+        "form": "Large Size",
+        "type_first": "ghost",
+        "type_second": "grass"
+    },
+    {
+        "id_dex": 711,
+        "id_url": "gourgeist",
+        "id_name": "Gourgeist",
+        "form": "Super Size",
+        "type_first": "ghost",
+        "type_second": "grass"
+    },
+    {
+        "id_dex": 713,
+        "id_url": "avalugg",
+        "id_name": "Avalugg",
+        "form": "Hisuian Avalugg",
+        "type_first": "ice",
+        "type_second": "rock"
+    },
+    {
+        "id_dex": 718,
+        "id_url": "zygarde",
+        "id_name": "Zygarde",
+        "form": "10% Forme",
+        "type_first": "dragon",
+        "type_second": "ground"
+    },
+    {
+        "id_dex": 718,
+        "id_url": "zygarde",
+        "id_name": "Zygarde",
+        "form": "Complete Forme",
+        "type_first": "dragon",
+        "type_second": "ground"
+    },
+    {
+        "id_dex": 719,
+        "id_url": "diancie",
+        "id_name": "Diancie",
+        "form": "Mega Diancie",
+        "type_first": "rock",
+        "type_second": "fairy"
+    },
+    {
+        "id_dex": 720,
+        "id_url": "hoopa",
+        "id_name": "Hoopa",
+        "form": "Unbound",
+        "type_first": "psychic",
+        "type_second": "dark",
+        "category": "Djinn Pokémon"
+    },
+    {
+        "id_dex": 724,
+        "id_url": "decidueye",
+        "id_name": "Decidueye",
+        "form": "Hisuian Decidueye",
+        "type_first": "grass",
+        "type_second": "fighting",
+        "starter": 3
+    },
+    {
+        "id_dex": 741,
+        "id_url": "oricorio",
+        "id_name": "Oricorio",
+        "form": "Pom-Pom Style",
+        "type_first": "electric",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 741,
+        "id_url": "oricorio",
+        "id_name": "Oricorio",
+        "form": "Pa'u Style",
+        "type_first": "psychic",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 741,
+        "id_url": "oricorio",
+        "id_name": "Oricorio",
+        "form": "Sensu Style",
+        "type_first": "ghost",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 744,
+        "id_url": "rockruff",
+        "id_name": "Rockruff",
+        "form": "Own Tempo Rockruff",
+        "type_first": "rock"
+    },
+    {
+        "id_dex": 745,
+        "id_url": "lycanroc",
+        "id_name": "Lycanroc",
+        "form": "Midnight Form",
+        "type_first": "rock"
+    },
+    {
+        "id_dex": 745,
+        "id_url": "lycanroc",
+        "id_name": "Lycanroc",
+        "form": "Dusk Form",
+        "type_first": "rock"
+    },
+    {
+        "id_dex": 746,
+        "id_url": "wishiwashi",
+        "id_name": "Wishiwashi",
+        "form": "School Form",
+        "type_first": "water"
+    },
+    {
+        "id_dex": 774,
+        "id_url": "minior",
+        "id_name": "Minior",
+        "form": "Core Form",
+        "type_first": "rock",
+        "type_second": "flying"
+    },
+    {
+        "id_dex": 800,
+        "id_url": "necrozma",
+        "id_name": "Necrozma",
+        "form": "Dusk Mane Necrozma",
+        "type_first": "psychic",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": 800,
+        "id_url": "necrozma",
+        "id_name": "Necrozma",
+        "form": "Dawn Wings Necrozma",
+        "type_first": "psychic",
+        "type_second": "ghost"
+    },
+    {
+        "id_dex": 800,
+        "id_url": "necrozma",
+        "id_name": "Necrozma",
+        "form": "Ultra Necrozma",
+        "type_first": "psychic",
+        "type_second": "dragon"
+    },
+    {
+        "id_dex": 849,
+        "id_url": "toxtricity",
+        "id_name": "Toxtricity",
+        "form": "Low Key Form",
+        "type_first": "electric",
+        "type_second": "poison"
+    },
+    {
+        "id_dex": 875,
+        "id_url": "eiscue",
+        "id_name": "Eiscue",
+        "form": "Noice Face",
+        "type_first": "ice"
+    },
+    {
+        "id_dex": 876,
+        "id_url": "indeedee",
+        "id_name": "Indeedee",
+        "form": "Female",
+        "type_first": "psychic",
+        "type_second": "normal"
+    },
+    {
+        "id_dex": 877,
+        "id_url": "morpeko",
+        "id_name": "Morpeko",
+        "form": "Hangry Mode",
+        "type_first": "electric",
+        "type_second": "dark"
+    },
+    {
+        "id_dex": 888,
+        "id_url": "zacian",
+        "id_name": "Zacian",
+        "form": "Crowned Sword",
+        "type_first": "fairy",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": 889,
+        "id_url": "zamazenta",
+        "id_name": "Zamazenta",
+        "form": "Crowned Shield",
+        "type_first": "fighting",
+        "type_second": "steel"
+    },
+    {
+        "id_dex": 890,
+        "id_url": "eternatus",
+        "id_name": "Eternatus",
+        "form": "Eternamax",
+        "type_first": "poison",
+        "type_second": "dragon"
+    },
+    {
+        "id_dex": 892,
+        "id_url": "urshifu",
+        "id_name": "Urshifu",
+        "form": "Rapid Strike Style",
+        "type_first": "fighting",
+        "type_second": "water"
+    },
+    {
+        "id_dex": 898,
+        "id_url": "calyrex",
+        "id_name": "Calyrex",
+        "form": "Ice Rider",
+        "type_first": "psychic",
+        "type_second": "ice",
+        "category": "High King Pokémon"
+    },
+    {
+        "id_dex": 898,
+        "id_url": "calyrex",
+        "id_name": "Calyrex",
+        "form": "Shadow Rider",
+        "type_first": "psychic",
+        "type_second": "ghost",
+        "category": "High King Pokémon"
+    },
+    {
+        "id_dex": 902,
+        "id_url": "basculegion",
+        "id_name": "Basculegion",
+        "form": "Female",
+        "type_first": "water",
+        "type_second": "ghost"
+    },
+    {
+        "id_dex": 905,
+        "id_url": "enamorus",
+        "id_name": "Enamorus",
+        "form": "Therian Forme",
+        "type_first": "fairy",
+        "type_second": "flying"
+    }
+]

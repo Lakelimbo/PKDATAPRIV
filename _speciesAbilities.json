@@ -1,0 +1,5663 @@
+[
+    {
+        "id_dex": "001",
+        "ability_first": "Overgrow",
+        "ability_hidden": "Chlorophyll"
+    },
+    {
+        "id_dex": "002",
+        "ability_first": "Overgrow",
+        "ability_hidden": "Chlorophyll"
+    },
+    {
+        "id_dex": "003",
+        "ability_first": "Overgrow",
+        "ability_hidden": "Chlorophyll"
+    },
+    {
+        "id_dex": "003",
+        "ability_first": "Thick Fat"
+    },
+    {
+        "id_dex": "004",
+        "ability_first": "Blaze",
+        "ability_hidden": "Solar Power"
+    },
+    {
+        "id_dex": "005",
+        "ability_first": "Blaze",
+        "ability_hidden": "Solar Power"
+    },
+    {
+        "id_dex": "006",
+        "ability_first": "Blaze",
+        "ability_hidden": "Solar Power"
+    },
+    {
+        "id_dex": "006",
+        "ability_first": "Tough Claws"
+    },
+    {
+        "id_dex": "006",
+        "ability_first": "Drought"
+    },
+    {
+        "id_dex": "007",
+        "ability_first": "Torrent",
+        "ability_hidden": "Rain Dish"
+    },
+    {
+        "id_dex": "008",
+        "ability_first": "Torrent",
+        "ability_hidden": "Rain Dish"
+    },
+    {
+        "id_dex": "009",
+        "ability_first": "Torrent",
+        "ability_hidden": "Rain Dish"
+    },
+    {
+        "id_dex": "009",
+        "ability_first": "Mega Launcher"
+    },
+    {
+        "id_dex": "010",
+        "ability_first": "Shield Dust",
+        "ability_hidden": "Run Away"
+    },
+    {
+        "id_dex": "011",
+        "ability_first": "Shed Skin"
+    },
+    {
+        "id_dex": "012",
+        "ability_first": "Compound Eyes",
+        "ability_hidden": "Tinted Lens"
+    },
+    {
+        "id_dex": "013",
+        "ability_first": "Shield Dust",
+        "ability_hidden": "Run Away"
+    },
+    {
+        "id_dex": "014",
+        "ability_first": "Shed Skin"
+    },
+    {
+        "id_dex": "015",
+        "ability_first": "Swarm",
+        "ability_hidden": "Sniper"
+    },
+    {
+        "id_dex": "015",
+        "ability_first": "Adaptability"
+    },
+    {
+        "id_dex": "016",
+        "ability_first": "Keen Eye",
+        "ability_second": "Tangled Feet*",
+        "ability_hidden": "Big Pecks"
+    },
+    {
+        "id_dex": "017",
+        "ability_first": "Keen Eye",
+        "ability_second": "Tangled Feet*",
+        "ability_hidden": "Big Pecks"
+    },
+    {
+        "id_dex": "018",
+        "ability_first": "Keen Eye",
+        "ability_second": "Tangled Feet*",
+        "ability_hidden": "Big Pecks"
+    },
+    {
+        "id_dex": "018",
+        "ability_first": "No Guard"
+    },
+    {
+        "id_dex": "019",
+        "ability_first": "Run Away",
+        "ability_second": "Guts",
+        "ability_hidden": "Hustle"
+    },
+    {
+        "id_dex": "019",
+        "ability_first": "Gluttony",
+        "ability_second": "Hustle",
+        "ability_hidden": "Thick Fat"
+    },
+    {
+        "id_dex": "020",
+        "ability_first": "Run Away",
+        "ability_second": "Guts",
+        "ability_hidden": "Hustle"
+    },
+    {
+        "id_dex": "020",
+        "ability_first": "Gluttony",
+        "ability_second": "Hustle",
+        "ability_hidden": "Thick Fat"
+    },
+    {
+        "id_dex": "021",
+        "ability_first": "Keen Eye",
+        "ability_hidden": "Sniper"
+    },
+    {
+        "id_dex": "022",
+        "ability_first": "Keen Eye",
+        "ability_hidden": "Sniper"
+    },
+    {
+        "id_dex": "023",
+        "ability_first": "Intimidate",
+        "ability_second": "Shed Skin",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": "024",
+        "ability_first": "Intimidate",
+        "ability_second": "Shed Skin",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": "025",
+        "ability_first": "Static",
+        "ability_hidden": "Lightning Rod"
+    },
+    {
+        "id_dex": "025",
+        "ability_first": "&mdash;"
+    },
+    {
+        "id_dex": "026",
+        "ability_first": "Static",
+        "ability_hidden": "Lightning Rod"
+    },
+    {
+        "id_dex": "026",
+        "ability_first": "Surge Surfer"
+    },
+    {
+        "id_dex": "027",
+        "ability_first": "Sand Veil",
+        "ability_hidden": "Sand Rush"
+    },
+    {
+        "id_dex": "027",
+        "ability_first": "Snow Cloak",
+        "ability_hidden": "Slush Rush"
+    },
+    {
+        "id_dex": "028",
+        "ability_first": "Sand Veil",
+        "ability_hidden": "Sand Rush"
+    },
+    {
+        "id_dex": "028",
+        "ability_first": "Snow Cloak",
+        "ability_hidden": "Slush Rush"
+    },
+    {
+        "id_dex": "029",
+        "ability_first": "Poison Point",
+        "ability_second": "Rivalry*",
+        "ability_hidden": "Hustle"
+    },
+    {
+        "id_dex": "030",
+        "ability_first": "Poison Point",
+        "ability_second": "Rivalry*",
+        "ability_hidden": "Hustle"
+    },
+    {
+        "id_dex": "031",
+        "ability_first": "Poison Point",
+        "ability_second": "Rivalry*",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": "032",
+        "ability_first": "Poison Point",
+        "ability_second": "Rivalry*",
+        "ability_hidden": "Hustle"
+    },
+    {
+        "id_dex": "033",
+        "ability_first": "Poison Point",
+        "ability_second": "Rivalry*",
+        "ability_hidden": "Hustle"
+    },
+    {
+        "id_dex": "034",
+        "ability_first": "Poison Point",
+        "ability_second": "Rivalry*",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": "035",
+        "ability_first": "Cute Charm",
+        "ability_second": "Magic Guard*",
+        "ability_hidden": "Friend Guard"
+    },
+    {
+        "id_dex": "036",
+        "ability_first": "Cute Charm",
+        "ability_second": "Magic Guard*",
+        "ability_hidden": "Unaware"
+    },
+    {
+        "id_dex": "037",
+        "ability_first": "Flash Fire",
+        "ability_hidden": "Drought"
+    },
+    {
+        "id_dex": "037",
+        "ability_first": "Snow Cloak",
+        "ability_hidden": "Snow Warning"
+    },
+    {
+        "id_dex": "038",
+        "ability_first": "Flash Fire",
+        "ability_hidden": "Drought"
+    },
+    {
+        "id_dex": "038",
+        "ability_first": "Snow Cloak",
+        "ability_hidden": "Snow Warning"
+    },
+    {
+        "id_dex": "039",
+        "ability_first": "Cute Charm",
+        "ability_second": "Competitive*",
+        "ability_hidden": "Friend Guard"
+    },
+    {
+        "id_dex": "040",
+        "ability_first": "Cute Charm",
+        "ability_second": "Competitive*",
+        "ability_hidden": "Frisk"
+    },
+    {
+        "id_dex": "041",
+        "ability_first": "Inner Focus",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": "042",
+        "ability_first": "Inner Focus",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": "043",
+        "ability_first": "Chlorophyll",
+        "ability_hidden": "Run Away"
+    },
+    {
+        "id_dex": "044",
+        "ability_first": "Chlorophyll",
+        "ability_hidden": "Stench"
+    },
+    {
+        "id_dex": "045",
+        "ability_first": "Chlorophyll",
+        "ability_hidden": "Effect Spore"
+    },
+    {
+        "id_dex": "046",
+        "ability_first": "Effect Spore",
+        "ability_second": "Dry Skin*",
+        "ability_hidden": "Damp"
+    },
+    {
+        "id_dex": "047",
+        "ability_first": "Effect Spore",
+        "ability_second": "Dry Skin*",
+        "ability_hidden": "Damp"
+    },
+    {
+        "id_dex": "048",
+        "ability_first": "Compound Eyes",
+        "ability_second": "Tinted Lens*",
+        "ability_hidden": "Run Away"
+    },
+    {
+        "id_dex": "049",
+        "ability_first": "Shield Dust",
+        "ability_second": "Tinted Lens*",
+        "ability_hidden": "Wonder Skin"
+    },
+    {
+        "id_dex": "050",
+        "ability_first": "Sand Veil",
+        "ability_second": "Arena Trap",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": "050",
+        "ability_first": "Sand Veil",
+        "ability_second": "Tangling Hair",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": "051",
+        "ability_first": "Sand Veil",
+        "ability_second": "Arena Trap",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": "051",
+        "ability_first": "Sand Veil",
+        "ability_second": "Tangling Hair",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": "052",
+        "ability_first": "Pickup",
+        "ability_second": "Technician*",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": "052",
+        "ability_first": "Pickup",
+        "ability_second": "Technician",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": "052",
+        "ability_first": "Pickup",
+        "ability_second": "Tough Claws",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": "053",
+        "ability_first": "Limber",
+        "ability_second": "Technician*",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": "053",
+        "ability_first": "Fur Coat",
+        "ability_second": "Technician",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": "054",
+        "ability_first": "Damp",
+        "ability_second": "Cloud Nine",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": "055",
+        "ability_first": "Damp",
+        "ability_second": "Cloud Nine",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": "056",
+        "ability_first": "Vital Spirit",
+        "ability_second": "Anger Point*",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": "057",
+        "ability_first": "Vital Spirit",
+        "ability_second": "Anger Point*",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": "058",
+        "ability_first": "Intimidate",
+        "ability_second": "Flash Fire",
+        "ability_hidden": "Justified"
+    },
+    {
+        "id_dex": "058",
+        "ability_first": "Intimidate",
+        "ability_second": "Flash Fire",
+        "ability_hidden": "Justified"
+    },
+    {
+        "id_dex": "059",
+        "ability_first": "Intimidate",
+        "ability_second": "Flash Fire",
+        "ability_hidden": "Justified"
+    },
+    {
+        "id_dex": "059",
+        "ability_first": "Intimidate",
+        "ability_second": "Flash Fire",
+        "ability_hidden": "Justified"
+    },
+    {
+        "id_dex": "060",
+        "ability_first": "Water Absorb",
+        "ability_second": "Damp",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": "061",
+        "ability_first": "Water Absorb",
+        "ability_second": "Damp",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": "062",
+        "ability_first": "Water Absorb",
+        "ability_second": "Damp",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": "063",
+        "ability_first": "Synchronize",
+        "ability_second": "Inner Focus",
+        "ability_hidden": "Magic Guard"
+    },
+    {
+        "id_dex": "064",
+        "ability_first": "Synchronize",
+        "ability_second": "Inner Focus",
+        "ability_hidden": "Magic Guard"
+    },
+    {
+        "id_dex": "065",
+        "ability_first": "Synchronize",
+        "ability_second": "Inner Focus",
+        "ability_hidden": "Magic Guard"
+    },
+    {
+        "id_dex": "065",
+        "ability_first": "Trace"
+    },
+    {
+        "id_dex": "066",
+        "ability_first": "Guts",
+        "ability_second": "No Guard*",
+        "ability_hidden": "Steadfast"
+    },
+    {
+        "id_dex": "067",
+        "ability_first": "Guts",
+        "ability_second": "No Guard*",
+        "ability_hidden": "Steadfast"
+    },
+    {
+        "id_dex": "068",
+        "ability_first": "Guts",
+        "ability_second": "No Guard*",
+        "ability_hidden": "Steadfast"
+    },
+    {
+        "id_dex": "069",
+        "ability_first": "Chlorophyll",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": "070",
+        "ability_first": "Chlorophyll",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": "071",
+        "ability_first": "Chlorophyll",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": "072",
+        "ability_first": "Clear Body",
+        "ability_second": "Liquid Ooze",
+        "ability_hidden": "Rain Dish"
+    },
+    {
+        "id_dex": "073",
+        "ability_first": "Clear Body",
+        "ability_second": "Liquid Ooze",
+        "ability_hidden": "Rain Dish"
+    },
+    {
+        "id_dex": "074",
+        "ability_first": "Rock Head",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": "074",
+        "ability_first": "Magnet Pull",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Galvanize"
+    },
+    {
+        "id_dex": "075",
+        "ability_first": "Rock Head",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": "075",
+        "ability_first": "Magnet Pull",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Galvanize"
+    },
+    {
+        "id_dex": "076",
+        "ability_first": "Rock Head",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": "076",
+        "ability_first": "Magnet Pull",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Galvanize"
+    },
+    {
+        "id_dex": "077",
+        "ability_first": "Run Away",
+        "ability_second": "Flash Fire",
+        "ability_hidden": "Flame Body"
+    },
+    {
+        "id_dex": "077",
+        "ability_first": "Run Away",
+        "ability_second": "Pastel Veil",
+        "ability_hidden": "Anticipation"
+    },
+    {
+        "id_dex": "078",
+        "ability_first": "Run Away",
+        "ability_second": "Flash Fire",
+        "ability_hidden": "Flame Body"
+    },
+    {
+        "id_dex": "078",
+        "ability_first": "Run Away",
+        "ability_second": "Pastel Veil",
+        "ability_hidden": "Anticipation"
+    },
+    {
+        "id_dex": "079",
+        "ability_first": "Oblivious",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": "079",
+        "ability_first": "Gluttony",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": "080",
+        "ability_first": "Oblivious",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": "080",
+        "ability_first": "Shell Armor"
+    },
+    {
+        "id_dex": "080",
+        "ability_first": "Quick Draw",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": "081",
+        "ability_first": "Magnet Pull",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": "082",
+        "ability_first": "Magnet Pull",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": "083",
+        "ability_first": "Keen Eye",
+        "ability_second": "Inner Focus",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": "083",
+        "ability_first": "Steadfast",
+        "ability_hidden": "Scrappy"
+    },
+    {
+        "id_dex": "084",
+        "ability_first": "Run Away",
+        "ability_second": "Early Bird",
+        "ability_hidden": "Tangled Feet"
+    },
+    {
+        "id_dex": "085",
+        "ability_first": "Run Away",
+        "ability_second": "Early Bird",
+        "ability_hidden": "Tangled Feet"
+    },
+    {
+        "id_dex": "086",
+        "ability_first": "Thick Fat",
+        "ability_second": "Hydration*",
+        "ability_hidden": "Ice Body"
+    },
+    {
+        "id_dex": "087",
+        "ability_first": "Thick Fat",
+        "ability_second": "Hydration*",
+        "ability_hidden": "Ice Body"
+    },
+    {
+        "id_dex": "088",
+        "ability_first": "Stench",
+        "ability_second": "Sticky Hold",
+        "ability_hidden": "Poison Touch"
+    },
+    {
+        "id_dex": "088",
+        "ability_first": "Poison Touch",
+        "ability_second": "Gluttony",
+        "ability_hidden": "Power of Alchemy"
+    },
+    {
+        "id_dex": "089",
+        "ability_first": "Stench",
+        "ability_second": "Sticky Hold",
+        "ability_hidden": "Poison Touch"
+    },
+    {
+        "id_dex": "089",
+        "ability_first": "Poison Touch",
+        "ability_second": "Gluttony",
+        "ability_hidden": "Power of Alchemy"
+    },
+    {
+        "id_dex": "090",
+        "ability_first": "Shell Armor",
+        "ability_second": "Skill Link*",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": "091",
+        "ability_first": "Shell Armor",
+        "ability_second": "Skill Link*",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": "092",
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": "093",
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": "094",
+        "ability_first": "Cursed Body"
+    },
+    {
+        "id_dex": "094",
+        "ability_first": "Shadow Tag"
+    },
+    {
+        "id_dex": "095",
+        "ability_first": "Rock Head",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": "096",
+        "ability_first": "Insomnia",
+        "ability_second": "Forewarn*",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": "097",
+        "ability_first": "Insomnia",
+        "ability_second": "Forewarn*",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": "098",
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": "099",
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 100,
+        "ability_first": "Soundproof",
+        "ability_second": "Static",
+        "ability_hidden": "Aftermath"
+    },
+    {
+        "id_dex": 100,
+        "ability_first": "Soundproof",
+        "ability_second": "Static",
+        "ability_hidden": "Aftermath"
+    },
+    {
+        "id_dex": 101,
+        "ability_first": "Soundproof",
+        "ability_second": "Static",
+        "ability_hidden": "Aftermath"
+    },
+    {
+        "id_dex": 101,
+        "ability_first": "Soundproof",
+        "ability_second": "Static",
+        "ability_hidden": "Aftermath"
+    },
+    {
+        "id_dex": 102,
+        "ability_first": "Chlorophyll",
+        "ability_hidden": "Harvest"
+    },
+    {
+        "id_dex": 103,
+        "ability_first": "Chlorophyll",
+        "ability_hidden": "Harvest"
+    },
+    {
+        "id_dex": 103,
+        "ability_first": "Frisk",
+        "ability_hidden": "Harvest"
+    },
+    {
+        "id_dex": 104,
+        "ability_first": "Rock Head",
+        "ability_second": "Lightning Rod",
+        "ability_hidden": "Battle Armor"
+    },
+    {
+        "id_dex": 105,
+        "ability_first": "Rock Head",
+        "ability_second": "Lightning Rod",
+        "ability_hidden": "Battle Armor"
+    },
+    {
+        "id_dex": 105,
+        "ability_first": "Cursed Body",
+        "ability_second": "Lightning Rod",
+        "ability_hidden": "Rock Head"
+    },
+    {
+        "id_dex": 106,
+        "ability_first": "Limber",
+        "ability_second": "Reckless*",
+        "ability_hidden": "Unburden"
+    },
+    {
+        "id_dex": 107,
+        "ability_first": "Keen Eye",
+        "ability_second": "Iron Fist*",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": 108,
+        "ability_first": "Own Tempo",
+        "ability_second": "Oblivious",
+        "ability_hidden": "Cloud Nine"
+    },
+    {
+        "id_dex": 109,
+        "ability_first": "Levitate",
+        "ability_second": "Neutralizing Gas*",
+        "ability_hidden": "Stench*"
+    },
+    {
+        "id_dex": 110,
+        "ability_first": "Levitate",
+        "ability_second": "Neutralizing Gas*",
+        "ability_hidden": "Stench*"
+    },
+    {
+        "id_dex": 110,
+        "ability_first": "Levitate",
+        "ability_second": "Neutralizing Gas",
+        "ability_hidden": "Misty Surge"
+    },
+    {
+        "id_dex": 111,
+        "ability_first": "Lightning Rod",
+        "ability_second": "Rock Head",
+        "ability_hidden": "Reckless"
+    },
+    {
+        "id_dex": 112,
+        "ability_first": "Lightning Rod",
+        "ability_second": "Rock Head",
+        "ability_hidden": "Reckless"
+    },
+    {
+        "id_dex": 113,
+        "ability_first": "Natural Cure",
+        "ability_second": "Serene Grace",
+        "ability_hidden": "Healer"
+    },
+    {
+        "id_dex": 114,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Leaf Guard*",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 115,
+        "ability_first": "Early Bird",
+        "ability_second": "Scrappy*",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": 115,
+        "ability_first": "Parental Bond"
+    },
+    {
+        "id_dex": 116,
+        "ability_first": "Swift Swim",
+        "ability_second": "Sniper*",
+        "ability_hidden": "Damp"
+    },
+    {
+        "id_dex": 117,
+        "ability_first": "Poison Point",
+        "ability_second": "Sniper*",
+        "ability_hidden": "Damp"
+    },
+    {
+        "id_dex": 118,
+        "ability_first": "Swift Swim",
+        "ability_second": "Water Veil",
+        "ability_hidden": "Lightning Rod"
+    },
+    {
+        "id_dex": 119,
+        "ability_first": "Swift Swim",
+        "ability_second": "Water Veil",
+        "ability_hidden": "Lightning Rod"
+    },
+    {
+        "id_dex": 120,
+        "ability_first": "Illuminate",
+        "ability_second": "Natural Cure",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": 121,
+        "ability_first": "Illuminate",
+        "ability_second": "Natural Cure",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": 122,
+        "ability_first": "Soundproof",
+        "ability_second": "Filter*",
+        "ability_hidden": "Technician"
+    },
+    {
+        "id_dex": 122,
+        "ability_first": "Vital Spirit",
+        "ability_second": "Screen Cleaner",
+        "ability_hidden": "Ice Body"
+    },
+    {
+        "id_dex": 123,
+        "ability_first": "Swarm",
+        "ability_second": "Technician*",
+        "ability_hidden": "Steadfast"
+    },
+    {
+        "id_dex": 124,
+        "ability_first": "Oblivious",
+        "ability_second": "Forewarn*",
+        "ability_hidden": "Dry Skin"
+    },
+    {
+        "id_dex": 125,
+        "ability_first": "Static",
+        "ability_hidden": "Vital Spirit"
+    },
+    {
+        "id_dex": 126,
+        "ability_first": "Flame Body",
+        "ability_hidden": "Vital Spirit"
+    },
+    {
+        "id_dex": 127,
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Mold Breaker*",
+        "ability_hidden": "Moxie"
+    },
+    {
+        "id_dex": 127,
+        "ability_first": "Aerilate"
+    },
+    {
+        "id_dex": 128,
+        "ability_first": "Intimidate",
+        "ability_second": "Anger Point*",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 129,
+        "ability_first": "Swift Swim",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 130,
+        "ability_first": "Intimidate",
+        "ability_hidden": "Moxie"
+    },
+    {
+        "id_dex": 130,
+        "ability_first": "Mold Breaker"
+    },
+    {
+        "id_dex": 131,
+        "ability_first": "Water Absorb",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Hydration"
+    },
+    {
+        "id_dex": 132,
+        "ability_first": "Limber",
+        "ability_hidden": "Imposter"
+    },
+    {
+        "id_dex": 133,
+        "ability_first": "Run Away",
+        "ability_second": "Adaptability*",
+        "ability_hidden": "Anticipation"
+    },
+    {
+        "id_dex": 134,
+        "ability_first": "Water Absorb",
+        "ability_hidden": "Hydration"
+    },
+    {
+        "id_dex": 135,
+        "ability_first": "Volt Absorb",
+        "ability_hidden": "Quick Feet"
+    },
+    {
+        "id_dex": 136,
+        "ability_first": "Flash Fire",
+        "ability_hidden": "Guts"
+    },
+    {
+        "id_dex": 137,
+        "ability_first": "Trace",
+        "ability_second": "Download*",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": 138,
+        "ability_first": "Swift Swim",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 139,
+        "ability_first": "Swift Swim",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 140,
+        "ability_first": "Swift Swim",
+        "ability_second": "Battle Armor",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 141,
+        "ability_first": "Swift Swim",
+        "ability_second": "Battle Armor",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 142,
+        "ability_first": "Rock Head",
+        "ability_second": "Pressure",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 142,
+        "ability_first": "Tough Claws"
+    },
+    {
+        "id_dex": 143,
+        "ability_first": "Immunity",
+        "ability_second": "Thick Fat",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": 144,
+        "ability_first": "Pressure",
+        "ability_hidden": "Snow Cloak"
+    },
+    {
+        "id_dex": 144,
+        "ability_first": "Competitive"
+    },
+    {
+        "id_dex": 145,
+        "ability_first": "Pressure",
+        "ability_hidden": "Static*"
+    },
+    {
+        "id_dex": 145,
+        "ability_first": "Defiant"
+    },
+    {
+        "id_dex": 146,
+        "ability_first": "Pressure",
+        "ability_hidden": "Flame Body"
+    },
+    {
+        "id_dex": 146,
+        "ability_first": "Berserk"
+    },
+    {
+        "id_dex": 147,
+        "ability_first": "Shed Skin",
+        "ability_hidden": "Marvel Scale"
+    },
+    {
+        "id_dex": 148,
+        "ability_first": "Shed Skin",
+        "ability_hidden": "Marvel Scale"
+    },
+    {
+        "id_dex": 149,
+        "ability_first": "Inner Focus",
+        "ability_hidden": "Multiscale"
+    },
+    {
+        "id_dex": 150,
+        "ability_first": "Pressure",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 150,
+        "ability_first": "Steadfast"
+    },
+    {
+        "id_dex": 150,
+        "ability_first": "Insomnia"
+    },
+    {
+        "id_dex": 151,
+        "ability_first": "Synchronize"
+    },
+    {
+        "id_dex": 152,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Leaf Guard"
+    },
+    {
+        "id_dex": 153,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Leaf Guard"
+    },
+    {
+        "id_dex": 154,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Leaf Guard"
+    },
+    {
+        "id_dex": 155,
+        "ability_first": "Blaze",
+        "ability_hidden": "Flash Fire"
+    },
+    {
+        "id_dex": 156,
+        "ability_first": "Blaze",
+        "ability_hidden": "Flash Fire"
+    },
+    {
+        "id_dex": 157,
+        "ability_first": "Blaze",
+        "ability_hidden": "Flash Fire"
+    },
+    {
+        "id_dex": 157,
+        "ability_first": "Blaze",
+        "ability_hidden": "Flash Fire"
+    },
+    {
+        "id_dex": 158,
+        "ability_first": "Torrent",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 159,
+        "ability_first": "Torrent",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 160,
+        "ability_first": "Torrent",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 161,
+        "ability_first": "Run Away",
+        "ability_second": "Keen Eye",
+        "ability_hidden": "Frisk"
+    },
+    {
+        "id_dex": 162,
+        "ability_first": "Run Away",
+        "ability_second": "Keen Eye",
+        "ability_hidden": "Frisk"
+    },
+    {
+        "id_dex": 163,
+        "ability_first": "Insomnia",
+        "ability_second": "Keen Eye",
+        "ability_hidden": "Tinted Lens"
+    },
+    {
+        "id_dex": 164,
+        "ability_first": "Insomnia",
+        "ability_second": "Keen Eye",
+        "ability_hidden": "Tinted Lens"
+    },
+    {
+        "id_dex": 165,
+        "ability_first": "Swarm",
+        "ability_second": "Early Bird",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 166,
+        "ability_first": "Swarm",
+        "ability_second": "Early Bird",
+        "ability_hidden": "Iron Fist"
+    },
+    {
+        "id_dex": 167,
+        "ability_first": "Swarm",
+        "ability_second": "Insomnia",
+        "ability_hidden": "Sniper"
+    },
+    {
+        "id_dex": 168,
+        "ability_first": "Swarm",
+        "ability_second": "Insomnia",
+        "ability_hidden": "Sniper"
+    },
+    {
+        "id_dex": 169,
+        "ability_first": "Inner Focus",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": 170,
+        "ability_first": "Volt Absorb",
+        "ability_second": "Illuminate",
+        "ability_hidden": "Water Absorb"
+    },
+    {
+        "id_dex": 171,
+        "ability_first": "Volt Absorb",
+        "ability_second": "Illuminate",
+        "ability_hidden": "Water Absorb"
+    },
+    {
+        "id_dex": 172,
+        "ability_first": "Static",
+        "ability_hidden": "Lightning Rod"
+    },
+    {
+        "id_dex": 172,
+        "ability_first": "Static"
+    },
+    {
+        "id_dex": 173,
+        "ability_first": "Cute Charm",
+        "ability_second": "Magic Guard*",
+        "ability_hidden": "Friend Guard"
+    },
+    {
+        "id_dex": 174,
+        "ability_first": "Cute Charm",
+        "ability_second": "Competitive*",
+        "ability_hidden": "Friend Guard"
+    },
+    {
+        "id_dex": 175,
+        "ability_first": "Hustle",
+        "ability_second": "Serene Grace",
+        "ability_hidden": "Super Luck"
+    },
+    {
+        "id_dex": 176,
+        "ability_first": "Hustle",
+        "ability_second": "Serene Grace",
+        "ability_hidden": "Super Luck"
+    },
+    {
+        "id_dex": 177,
+        "ability_first": "Synchronize",
+        "ability_second": "Early Bird",
+        "ability_hidden": "Magic Bounce"
+    },
+    {
+        "id_dex": 178,
+        "ability_first": "Synchronize",
+        "ability_second": "Early Bird",
+        "ability_hidden": "Magic Bounce"
+    },
+    {
+        "id_dex": 179,
+        "ability_first": "Static",
+        "ability_hidden": "Plus"
+    },
+    {
+        "id_dex": 180,
+        "ability_first": "Static",
+        "ability_hidden": "Plus"
+    },
+    {
+        "id_dex": 181,
+        "ability_first": "Static",
+        "ability_hidden": "Plus"
+    },
+    {
+        "id_dex": 181,
+        "ability_first": "Mold Breaker"
+    },
+    {
+        "id_dex": 182,
+        "ability_first": "Chlorophyll",
+        "ability_hidden": "Healer"
+    },
+    {
+        "id_dex": 183,
+        "ability_first": "Thick Fat",
+        "ability_second": "Huge Power",
+        "ability_hidden": "Sap Sipper"
+    },
+    {
+        "id_dex": 184,
+        "ability_first": "Thick Fat",
+        "ability_second": "Huge Power",
+        "ability_hidden": "Sap Sipper"
+    },
+    {
+        "id_dex": 185,
+        "ability_first": "Sturdy",
+        "ability_second": "Rock Head",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 186,
+        "ability_first": "Water Absorb",
+        "ability_second": "Damp",
+        "ability_hidden": "Drizzle"
+    },
+    {
+        "id_dex": 187,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Leaf Guard*",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": 188,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Leaf Guard*",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": 189,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Leaf Guard*",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": 190,
+        "ability_first": "Run Away",
+        "ability_second": "Pickup",
+        "ability_hidden": "Skill Link"
+    },
+    {
+        "id_dex": 191,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Solar Power*",
+        "ability_hidden": "Early Bird"
+    },
+    {
+        "id_dex": 192,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Solar Power*",
+        "ability_hidden": "Early Bird"
+    },
+    {
+        "id_dex": 193,
+        "ability_first": "Speed Boost",
+        "ability_second": "Compound Eyes",
+        "ability_hidden": "Frisk"
+    },
+    {
+        "id_dex": 194,
+        "ability_first": "Damp",
+        "ability_second": "Water Absorb",
+        "ability_hidden": "Unaware"
+    },
+    {
+        "id_dex": 195,
+        "ability_first": "Damp",
+        "ability_second": "Water Absorb",
+        "ability_hidden": "Unaware"
+    },
+    {
+        "id_dex": 196,
+        "ability_first": "Synchronize",
+        "ability_hidden": "Magic Bounce"
+    },
+    {
+        "id_dex": 197,
+        "ability_first": "Synchronize",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": 198,
+        "ability_first": "Insomnia",
+        "ability_second": "Super Luck*",
+        "ability_hidden": "Prankster"
+    },
+    {
+        "id_dex": 199,
+        "ability_first": "Oblivious",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 199,
+        "ability_first": "Curious Medicine",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 200,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 201,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 202,
+        "ability_first": "Shadow Tag",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 203,
+        "ability_first": "Inner Focus",
+        "ability_second": "Early Bird",
+        "ability_hidden": "Sap Sipper"
+    },
+    {
+        "id_dex": 204,
+        "ability_first": "Sturdy",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 205,
+        "ability_first": "Sturdy",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 206,
+        "ability_first": "Serene Grace",
+        "ability_second": "Run Away",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 207,
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Sand Veil",
+        "ability_hidden": "Immunity"
+    },
+    {
+        "id_dex": 208,
+        "ability_first": "Rock Head",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 208,
+        "ability_first": "Sand Force"
+    },
+    {
+        "id_dex": 209,
+        "ability_first": "Intimidate",
+        "ability_second": "Run Away",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 210,
+        "ability_first": "Intimidate",
+        "ability_second": "Quick Feet*",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 211,
+        "ability_first": "Poison Point",
+        "ability_second": "Swift Swim",
+        "ability_hidden": "Intimidate"
+    },
+    {
+        "id_dex": 211,
+        "ability_first": "Poison Point",
+        "ability_second": "Swift Swim",
+        "ability_hidden": "Intimidate"
+    },
+    {
+        "id_dex": 212,
+        "ability_first": "Swarm",
+        "ability_second": "Technician*",
+        "ability_hidden": "Light Metal"
+    },
+    {
+        "id_dex": 212,
+        "ability_first": "Technician"
+    },
+    {
+        "id_dex": 213,
+        "ability_first": "Sturdy",
+        "ability_second": "Gluttony*",
+        "ability_hidden": "Contrary"
+    },
+    {
+        "id_dex": 214,
+        "ability_first": "Swarm",
+        "ability_second": "Guts",
+        "ability_hidden": "Moxie"
+    },
+    {
+        "id_dex": 214,
+        "ability_first": "Skill Link"
+    },
+    {
+        "id_dex": 215,
+        "ability_first": "Inner Focus",
+        "ability_second": "Keen Eye",
+        "ability_hidden": "Pickpocket"
+    },
+    {
+        "id_dex": 215,
+        "ability_first": "Inner Focus",
+        "ability_second": "Keen Eye",
+        "ability_hidden": "Poison Touch"
+    },
+    {
+        "id_dex": 216,
+        "ability_first": "Pickup",
+        "ability_second": "Quick Feet*",
+        "ability_hidden": "Honey Gather"
+    },
+    {
+        "id_dex": 217,
+        "ability_first": "Guts",
+        "ability_second": "Quick Feet*",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 218,
+        "ability_first": "Magma Armor",
+        "ability_second": "Flame Body",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 219,
+        "ability_first": "Magma Armor",
+        "ability_second": "Flame Body",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 220,
+        "ability_first": "Oblivious",
+        "ability_second": "Snow Cloak*",
+        "ability_hidden": "Thick Fat"
+    },
+    {
+        "id_dex": 221,
+        "ability_first": "Oblivious",
+        "ability_second": "Snow Cloak*",
+        "ability_hidden": "Thick Fat"
+    },
+    {
+        "id_dex": 222,
+        "ability_first": "Hustle",
+        "ability_second": "Natural Cure",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 222,
+        "ability_first": "Weak Armor",
+        "ability_hidden": "Cursed Body"
+    },
+    {
+        "id_dex": 223,
+        "ability_first": "Hustle",
+        "ability_second": "Sniper*",
+        "ability_hidden": "Moody"
+    },
+    {
+        "id_dex": 224,
+        "ability_first": "Suction Cups",
+        "ability_second": "Sniper*",
+        "ability_hidden": "Moody"
+    },
+    {
+        "id_dex": 225,
+        "ability_first": "Vital Spirit",
+        "ability_second": "Hustle",
+        "ability_hidden": "Insomnia"
+    },
+    {
+        "id_dex": 226,
+        "ability_first": "Swift Swim",
+        "ability_second": "Water Absorb",
+        "ability_hidden": "Water Veil"
+    },
+    {
+        "id_dex": 227,
+        "ability_first": "Keen Eye",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 228,
+        "ability_first": "Early Bird",
+        "ability_second": "Flash Fire",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 229,
+        "ability_first": "Early Bird",
+        "ability_second": "Flash Fire",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 229,
+        "ability_first": "Solar Power"
+    },
+    {
+        "id_dex": 230,
+        "ability_first": "Swift Swim",
+        "ability_second": "Sniper*",
+        "ability_hidden": "Damp"
+    },
+    {
+        "id_dex": 231,
+        "ability_first": "Pickup",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": 232,
+        "ability_first": "Sturdy",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": 233,
+        "ability_first": "Trace",
+        "ability_second": "Download*",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": 234,
+        "ability_first": "Intimidate",
+        "ability_second": "Frisk*",
+        "ability_hidden": "Sap Sipper"
+    },
+    {
+        "id_dex": 235,
+        "ability_first": "Own Tempo",
+        "ability_second": "Technician*",
+        "ability_hidden": "Moody"
+    },
+    {
+        "id_dex": 236,
+        "ability_first": "Guts",
+        "ability_second": "Steadfast*",
+        "ability_hidden": "Vital Spirit"
+    },
+    {
+        "id_dex": 237,
+        "ability_first": "Intimidate",
+        "ability_second": "Technician*",
+        "ability_hidden": "Steadfast"
+    },
+    {
+        "id_dex": 238,
+        "ability_first": "Oblivious",
+        "ability_second": "Forewarn*",
+        "ability_hidden": "Hydration"
+    },
+    {
+        "id_dex": 239,
+        "ability_first": "Static",
+        "ability_hidden": "Vital Spirit"
+    },
+    {
+        "id_dex": 240,
+        "ability_first": "Flame Body",
+        "ability_hidden": "Vital Spirit"
+    },
+    {
+        "id_dex": 241,
+        "ability_first": "Thick Fat",
+        "ability_second": "Scrappy*",
+        "ability_hidden": "Sap Sipper"
+    },
+    {
+        "id_dex": 242,
+        "ability_first": "Natural Cure",
+        "ability_second": "Serene Grace",
+        "ability_hidden": "Healer"
+    },
+    {
+        "id_dex": 243,
+        "ability_first": "Pressure",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": 244,
+        "ability_first": "Pressure",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": 245,
+        "ability_first": "Pressure",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": 246,
+        "ability_first": "Guts",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": 247,
+        "ability_first": "Shed Skin"
+    },
+    {
+        "id_dex": 248,
+        "ability_first": "Sand Stream",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 248,
+        "ability_first": "Sand Stream"
+    },
+    {
+        "id_dex": 249,
+        "ability_first": "Pressure",
+        "ability_hidden": "Multiscale"
+    },
+    {
+        "id_dex": 250,
+        "ability_first": "Pressure",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 251,
+        "ability_first": "Natural Cure"
+    },
+    {
+        "id_dex": 252,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Unburden"
+    },
+    {
+        "id_dex": 253,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Unburden"
+    },
+    {
+        "id_dex": 254,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Unburden"
+    },
+    {
+        "id_dex": 254,
+        "ability_first": "Lightning Rod"
+    },
+    {
+        "id_dex": 255,
+        "ability_first": "Blaze",
+        "ability_hidden": "Speed Boost"
+    },
+    {
+        "id_dex": 256,
+        "ability_first": "Blaze",
+        "ability_hidden": "Speed Boost"
+    },
+    {
+        "id_dex": 257,
+        "ability_first": "Blaze",
+        "ability_hidden": "Speed Boost"
+    },
+    {
+        "id_dex": 257,
+        "ability_first": "Speed Boost"
+    },
+    {
+        "id_dex": 258,
+        "ability_first": "Torrent",
+        "ability_hidden": "Damp"
+    },
+    {
+        "id_dex": 259,
+        "ability_first": "Torrent",
+        "ability_hidden": "Damp"
+    },
+    {
+        "id_dex": 260,
+        "ability_first": "Torrent",
+        "ability_hidden": "Damp"
+    },
+    {
+        "id_dex": 260,
+        "ability_first": "Swift Swim"
+    },
+    {
+        "id_dex": 261,
+        "ability_first": "Run Away",
+        "ability_second": "Quick Feet*",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 262,
+        "ability_first": "Intimidate",
+        "ability_second": "Quick Feet*",
+        "ability_hidden": "Moxie"
+    },
+    {
+        "id_dex": 263,
+        "ability_first": "Pickup",
+        "ability_second": "Gluttony*",
+        "ability_hidden": "Quick Feet"
+    },
+    {
+        "id_dex": 263,
+        "ability_first": "Pickup",
+        "ability_second": "Gluttony",
+        "ability_hidden": "Quick Feet"
+    },
+    {
+        "id_dex": 264,
+        "ability_first": "Pickup",
+        "ability_second": "Gluttony*",
+        "ability_hidden": "Quick Feet"
+    },
+    {
+        "id_dex": 264,
+        "ability_first": "Pickup",
+        "ability_second": "Gluttony",
+        "ability_hidden": "Quick Feet"
+    },
+    {
+        "id_dex": 265,
+        "ability_first": "Shield Dust",
+        "ability_hidden": "Run Away"
+    },
+    {
+        "id_dex": 266,
+        "ability_first": "Shed Skin"
+    },
+    {
+        "id_dex": 267,
+        "ability_first": "Swarm",
+        "ability_hidden": "Rivalry"
+    },
+    {
+        "id_dex": 268,
+        "ability_first": "Shed Skin"
+    },
+    {
+        "id_dex": 269,
+        "ability_first": "Shield Dust",
+        "ability_hidden": "Compound Eyes"
+    },
+    {
+        "id_dex": 270,
+        "ability_first": "Swift Swim",
+        "ability_second": "Rain Dish",
+        "ability_hidden": "Own Tempo"
+    },
+    {
+        "id_dex": 271,
+        "ability_first": "Swift Swim",
+        "ability_second": "Rain Dish",
+        "ability_hidden": "Own Tempo"
+    },
+    {
+        "id_dex": 272,
+        "ability_first": "Swift Swim",
+        "ability_second": "Rain Dish",
+        "ability_hidden": "Own Tempo"
+    },
+    {
+        "id_dex": 273,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Early Bird",
+        "ability_hidden": "Pickpocket"
+    },
+    {
+        "id_dex": 274,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Early Bird",
+        "ability_hidden": "Pickpocket"
+    },
+    {
+        "id_dex": 275,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Early Bird",
+        "ability_hidden": "Pickpocket"
+    },
+    {
+        "id_dex": 276,
+        "ability_first": "Guts",
+        "ability_hidden": "Scrappy"
+    },
+    {
+        "id_dex": 277,
+        "ability_first": "Guts",
+        "ability_hidden": "Scrappy"
+    },
+    {
+        "id_dex": 278,
+        "ability_first": "Keen Eye",
+        "ability_second": "Hydration*",
+        "ability_hidden": "Rain Dish"
+    },
+    {
+        "id_dex": 279,
+        "ability_first": "Keen Eye",
+        "ability_second": "Drizzle*",
+        "ability_hidden": "Rain Dish"
+    },
+    {
+        "id_dex": 280,
+        "ability_first": "Synchronize",
+        "ability_second": "Trace",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 281,
+        "ability_first": "Synchronize",
+        "ability_second": "Trace",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 282,
+        "ability_first": "Synchronize",
+        "ability_second": "Trace",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 282,
+        "ability_first": "Pixilate"
+    },
+    {
+        "id_dex": 283,
+        "ability_first": "Swift Swim",
+        "ability_hidden": "Rain Dish"
+    },
+    {
+        "id_dex": 284,
+        "ability_first": "Intimidate",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 285,
+        "ability_first": "Effect Spore",
+        "ability_second": "Poison Heal*",
+        "ability_hidden": "Quick Feet"
+    },
+    {
+        "id_dex": 286,
+        "ability_first": "Effect Spore",
+        "ability_second": "Poison Heal*",
+        "ability_hidden": "Technician"
+    },
+    {
+        "id_dex": 287,
+        "ability_first": "Truant"
+    },
+    {
+        "id_dex": 288,
+        "ability_first": "Vital Spirit"
+    },
+    {
+        "id_dex": 289,
+        "ability_first": "Truant"
+    },
+    {
+        "id_dex": 290,
+        "ability_first": "Compound Eyes",
+        "ability_hidden": "Run Away"
+    },
+    {
+        "id_dex": 291,
+        "ability_first": "Speed Boost",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": 292,
+        "ability_first": "Wonder Guard"
+    },
+    {
+        "id_dex": 293,
+        "ability_first": "Soundproof",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 294,
+        "ability_first": "Soundproof",
+        "ability_hidden": "Scrappy"
+    },
+    {
+        "id_dex": 295,
+        "ability_first": "Soundproof",
+        "ability_hidden": "Scrappy"
+    },
+    {
+        "id_dex": 296,
+        "ability_first": "Thick Fat",
+        "ability_second": "Guts",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 297,
+        "ability_first": "Thick Fat",
+        "ability_second": "Guts",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 298,
+        "ability_first": "Thick Fat",
+        "ability_second": "Huge Power",
+        "ability_hidden": "Sap Sipper"
+    },
+    {
+        "id_dex": 299,
+        "ability_first": "Sturdy",
+        "ability_second": "Magnet Pull",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": 300,
+        "ability_first": "Cute Charm",
+        "ability_second": "Normalize*",
+        "ability_hidden": "Wonder Skin"
+    },
+    {
+        "id_dex": 301,
+        "ability_first": "Cute Charm",
+        "ability_second": "Normalize*",
+        "ability_hidden": "Wonder Skin"
+    },
+    {
+        "id_dex": 302,
+        "ability_first": "Keen Eye",
+        "ability_second": "Stall*",
+        "ability_hidden": "Prankster"
+    },
+    {
+        "id_dex": 302,
+        "ability_first": "Magic Bounce"
+    },
+    {
+        "id_dex": 303,
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Intimidate",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 303,
+        "ability_first": "Huge Power"
+    },
+    {
+        "id_dex": 304,
+        "ability_first": "Sturdy",
+        "ability_second": "Rock Head",
+        "ability_hidden": "Heavy Metal"
+    },
+    {
+        "id_dex": 305,
+        "ability_first": "Sturdy",
+        "ability_second": "Rock Head",
+        "ability_hidden": "Heavy Metal"
+    },
+    {
+        "id_dex": 306,
+        "ability_first": "Sturdy",
+        "ability_second": "Rock Head",
+        "ability_hidden": "Heavy Metal"
+    },
+    {
+        "id_dex": 306,
+        "ability_first": "Filter"
+    },
+    {
+        "id_dex": 307,
+        "ability_first": "Pure Power",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 308,
+        "ability_first": "Pure Power",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 308,
+        "ability_first": "Pure Power"
+    },
+    {
+        "id_dex": 309,
+        "ability_first": "Static",
+        "ability_second": "Lightning Rod",
+        "ability_hidden": "Minus"
+    },
+    {
+        "id_dex": 310,
+        "ability_first": "Static",
+        "ability_second": "Lightning Rod",
+        "ability_hidden": "Minus"
+    },
+    {
+        "id_dex": 310,
+        "ability_first": "Intimidate"
+    },
+    {
+        "id_dex": 311,
+        "ability_first": "Plus",
+        "ability_hidden": "Lightning Rod*"
+    },
+    {
+        "id_dex": 312,
+        "ability_first": "Minus",
+        "ability_hidden": "Volt Absorb*"
+    },
+    {
+        "id_dex": 313,
+        "ability_first": "Illuminate",
+        "ability_second": "Swarm",
+        "ability_hidden": "Prankster"
+    },
+    {
+        "id_dex": 314,
+        "ability_first": "Oblivious",
+        "ability_second": "Tinted Lens*",
+        "ability_hidden": "Prankster"
+    },
+    {
+        "id_dex": 315,
+        "ability_first": "Natural Cure",
+        "ability_second": "Poison Point",
+        "ability_hidden": "Leaf Guard"
+    },
+    {
+        "id_dex": 316,
+        "ability_first": "Liquid Ooze",
+        "ability_second": "Sticky Hold",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": 317,
+        "ability_first": "Liquid Ooze",
+        "ability_second": "Sticky Hold",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": 318,
+        "ability_first": "Rough Skin",
+        "ability_hidden": "Speed Boost"
+    },
+    {
+        "id_dex": 319,
+        "ability_first": "Rough Skin",
+        "ability_hidden": "Speed Boost"
+    },
+    {
+        "id_dex": 319,
+        "ability_first": "Strong Jaw"
+    },
+    {
+        "id_dex": 320,
+        "ability_first": "Water Veil",
+        "ability_second": "Oblivious",
+        "ability_hidden": "Pressure"
+    },
+    {
+        "id_dex": 321,
+        "ability_first": "Water Veil",
+        "ability_second": "Oblivious",
+        "ability_hidden": "Pressure"
+    },
+    {
+        "id_dex": 322,
+        "ability_first": "Oblivious",
+        "ability_second": "Simple*",
+        "ability_hidden": "Own Tempo"
+    },
+    {
+        "id_dex": 323,
+        "ability_first": "Magma Armor",
+        "ability_second": "Solid Rock*",
+        "ability_hidden": "Anger Point"
+    },
+    {
+        "id_dex": 323,
+        "ability_first": "Sheer Force"
+    },
+    {
+        "id_dex": 324,
+        "ability_first": "White Smoke",
+        "ability_second": "Drought*",
+        "ability_hidden": "Shell Armor"
+    },
+    {
+        "id_dex": 325,
+        "ability_first": "Thick Fat",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": 326,
+        "ability_first": "Thick Fat",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": 327,
+        "ability_first": "Own Tempo",
+        "ability_second": "Tangled Feet*",
+        "ability_hidden": "Contrary"
+    },
+    {
+        "id_dex": 328,
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Arena Trap",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 329,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 330,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 331,
+        "ability_first": "Sand Veil",
+        "ability_hidden": "Water Absorb"
+    },
+    {
+        "id_dex": 332,
+        "ability_first": "Sand Veil",
+        "ability_hidden": "Water Absorb"
+    },
+    {
+        "id_dex": 333,
+        "ability_first": "Natural Cure",
+        "ability_hidden": "Cloud Nine"
+    },
+    {
+        "id_dex": 334,
+        "ability_first": "Natural Cure",
+        "ability_hidden": "Cloud Nine"
+    },
+    {
+        "id_dex": 334,
+        "ability_first": "Pixilate"
+    },
+    {
+        "id_dex": 335,
+        "ability_first": "Immunity",
+        "ability_hidden": "Toxic Boost"
+    },
+    {
+        "id_dex": 336,
+        "ability_first": "Shed Skin",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": 337,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 338,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 339,
+        "ability_first": "Oblivious",
+        "ability_second": "Anticipation*",
+        "ability_hidden": "Hydration"
+    },
+    {
+        "id_dex": 340,
+        "ability_first": "Oblivious",
+        "ability_second": "Anticipation*",
+        "ability_hidden": "Hydration"
+    },
+    {
+        "id_dex": 341,
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Adaptability"
+    },
+    {
+        "id_dex": 342,
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Adaptability"
+    },
+    {
+        "id_dex": 343,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 344,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 345,
+        "ability_first": "Suction Cups",
+        "ability_hidden": "Storm Drain"
+    },
+    {
+        "id_dex": 346,
+        "ability_first": "Suction Cups",
+        "ability_hidden": "Storm Drain"
+    },
+    {
+        "id_dex": 347,
+        "ability_first": "Battle Armor",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": 348,
+        "ability_first": "Battle Armor",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": 349,
+        "ability_first": "Swift Swim",
+        "ability_second": "Oblivious*",
+        "ability_hidden": "Adaptability"
+    },
+    {
+        "id_dex": 350,
+        "ability_first": "Marvel Scale",
+        "ability_second": "Competitive*",
+        "ability_hidden": "Cute Charm"
+    },
+    {
+        "id_dex": 351,
+        "ability_first": "Forecast"
+    },
+    {
+        "id_dex": 351,
+        "ability_first": "Forecast"
+    },
+    {
+        "id_dex": 351,
+        "ability_first": "Forecast"
+    },
+    {
+        "id_dex": 351,
+        "ability_first": "Forecast"
+    },
+    {
+        "id_dex": 352,
+        "ability_first": "Color Change",
+        "ability_hidden": "Protean*"
+    },
+    {
+        "id_dex": 353,
+        "ability_first": "Insomnia",
+        "ability_second": "Frisk*",
+        "ability_hidden": "Cursed Body"
+    },
+    {
+        "id_dex": 354,
+        "ability_first": "Insomnia",
+        "ability_second": "Frisk*",
+        "ability_hidden": "Cursed Body"
+    },
+    {
+        "id_dex": 354,
+        "ability_first": "Prankster"
+    },
+    {
+        "id_dex": 355,
+        "ability_first": "Levitate",
+        "ability_hidden": "Frisk*"
+    },
+    {
+        "id_dex": 356,
+        "ability_first": "Pressure",
+        "ability_hidden": "Frisk*"
+    },
+    {
+        "id_dex": 357,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Solar Power*",
+        "ability_hidden": "Harvest"
+    },
+    {
+        "id_dex": 358,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 359,
+        "ability_first": "Pressure",
+        "ability_second": "Super Luck*",
+        "ability_hidden": "Justified"
+    },
+    {
+        "id_dex": 359,
+        "ability_first": "Magic Bounce"
+    },
+    {
+        "id_dex": 360,
+        "ability_first": "Shadow Tag",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 361,
+        "ability_first": "Inner Focus",
+        "ability_second": "Ice Body*",
+        "ability_hidden": "Moody"
+    },
+    {
+        "id_dex": 362,
+        "ability_first": "Inner Focus",
+        "ability_second": "Ice Body*",
+        "ability_hidden": "Moody"
+    },
+    {
+        "id_dex": 362,
+        "ability_first": "Refrigerate"
+    },
+    {
+        "id_dex": 363,
+        "ability_first": "Thick Fat",
+        "ability_second": "Ice Body*",
+        "ability_hidden": "Oblivious"
+    },
+    {
+        "id_dex": 364,
+        "ability_first": "Thick Fat",
+        "ability_second": "Ice Body*",
+        "ability_hidden": "Oblivious"
+    },
+    {
+        "id_dex": 365,
+        "ability_first": "Thick Fat",
+        "ability_second": "Ice Body*",
+        "ability_hidden": "Oblivious"
+    },
+    {
+        "id_dex": 366,
+        "ability_first": "Shell Armor",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 367,
+        "ability_first": "Swift Swim",
+        "ability_hidden": "Water Veil"
+    },
+    {
+        "id_dex": 368,
+        "ability_first": "Swift Swim",
+        "ability_hidden": "Hydration"
+    },
+    {
+        "id_dex": 369,
+        "ability_first": "Swift Swim",
+        "ability_second": "Rock Head",
+        "ability_hidden": "Sturdy"
+    },
+    {
+        "id_dex": 370,
+        "ability_first": "Swift Swim",
+        "ability_hidden": "Hydration"
+    },
+    {
+        "id_dex": 371,
+        "ability_first": "Rock Head",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 372,
+        "ability_first": "Rock Head",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 373,
+        "ability_first": "Intimidate",
+        "ability_hidden": "Moxie"
+    },
+    {
+        "id_dex": 373,
+        "ability_first": "Aerilate"
+    },
+    {
+        "id_dex": 374,
+        "ability_first": "Clear Body",
+        "ability_hidden": "Light Metal"
+    },
+    {
+        "id_dex": 375,
+        "ability_first": "Clear Body",
+        "ability_hidden": "Light Metal"
+    },
+    {
+        "id_dex": 376,
+        "ability_first": "Clear Body",
+        "ability_hidden": "Light Metal"
+    },
+    {
+        "id_dex": 376,
+        "ability_first": "Tough Claws"
+    },
+    {
+        "id_dex": 377,
+        "ability_first": "Clear Body",
+        "ability_hidden": "Sturdy"
+    },
+    {
+        "id_dex": 378,
+        "ability_first": "Clear Body",
+        "ability_hidden": "Ice Body"
+    },
+    {
+        "id_dex": 379,
+        "ability_first": "Clear Body",
+        "ability_hidden": "Light Metal"
+    },
+    {
+        "id_dex": 380,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 380,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 381,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 381,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 382,
+        "ability_first": "Drizzle"
+    },
+    {
+        "id_dex": 382,
+        "ability_first": "Primordial Sea"
+    },
+    {
+        "id_dex": 383,
+        "ability_first": "Drought"
+    },
+    {
+        "id_dex": 383,
+        "ability_first": "Desolate Land"
+    },
+    {
+        "id_dex": 384,
+        "ability_first": "Air Lock"
+    },
+    {
+        "id_dex": 384,
+        "ability_first": "Delta Stream"
+    },
+    {
+        "id_dex": 385,
+        "ability_first": "Serene Grace"
+    },
+    {
+        "id_dex": 386,
+        "ability_first": "Pressure"
+    },
+    {
+        "id_dex": 386,
+        "ability_first": "Pressure"
+    },
+    {
+        "id_dex": 386,
+        "ability_first": "Pressure"
+    },
+    {
+        "id_dex": 386,
+        "ability_first": "Pressure"
+    },
+    {
+        "id_dex": 387,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Shell Armor"
+    },
+    {
+        "id_dex": 388,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Shell Armor"
+    },
+    {
+        "id_dex": 389,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Shell Armor"
+    },
+    {
+        "id_dex": 390,
+        "ability_first": "Blaze",
+        "ability_hidden": "Iron Fist"
+    },
+    {
+        "id_dex": 391,
+        "ability_first": "Blaze",
+        "ability_hidden": "Iron Fist"
+    },
+    {
+        "id_dex": 392,
+        "ability_first": "Blaze",
+        "ability_hidden": "Iron Fist"
+    },
+    {
+        "id_dex": 393,
+        "ability_first": "Torrent",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 394,
+        "ability_first": "Torrent",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 395,
+        "ability_first": "Torrent",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 396,
+        "ability_first": "Keen Eye",
+        "ability_hidden": "Reckless*"
+    },
+    {
+        "id_dex": 397,
+        "ability_first": "Intimidate",
+        "ability_hidden": "Reckless"
+    },
+    {
+        "id_dex": 398,
+        "ability_first": "Intimidate",
+        "ability_hidden": "Reckless"
+    },
+    {
+        "id_dex": 399,
+        "ability_first": "Simple",
+        "ability_second": "Unaware",
+        "ability_hidden": "Moody"
+    },
+    {
+        "id_dex": 400,
+        "ability_first": "Simple",
+        "ability_second": "Unaware",
+        "ability_hidden": "Moody"
+    },
+    {
+        "id_dex": 401,
+        "ability_first": "Shed Skin",
+        "ability_hidden": "Run Away"
+    },
+    {
+        "id_dex": 402,
+        "ability_first": "Swarm",
+        "ability_hidden": "Technician"
+    },
+    {
+        "id_dex": 403,
+        "ability_first": "Rivalry",
+        "ability_second": "Intimidate",
+        "ability_hidden": "Guts"
+    },
+    {
+        "id_dex": 404,
+        "ability_first": "Rivalry",
+        "ability_second": "Intimidate",
+        "ability_hidden": "Guts"
+    },
+    {
+        "id_dex": 405,
+        "ability_first": "Rivalry",
+        "ability_second": "Intimidate",
+        "ability_hidden": "Guts"
+    },
+    {
+        "id_dex": 406,
+        "ability_first": "Natural Cure",
+        "ability_second": "Poison Point",
+        "ability_hidden": "Leaf Guard"
+    },
+    {
+        "id_dex": 407,
+        "ability_first": "Natural Cure",
+        "ability_second": "Poison Point",
+        "ability_hidden": "Technician"
+    },
+    {
+        "id_dex": 408,
+        "ability_first": "Mold Breaker",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 409,
+        "ability_first": "Mold Breaker",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 410,
+        "ability_first": "Sturdy",
+        "ability_hidden": "Soundproof"
+    },
+    {
+        "id_dex": 411,
+        "ability_first": "Sturdy",
+        "ability_hidden": "Soundproof"
+    },
+    {
+        "id_dex": 412,
+        "ability_first": "Shed Skin",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 412,
+        "ability_first": "Shed Skin",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 412,
+        "ability_first": "Shed Skin",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 413,
+        "ability_first": "Anticipation",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 413,
+        "ability_first": "Anticipation",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 413,
+        "ability_first": "Anticipation",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 414,
+        "ability_first": "Swarm",
+        "ability_hidden": "Tinted Lens"
+    },
+    {
+        "id_dex": 415,
+        "ability_first": "Honey Gather",
+        "ability_hidden": "Hustle"
+    },
+    {
+        "id_dex": 416,
+        "ability_first": "Pressure",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 417,
+        "ability_first": "Run Away",
+        "ability_second": "Pickup",
+        "ability_hidden": "Volt Absorb"
+    },
+    {
+        "id_dex": 418,
+        "ability_first": "Swift Swim",
+        "ability_hidden": "Water Veil"
+    },
+    {
+        "id_dex": 419,
+        "ability_first": "Swift Swim",
+        "ability_hidden": "Water Veil"
+    },
+    {
+        "id_dex": 420,
+        "ability_first": "Chlorophyll"
+    },
+    {
+        "id_dex": 421,
+        "ability_first": "Flower Gift"
+    },
+    {
+        "id_dex": 422,
+        "ability_first": "Sticky Hold",
+        "ability_second": "Storm Drain",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": 423,
+        "ability_first": "Sticky Hold",
+        "ability_second": "Storm Drain",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": 424,
+        "ability_first": "Technician",
+        "ability_second": "Pickup",
+        "ability_hidden": "Skill Link"
+    },
+    {
+        "id_dex": 425,
+        "ability_first": "Aftermath",
+        "ability_second": "Unburden",
+        "ability_hidden": "Flare Boost"
+    },
+    {
+        "id_dex": 426,
+        "ability_first": "Aftermath",
+        "ability_second": "Unburden",
+        "ability_hidden": "Flare Boost"
+    },
+    {
+        "id_dex": 427,
+        "ability_first": "Run Away",
+        "ability_second": "Klutz",
+        "ability_hidden": "Limber"
+    },
+    {
+        "id_dex": 428,
+        "ability_first": "Cute Charm",
+        "ability_second": "Klutz",
+        "ability_hidden": "Limber"
+    },
+    {
+        "id_dex": 428,
+        "ability_first": "Scrappy"
+    },
+    {
+        "id_dex": 429,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 430,
+        "ability_first": "Insomnia",
+        "ability_second": "Super Luck",
+        "ability_hidden": "Moxie"
+    },
+    {
+        "id_dex": 431,
+        "ability_first": "Limber",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Keen Eye"
+    },
+    {
+        "id_dex": 432,
+        "ability_first": "Thick Fat",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 433,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 434,
+        "ability_first": "Stench",
+        "ability_second": "Aftermath",
+        "ability_hidden": "Keen Eye"
+    },
+    {
+        "id_dex": 435,
+        "ability_first": "Stench",
+        "ability_second": "Aftermath",
+        "ability_hidden": "Keen Eye"
+    },
+    {
+        "id_dex": 436,
+        "ability_first": "Levitate",
+        "ability_second": "Heatproof",
+        "ability_hidden": "Heavy Metal"
+    },
+    {
+        "id_dex": 437,
+        "ability_first": "Levitate",
+        "ability_second": "Heatproof",
+        "ability_hidden": "Heavy Metal"
+    },
+    {
+        "id_dex": 438,
+        "ability_first": "Sturdy",
+        "ability_second": "Rock Head",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 439,
+        "ability_first": "Soundproof",
+        "ability_second": "Filter",
+        "ability_hidden": "Technician"
+    },
+    {
+        "id_dex": 440,
+        "ability_first": "Natural Cure",
+        "ability_second": "Serene Grace",
+        "ability_hidden": "Friend Guard"
+    },
+    {
+        "id_dex": 441,
+        "ability_first": "Keen Eye",
+        "ability_second": "Tangled Feet",
+        "ability_hidden": "Big Pecks"
+    },
+    {
+        "id_dex": 442,
+        "ability_first": "Pressure",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": 443,
+        "ability_first": "Sand Veil",
+        "ability_hidden": "Rough Skin"
+    },
+    {
+        "id_dex": 444,
+        "ability_first": "Sand Veil",
+        "ability_hidden": "Rough Skin"
+    },
+    {
+        "id_dex": 445,
+        "ability_first": "Sand Veil",
+        "ability_hidden": "Rough Skin"
+    },
+    {
+        "id_dex": 445,
+        "ability_first": "Sand Force"
+    },
+    {
+        "id_dex": 446,
+        "ability_first": "Pickup",
+        "ability_second": "Thick Fat",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": 447,
+        "ability_first": "Steadfast",
+        "ability_second": "Inner Focus",
+        "ability_hidden": "Prankster"
+    },
+    {
+        "id_dex": 448,
+        "ability_first": "Steadfast",
+        "ability_second": "Inner Focus",
+        "ability_hidden": "Justified"
+    },
+    {
+        "id_dex": 448,
+        "ability_first": "Adaptability"
+    },
+    {
+        "id_dex": 449,
+        "ability_first": "Sand Stream",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": 450,
+        "ability_first": "Sand Stream",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": 451,
+        "ability_first": "Battle Armor",
+        "ability_second": "Sniper",
+        "ability_hidden": "Keen Eye"
+    },
+    {
+        "id_dex": 452,
+        "ability_first": "Battle Armor",
+        "ability_second": "Sniper",
+        "ability_hidden": "Keen Eye"
+    },
+    {
+        "id_dex": 453,
+        "ability_first": "Anticipation",
+        "ability_second": "Dry Skin",
+        "ability_hidden": "Poison Touch"
+    },
+    {
+        "id_dex": 454,
+        "ability_first": "Anticipation",
+        "ability_second": "Dry Skin",
+        "ability_hidden": "Poison Touch"
+    },
+    {
+        "id_dex": 455,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 456,
+        "ability_first": "Swift Swim",
+        "ability_second": "Storm Drain",
+        "ability_hidden": "Water Veil"
+    },
+    {
+        "id_dex": 457,
+        "ability_first": "Swift Swim",
+        "ability_second": "Storm Drain",
+        "ability_hidden": "Water Veil"
+    },
+    {
+        "id_dex": 458,
+        "ability_first": "Swift Swim",
+        "ability_second": "Water Absorb",
+        "ability_hidden": "Water Veil"
+    },
+    {
+        "id_dex": 459,
+        "ability_first": "Snow Warning",
+        "ability_hidden": "Soundproof"
+    },
+    {
+        "id_dex": 460,
+        "ability_first": "Snow Warning",
+        "ability_hidden": "Soundproof"
+    },
+    {
+        "id_dex": 460,
+        "ability_first": "Snow Warning"
+    },
+    {
+        "id_dex": 461,
+        "ability_first": "Pressure",
+        "ability_hidden": "Pickpocket"
+    },
+    {
+        "id_dex": 462,
+        "ability_first": "Magnet Pull",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": 463,
+        "ability_first": "Own Tempo",
+        "ability_second": "Oblivious",
+        "ability_hidden": "Cloud Nine"
+    },
+    {
+        "id_dex": 464,
+        "ability_first": "Lightning Rod",
+        "ability_second": "Solid Rock",
+        "ability_hidden": "Reckless"
+    },
+    {
+        "id_dex": 465,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Leaf Guard",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 466,
+        "ability_first": "Motor Drive",
+        "ability_hidden": "Vital Spirit"
+    },
+    {
+        "id_dex": 467,
+        "ability_first": "Flame Body",
+        "ability_hidden": "Vital Spirit"
+    },
+    {
+        "id_dex": 468,
+        "ability_first": "Hustle",
+        "ability_second": "Serene Grace",
+        "ability_hidden": "Super Luck"
+    },
+    {
+        "id_dex": 469,
+        "ability_first": "Speed Boost",
+        "ability_second": "Tinted Lens",
+        "ability_hidden": "Frisk"
+    },
+    {
+        "id_dex": 470,
+        "ability_first": "Leaf Guard",
+        "ability_hidden": "Chlorophyll"
+    },
+    {
+        "id_dex": 471,
+        "ability_first": "Snow Cloak",
+        "ability_hidden": "Ice Body"
+    },
+    {
+        "id_dex": 472,
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Sand Veil",
+        "ability_hidden": "Poison Heal"
+    },
+    {
+        "id_dex": 473,
+        "ability_first": "Oblivious",
+        "ability_second": "Snow Cloak",
+        "ability_hidden": "Thick Fat"
+    },
+    {
+        "id_dex": 474,
+        "ability_first": "Adaptability",
+        "ability_second": "Download",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": 475,
+        "ability_first": "Steadfast",
+        "ability_hidden": "Justified"
+    },
+    {
+        "id_dex": 475,
+        "ability_first": "Inner Focus"
+    },
+    {
+        "id_dex": 476,
+        "ability_first": "Sturdy",
+        "ability_second": "Magnet Pull",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": 477,
+        "ability_first": "Pressure",
+        "ability_hidden": "Frisk*"
+    },
+    {
+        "id_dex": 478,
+        "ability_first": "Snow Cloak",
+        "ability_hidden": "Cursed Body"
+    },
+    {
+        "id_dex": 479,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 479,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 479,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 479,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 479,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 479,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 480,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 481,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 482,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 483,
+        "ability_first": "Pressure",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 483,
+        "ability_first": "&mdash;"
+    },
+    {
+        "id_dex": 484,
+        "ability_first": "Pressure",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 484,
+        "ability_first": "&mdash;"
+    },
+    {
+        "id_dex": 485,
+        "ability_first": "Flash Fire",
+        "ability_hidden": "Flame Body"
+    },
+    {
+        "id_dex": 486,
+        "ability_first": "Slow Start"
+    },
+    {
+        "id_dex": 487,
+        "ability_first": "Pressure",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 487,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 488,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 489,
+        "ability_first": "Hydration"
+    },
+    {
+        "id_dex": 490,
+        "ability_first": "Hydration"
+    },
+    {
+        "id_dex": 491,
+        "ability_first": "Bad Dreams"
+    },
+    {
+        "id_dex": 492,
+        "ability_first": "Natural Cure"
+    },
+    {
+        "id_dex": 492,
+        "ability_first": "Serene Grace"
+    },
+    {
+        "id_dex": 493,
+        "ability_first": "Multitype"
+    },
+    {
+        "id_dex": 494,
+        "ability_first": "Victory Star"
+    },
+    {
+        "id_dex": 495,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Contrary"
+    },
+    {
+        "id_dex": 496,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Contrary"
+    },
+    {
+        "id_dex": 497,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Contrary"
+    },
+    {
+        "id_dex": 498,
+        "ability_first": "Blaze",
+        "ability_hidden": "Thick Fat"
+    },
+    {
+        "id_dex": 499,
+        "ability_first": "Blaze",
+        "ability_hidden": "Thick Fat"
+    },
+    {
+        "id_dex": 500,
+        "ability_first": "Blaze",
+        "ability_hidden": "Reckless"
+    },
+    {
+        "id_dex": 501,
+        "ability_first": "Torrent",
+        "ability_hidden": "Shell Armor"
+    },
+    {
+        "id_dex": 502,
+        "ability_first": "Torrent",
+        "ability_hidden": "Shell Armor"
+    },
+    {
+        "id_dex": 503,
+        "ability_first": "Torrent",
+        "ability_hidden": "Shell Armor"
+    },
+    {
+        "id_dex": 503,
+        "ability_first": "Torrent",
+        "ability_hidden": "Shell Armor"
+    },
+    {
+        "id_dex": 504,
+        "ability_first": "Run Away",
+        "ability_second": "Keen Eye",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": 505,
+        "ability_first": "Illuminate",
+        "ability_second": "Keen Eye",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": 506,
+        "ability_first": "Vital Spirit",
+        "ability_second": "Pickup",
+        "ability_hidden": "Run Away"
+    },
+    {
+        "id_dex": 507,
+        "ability_first": "Intimidate",
+        "ability_second": "Sand Rush",
+        "ability_hidden": "Scrappy"
+    },
+    {
+        "id_dex": 508,
+        "ability_first": "Intimidate",
+        "ability_second": "Sand Rush",
+        "ability_hidden": "Scrappy"
+    },
+    {
+        "id_dex": 509,
+        "ability_first": "Limber",
+        "ability_second": "Unburden",
+        "ability_hidden": "Prankster"
+    },
+    {
+        "id_dex": 510,
+        "ability_first": "Limber",
+        "ability_second": "Unburden",
+        "ability_hidden": "Prankster"
+    },
+    {
+        "id_dex": 511,
+        "ability_first": "Gluttony",
+        "ability_hidden": "Overgrow"
+    },
+    {
+        "id_dex": 512,
+        "ability_first": "Gluttony",
+        "ability_hidden": "Overgrow"
+    },
+    {
+        "id_dex": 513,
+        "ability_first": "Gluttony",
+        "ability_hidden": "Blaze"
+    },
+    {
+        "id_dex": 514,
+        "ability_first": "Gluttony",
+        "ability_hidden": "Blaze"
+    },
+    {
+        "id_dex": 515,
+        "ability_first": "Gluttony",
+        "ability_hidden": "Torrent"
+    },
+    {
+        "id_dex": 516,
+        "ability_first": "Gluttony",
+        "ability_hidden": "Torrent"
+    },
+    {
+        "id_dex": 517,
+        "ability_first": "Forewarn",
+        "ability_second": "Synchronize",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 518,
+        "ability_first": "Forewarn",
+        "ability_second": "Synchronize",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 519,
+        "ability_first": "Big Pecks",
+        "ability_second": "Super Luck",
+        "ability_hidden": "Rivalry"
+    },
+    {
+        "id_dex": 520,
+        "ability_first": "Big Pecks",
+        "ability_second": "Super Luck",
+        "ability_hidden": "Rivalry"
+    },
+    {
+        "id_dex": 521,
+        "ability_first": "Big Pecks",
+        "ability_second": "Super Luck",
+        "ability_hidden": "Rivalry"
+    },
+    {
+        "id_dex": 522,
+        "ability_first": "Lightning Rod",
+        "ability_second": "Motor Drive",
+        "ability_hidden": "Sap Sipper"
+    },
+    {
+        "id_dex": 523,
+        "ability_first": "Lightning Rod",
+        "ability_second": "Motor Drive",
+        "ability_hidden": "Sap Sipper"
+    },
+    {
+        "id_dex": 524,
+        "ability_first": "Sturdy",
+        "ability_second": "Weak Armor*",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": 525,
+        "ability_first": "Sturdy",
+        "ability_second": "Weak Armor*",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": 526,
+        "ability_first": "Sturdy",
+        "ability_second": "Sand Stream*",
+        "ability_hidden": "Sand Force"
+    },
+    {
+        "id_dex": 527,
+        "ability_first": "Unaware",
+        "ability_second": "Klutz",
+        "ability_hidden": "Simple"
+    },
+    {
+        "id_dex": 528,
+        "ability_first": "Unaware",
+        "ability_second": "Klutz",
+        "ability_hidden": "Simple"
+    },
+    {
+        "id_dex": 529,
+        "ability_first": "Sand Rush",
+        "ability_second": "Sand Force",
+        "ability_hidden": "Mold Breaker"
+    },
+    {
+        "id_dex": 530,
+        "ability_first": "Sand Rush",
+        "ability_second": "Sand Force",
+        "ability_hidden": "Mold Breaker"
+    },
+    {
+        "id_dex": 531,
+        "ability_first": "Healer",
+        "ability_second": "Regenerator",
+        "ability_hidden": "Klutz"
+    },
+    {
+        "id_dex": 531,
+        "ability_first": "Healer"
+    },
+    {
+        "id_dex": 532,
+        "ability_first": "Guts",
+        "ability_second": "Sheer Force",
+        "ability_hidden": "Iron Fist"
+    },
+    {
+        "id_dex": 533,
+        "ability_first": "Guts",
+        "ability_second": "Sheer Force",
+        "ability_hidden": "Iron Fist"
+    },
+    {
+        "id_dex": 534,
+        "ability_first": "Guts",
+        "ability_second": "Sheer Force",
+        "ability_hidden": "Iron Fist"
+    },
+    {
+        "id_dex": 535,
+        "ability_first": "Swift Swim",
+        "ability_second": "Hydration",
+        "ability_hidden": "Water Absorb"
+    },
+    {
+        "id_dex": 536,
+        "ability_first": "Swift Swim",
+        "ability_second": "Hydration",
+        "ability_hidden": "Water Absorb"
+    },
+    {
+        "id_dex": 537,
+        "ability_first": "Swift Swim",
+        "ability_second": "Poison Touch",
+        "ability_hidden": "Water Absorb"
+    },
+    {
+        "id_dex": 538,
+        "ability_first": "Guts",
+        "ability_second": "Inner Focus",
+        "ability_hidden": "Mold Breaker"
+    },
+    {
+        "id_dex": 539,
+        "ability_first": "Sturdy",
+        "ability_second": "Inner Focus",
+        "ability_hidden": "Mold Breaker"
+    },
+    {
+        "id_dex": 540,
+        "ability_first": "Swarm",
+        "ability_second": "Chlorophyll",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 541,
+        "ability_first": "Leaf Guard",
+        "ability_second": "Chlorophyll",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 542,
+        "ability_first": "Swarm",
+        "ability_second": "Chlorophyll",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 543,
+        "ability_first": "Poison Point",
+        "ability_second": "Swarm",
+        "ability_hidden": "Speed Boost*"
+    },
+    {
+        "id_dex": 544,
+        "ability_first": "Poison Point",
+        "ability_second": "Swarm",
+        "ability_hidden": "Speed Boost*"
+    },
+    {
+        "id_dex": 545,
+        "ability_first": "Poison Point",
+        "ability_second": "Swarm",
+        "ability_hidden": "Speed Boost*"
+    },
+    {
+        "id_dex": 546,
+        "ability_first": "Prankster",
+        "ability_second": "Infiltrator",
+        "ability_hidden": "Chlorophyll"
+    },
+    {
+        "id_dex": 547,
+        "ability_first": "Prankster",
+        "ability_second": "Infiltrator",
+        "ability_hidden": "Chlorophyll"
+    },
+    {
+        "id_dex": 548,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Leaf Guard"
+    },
+    {
+        "id_dex": 549,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Own Tempo",
+        "ability_hidden": "Leaf Guard"
+    },
+    {
+        "id_dex": 549,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Hustle",
+        "ability_hidden": "Leaf Guard"
+    },
+    {
+        "id_dex": 550,
+        "ability_first": "Reckless",
+        "ability_second": "Adaptability",
+        "ability_hidden": "Mold Breaker"
+    },
+    {
+        "id_dex": 550,
+        "ability_first": "Rock Head",
+        "ability_second": "Adaptability",
+        "ability_hidden": "Mold Breaker"
+    },
+    {
+        "id_dex": 550,
+        "ability_first": "Rattled",
+        "ability_second": "Adaptability",
+        "ability_hidden": "Mold Breaker"
+    },
+    {
+        "id_dex": 551,
+        "ability_first": "Intimidate",
+        "ability_second": "Moxie",
+        "ability_hidden": "Anger Point"
+    },
+    {
+        "id_dex": 552,
+        "ability_first": "Intimidate",
+        "ability_second": "Moxie",
+        "ability_hidden": "Anger Point"
+    },
+    {
+        "id_dex": 553,
+        "ability_first": "Intimidate",
+        "ability_second": "Moxie",
+        "ability_hidden": "Anger Point"
+    },
+    {
+        "id_dex": 554,
+        "ability_first": "Hustle",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": 554,
+        "ability_first": "Hustle",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": 555,
+        "ability_first": "Sheer Force",
+        "ability_hidden": "Zen Mode"
+    },
+    {
+        "id_dex": 555,
+        "ability_first": "Zen Mode"
+    },
+    {
+        "id_dex": 555,
+        "ability_first": "Gorilla Tactics",
+        "ability_hidden": "Zen Mode"
+    },
+    {
+        "id_dex": 555,
+        "ability_first": "Zen Mode"
+    },
+    {
+        "id_dex": 556,
+        "ability_first": "Water Absorb",
+        "ability_second": "Chlorophyll",
+        "ability_hidden": "Storm Drain"
+    },
+    {
+        "id_dex": 557,
+        "ability_first": "Sturdy",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 558,
+        "ability_first": "Sturdy",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 559,
+        "ability_first": "Shed Skin",
+        "ability_second": "Moxie",
+        "ability_hidden": "Intimidate"
+    },
+    {
+        "id_dex": 560,
+        "ability_first": "Shed Skin",
+        "ability_second": "Moxie",
+        "ability_hidden": "Intimidate"
+    },
+    {
+        "id_dex": 561,
+        "ability_first": "Wonder Skin",
+        "ability_second": "Magic Guard",
+        "ability_hidden": "Tinted Lens"
+    },
+    {
+        "id_dex": 562,
+        "ability_first": "Mummy"
+    },
+    {
+        "id_dex": 562,
+        "ability_first": "Wandering Spirit"
+    },
+    {
+        "id_dex": 563,
+        "ability_first": "Mummy"
+    },
+    {
+        "id_dex": 564,
+        "ability_first": "Solid Rock",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": 565,
+        "ability_first": "Solid Rock",
+        "ability_second": "Sturdy",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": 566,
+        "ability_first": "Defeatist"
+    },
+    {
+        "id_dex": 567,
+        "ability_first": "Defeatist"
+    },
+    {
+        "id_dex": 568,
+        "ability_first": "Stench",
+        "ability_second": "Sticky Hold",
+        "ability_hidden": "Aftermath"
+    },
+    {
+        "id_dex": 569,
+        "ability_first": "Stench",
+        "ability_second": "Weak Armor",
+        "ability_hidden": "Aftermath"
+    },
+    {
+        "id_dex": 570,
+        "ability_first": "Illusion"
+    },
+    {
+        "id_dex": 570,
+        "ability_first": "Illusion"
+    },
+    {
+        "id_dex": 571,
+        "ability_first": "Illusion"
+    },
+    {
+        "id_dex": 571,
+        "ability_first": "Illusion"
+    },
+    {
+        "id_dex": 572,
+        "ability_first": "Cute Charm",
+        "ability_second": "Technician",
+        "ability_hidden": "Skill Link"
+    },
+    {
+        "id_dex": 573,
+        "ability_first": "Cute Charm",
+        "ability_second": "Technician",
+        "ability_hidden": "Skill Link"
+    },
+    {
+        "id_dex": 574,
+        "ability_first": "Frisk",
+        "ability_second": "Competitive*",
+        "ability_hidden": "Shadow Tag"
+    },
+    {
+        "id_dex": 575,
+        "ability_first": "Frisk",
+        "ability_second": "Competitive*",
+        "ability_hidden": "Shadow Tag"
+    },
+    {
+        "id_dex": 576,
+        "ability_first": "Frisk",
+        "ability_second": "Competitive*",
+        "ability_hidden": "Shadow Tag"
+    },
+    {
+        "id_dex": 577,
+        "ability_first": "Overcoat",
+        "ability_second": "Magic Guard",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 578,
+        "ability_first": "Overcoat",
+        "ability_second": "Magic Guard",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 579,
+        "ability_first": "Overcoat",
+        "ability_second": "Magic Guard",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 580,
+        "ability_first": "Keen Eye",
+        "ability_second": "Big Pecks",
+        "ability_hidden": "Hydration"
+    },
+    {
+        "id_dex": 581,
+        "ability_first": "Keen Eye",
+        "ability_second": "Big Pecks",
+        "ability_hidden": "Hydration"
+    },
+    {
+        "id_dex": 582,
+        "ability_first": "Ice Body",
+        "ability_second": "Snow Cloak*",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 583,
+        "ability_first": "Ice Body",
+        "ability_second": "Snow Cloak*",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 584,
+        "ability_first": "Ice Body",
+        "ability_second": "Snow Warning*",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 585,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Sap Sipper",
+        "ability_hidden": "Serene Grace"
+    },
+    {
+        "id_dex": 586,
+        "ability_first": "Chlorophyll",
+        "ability_second": "Sap Sipper",
+        "ability_hidden": "Serene Grace"
+    },
+    {
+        "id_dex": 587,
+        "ability_first": "Static",
+        "ability_hidden": "Motor Drive"
+    },
+    {
+        "id_dex": 588,
+        "ability_first": "Swarm",
+        "ability_second": "Shed Skin",
+        "ability_hidden": "No Guard"
+    },
+    {
+        "id_dex": 589,
+        "ability_first": "Swarm",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 590,
+        "ability_first": "Effect Spore",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 591,
+        "ability_first": "Effect Spore",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 592,
+        "ability_first": "Water Absorb",
+        "ability_second": "Cursed Body",
+        "ability_hidden": "Damp"
+    },
+    {
+        "id_dex": 593,
+        "ability_first": "Water Absorb",
+        "ability_second": "Cursed Body",
+        "ability_hidden": "Damp"
+    },
+    {
+        "id_dex": 594,
+        "ability_first": "Healer",
+        "ability_second": "Hydration",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 595,
+        "ability_first": "Compound Eyes",
+        "ability_second": "Unnerve",
+        "ability_hidden": "Swarm"
+    },
+    {
+        "id_dex": 596,
+        "ability_first": "Compound Eyes",
+        "ability_second": "Unnerve",
+        "ability_hidden": "Swarm"
+    },
+    {
+        "id_dex": 597,
+        "ability_first": "Iron Barbs"
+    },
+    {
+        "id_dex": 598,
+        "ability_first": "Iron Barbs",
+        "ability_hidden": "Anticipation*"
+    },
+    {
+        "id_dex": 599,
+        "ability_first": "Plus",
+        "ability_second": "Minus",
+        "ability_hidden": "Clear Body"
+    },
+    {
+        "id_dex": 600,
+        "ability_first": "Plus",
+        "ability_second": "Minus",
+        "ability_hidden": "Clear Body"
+    },
+    {
+        "id_dex": 601,
+        "ability_first": "Plus",
+        "ability_second": "Minus",
+        "ability_hidden": "Clear Body"
+    },
+    {
+        "id_dex": 602,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 603,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 604,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 605,
+        "ability_first": "Telepathy",
+        "ability_second": "Synchronize",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": 606,
+        "ability_first": "Telepathy",
+        "ability_second": "Synchronize",
+        "ability_hidden": "Analytic"
+    },
+    {
+        "id_dex": 607,
+        "ability_first": "Flash Fire",
+        "ability_second": "Flame Body",
+        "ability_hidden": "Infiltrator*"
+    },
+    {
+        "id_dex": 608,
+        "ability_first": "Flash Fire",
+        "ability_second": "Flame Body",
+        "ability_hidden": "Infiltrator*"
+    },
+    {
+        "id_dex": 609,
+        "ability_first": "Flash Fire",
+        "ability_second": "Flame Body",
+        "ability_hidden": "Infiltrator*"
+    },
+    {
+        "id_dex": 610,
+        "ability_first": "Rivalry",
+        "ability_second": "Mold Breaker",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 611,
+        "ability_first": "Rivalry",
+        "ability_second": "Mold Breaker",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 612,
+        "ability_first": "Rivalry",
+        "ability_second": "Mold Breaker",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 613,
+        "ability_first": "Snow Cloak",
+        "ability_second": "Slush Rush*",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 614,
+        "ability_first": "Snow Cloak",
+        "ability_second": "Slush Rush*",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": 615,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 616,
+        "ability_first": "Hydration",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 617,
+        "ability_first": "Hydration",
+        "ability_second": "Sticky Hold",
+        "ability_hidden": "Unburden"
+    },
+    {
+        "id_dex": 618,
+        "ability_first": "Static",
+        "ability_second": "Limber",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": 618,
+        "ability_first": "Mimicry"
+    },
+    {
+        "id_dex": 619,
+        "ability_first": "Inner Focus",
+        "ability_second": "Regenerator",
+        "ability_hidden": "Reckless"
+    },
+    {
+        "id_dex": 620,
+        "ability_first": "Inner Focus",
+        "ability_second": "Regenerator",
+        "ability_hidden": "Reckless"
+    },
+    {
+        "id_dex": 621,
+        "ability_first": "Rough Skin",
+        "ability_second": "Sheer Force",
+        "ability_hidden": "Mold Breaker"
+    },
+    {
+        "id_dex": 622,
+        "ability_first": "Iron Fist",
+        "ability_second": "Klutz",
+        "ability_hidden": "No Guard"
+    },
+    {
+        "id_dex": 623,
+        "ability_first": "Iron Fist",
+        "ability_second": "Klutz",
+        "ability_hidden": "No Guard"
+    },
+    {
+        "id_dex": 624,
+        "ability_first": "Defiant",
+        "ability_second": "Inner Focus",
+        "ability_hidden": "Pressure"
+    },
+    {
+        "id_dex": 625,
+        "ability_first": "Defiant",
+        "ability_second": "Inner Focus",
+        "ability_hidden": "Pressure"
+    },
+    {
+        "id_dex": 626,
+        "ability_first": "Reckless",
+        "ability_second": "Sap Sipper",
+        "ability_hidden": "Soundproof"
+    },
+    {
+        "id_dex": 627,
+        "ability_first": "Keen Eye",
+        "ability_second": "Sheer Force",
+        "ability_hidden": "Hustle"
+    },
+    {
+        "id_dex": 628,
+        "ability_first": "Keen Eye",
+        "ability_second": "Sheer Force",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 628,
+        "ability_first": "Keen Eye",
+        "ability_second": "Sheer Force",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 629,
+        "ability_first": "Big Pecks",
+        "ability_second": "Overcoat",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 630,
+        "ability_first": "Big Pecks",
+        "ability_second": "Overcoat",
+        "ability_hidden": "Weak Armor"
+    },
+    {
+        "id_dex": 631,
+        "ability_first": "Gluttony",
+        "ability_second": "Flash Fire",
+        "ability_hidden": "White Smoke"
+    },
+    {
+        "id_dex": 632,
+        "ability_first": "Swarm",
+        "ability_second": "Hustle",
+        "ability_hidden": "Truant"
+    },
+    {
+        "id_dex": 633,
+        "ability_first": "Hustle"
+    },
+    {
+        "id_dex": 634,
+        "ability_first": "Hustle"
+    },
+    {
+        "id_dex": 635,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 636,
+        "ability_first": "Flame Body",
+        "ability_hidden": "Swarm"
+    },
+    {
+        "id_dex": 637,
+        "ability_first": "Flame Body",
+        "ability_hidden": "Swarm"
+    },
+    {
+        "id_dex": 638,
+        "ability_first": "Justified"
+    },
+    {
+        "id_dex": 639,
+        "ability_first": "Justified"
+    },
+    {
+        "id_dex": 640,
+        "ability_first": "Justified"
+    },
+    {
+        "id_dex": 641,
+        "ability_first": "Prankster",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 641,
+        "ability_first": "Regenerator"
+    },
+    {
+        "id_dex": 642,
+        "ability_first": "Prankster",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 642,
+        "ability_first": "Volt Absorb"
+    },
+    {
+        "id_dex": 643,
+        "ability_first": "Turboblaze"
+    },
+    {
+        "id_dex": 644,
+        "ability_first": "Teravolt"
+    },
+    {
+        "id_dex": 645,
+        "ability_first": "Sand Force",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 645,
+        "ability_first": "Intimidate"
+    },
+    {
+        "id_dex": 646,
+        "ability_first": "Pressure"
+    },
+    {
+        "id_dex": 646,
+        "ability_first": "Turboblaze"
+    },
+    {
+        "id_dex": 646,
+        "ability_first": "Teravolt"
+    },
+    {
+        "id_dex": 647,
+        "ability_first": "Justified"
+    },
+    {
+        "id_dex": 647,
+        "ability_first": "Justified"
+    },
+    {
+        "id_dex": 648,
+        "ability_first": "Serene Grace"
+    },
+    {
+        "id_dex": 648,
+        "ability_first": "Serene Grace"
+    },
+    {
+        "id_dex": 649,
+        "ability_first": "Download"
+    },
+    {
+        "id_dex": 650,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Bulletproof"
+    },
+    {
+        "id_dex": 651,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Bulletproof"
+    },
+    {
+        "id_dex": 652,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Bulletproof"
+    },
+    {
+        "id_dex": 653,
+        "ability_first": "Blaze",
+        "ability_hidden": "Magician"
+    },
+    {
+        "id_dex": 654,
+        "ability_first": "Blaze",
+        "ability_hidden": "Magician"
+    },
+    {
+        "id_dex": 655,
+        "ability_first": "Blaze",
+        "ability_hidden": "Magician"
+    },
+    {
+        "id_dex": 656,
+        "ability_first": "Torrent",
+        "ability_hidden": "Protean"
+    },
+    {
+        "id_dex": 657,
+        "ability_first": "Torrent",
+        "ability_hidden": "Protean"
+    },
+    {
+        "id_dex": 658,
+        "ability_first": "Torrent",
+        "ability_hidden": "Protean"
+    },
+    {
+        "id_dex": 658,
+        "ability_first": "Battle Bond"
+    },
+    {
+        "id_dex": 659,
+        "ability_first": "Pickup",
+        "ability_second": "Cheek Pouch",
+        "ability_hidden": "Huge Power"
+    },
+    {
+        "id_dex": 660,
+        "ability_first": "Pickup",
+        "ability_second": "Cheek Pouch",
+        "ability_hidden": "Huge Power"
+    },
+    {
+        "id_dex": 661,
+        "ability_first": "Big Pecks",
+        "ability_hidden": "Gale Wings"
+    },
+    {
+        "id_dex": 662,
+        "ability_first": "Flame Body",
+        "ability_hidden": "Gale Wings"
+    },
+    {
+        "id_dex": 663,
+        "ability_first": "Flame Body",
+        "ability_hidden": "Gale Wings"
+    },
+    {
+        "id_dex": 664,
+        "ability_first": "Shield Dust",
+        "ability_second": "Compound Eyes",
+        "ability_hidden": "Friend Guard"
+    },
+    {
+        "id_dex": 665,
+        "ability_first": "Shed Skin",
+        "ability_hidden": "Friend Guard"
+    },
+    {
+        "id_dex": 666,
+        "ability_first": "Shield Dust",
+        "ability_second": "Compound Eyes",
+        "ability_hidden": "Friend Guard"
+    },
+    {
+        "id_dex": 667,
+        "ability_first": "Rivalry",
+        "ability_second": "Unnerve",
+        "ability_hidden": "Moxie"
+    },
+    {
+        "id_dex": 668,
+        "ability_first": "Rivalry",
+        "ability_second": "Unnerve",
+        "ability_hidden": "Moxie"
+    },
+    {
+        "id_dex": 669,
+        "ability_first": "Flower Veil",
+        "ability_hidden": "Symbiosis"
+    },
+    {
+        "id_dex": 670,
+        "ability_first": "Flower Veil",
+        "ability_hidden": "Symbiosis"
+    },
+    {
+        "id_dex": 671,
+        "ability_first": "Flower Veil",
+        "ability_hidden": "Symbiosis"
+    },
+    {
+        "id_dex": 672,
+        "ability_first": "Sap Sipper",
+        "ability_hidden": "Grass Pelt"
+    },
+    {
+        "id_dex": 673,
+        "ability_first": "Sap Sipper",
+        "ability_hidden": "Grass Pelt"
+    },
+    {
+        "id_dex": 674,
+        "ability_first": "Iron Fist",
+        "ability_second": "Mold Breaker",
+        "ability_hidden": "Scrappy"
+    },
+    {
+        "id_dex": 675,
+        "ability_first": "Iron Fist",
+        "ability_second": "Mold Breaker",
+        "ability_hidden": "Scrappy"
+    },
+    {
+        "id_dex": 676,
+        "ability_first": "Fur Coat"
+    },
+    {
+        "id_dex": 677,
+        "ability_first": "Keen Eye",
+        "ability_second": "Infiltrator",
+        "ability_hidden": "Own Tempo"
+    },
+    {
+        "id_dex": 678,
+        "ability_first": "Keen Eye",
+        "ability_second": "Infiltrator",
+        "ability_hidden": "Prankster"
+    },
+    {
+        "id_dex": 678,
+        "ability_first": "Keen Eye",
+        "ability_second": "Infiltrator",
+        "ability_hidden": "Competitive"
+    },
+    {
+        "id_dex": 679,
+        "ability_first": "No Guard"
+    },
+    {
+        "id_dex": 680,
+        "ability_first": "No Guard"
+    },
+    {
+        "id_dex": 681,
+        "ability_first": "Stance Change"
+    },
+    {
+        "id_dex": 681,
+        "ability_first": "Stance Change"
+    },
+    {
+        "id_dex": 682,
+        "ability_first": "Healer",
+        "ability_hidden": "Aroma Veil"
+    },
+    {
+        "id_dex": 683,
+        "ability_first": "Healer",
+        "ability_hidden": "Aroma Veil"
+    },
+    {
+        "id_dex": 684,
+        "ability_first": "Sweet Veil",
+        "ability_hidden": "Unburden"
+    },
+    {
+        "id_dex": 685,
+        "ability_first": "Sweet Veil",
+        "ability_hidden": "Unburden"
+    },
+    {
+        "id_dex": 686,
+        "ability_first": "Contrary",
+        "ability_second": "Suction Cups",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": 687,
+        "ability_first": "Contrary",
+        "ability_second": "Suction Cups",
+        "ability_hidden": "Infiltrator"
+    },
+    {
+        "id_dex": 688,
+        "ability_first": "Tough Claws",
+        "ability_second": "Sniper",
+        "ability_hidden": "Pickpocket"
+    },
+    {
+        "id_dex": 689,
+        "ability_first": "Tough Claws",
+        "ability_second": "Sniper",
+        "ability_hidden": "Pickpocket"
+    },
+    {
+        "id_dex": 690,
+        "ability_first": "Poison Point",
+        "ability_second": "Poison Touch",
+        "ability_hidden": "Adaptability"
+    },
+    {
+        "id_dex": 691,
+        "ability_first": "Poison Point",
+        "ability_second": "Poison Touch",
+        "ability_hidden": "Adaptability"
+    },
+    {
+        "id_dex": 692,
+        "ability_first": "Mega Launcher"
+    },
+    {
+        "id_dex": 693,
+        "ability_first": "Mega Launcher"
+    },
+    {
+        "id_dex": 694,
+        "ability_first": "Dry Skin",
+        "ability_second": "Sand Veil",
+        "ability_hidden": "Solar Power"
+    },
+    {
+        "id_dex": 695,
+        "ability_first": "Dry Skin",
+        "ability_second": "Sand Veil",
+        "ability_hidden": "Solar Power"
+    },
+    {
+        "id_dex": 696,
+        "ability_first": "Strong Jaw",
+        "ability_hidden": "Sturdy"
+    },
+    {
+        "id_dex": 697,
+        "ability_first": "Strong Jaw",
+        "ability_hidden": "Rock Head"
+    },
+    {
+        "id_dex": 698,
+        "ability_first": "Refrigerate",
+        "ability_hidden": "Snow Warning"
+    },
+    {
+        "id_dex": 699,
+        "ability_first": "Refrigerate",
+        "ability_hidden": "Snow Warning"
+    },
+    {
+        "id_dex": 700,
+        "ability_first": "Cute Charm",
+        "ability_hidden": "Pixilate"
+    },
+    {
+        "id_dex": 701,
+        "ability_first": "Limber",
+        "ability_second": "Unburden",
+        "ability_hidden": "Mold Breaker"
+    },
+    {
+        "id_dex": 702,
+        "ability_first": "Cheek Pouch",
+        "ability_second": "Pickup",
+        "ability_hidden": "Plus"
+    },
+    {
+        "id_dex": 703,
+        "ability_first": "Clear Body",
+        "ability_hidden": "Sturdy"
+    },
+    {
+        "id_dex": 704,
+        "ability_first": "Sap Sipper",
+        "ability_second": "Hydration",
+        "ability_hidden": "Gooey"
+    },
+    {
+        "id_dex": 705,
+        "ability_first": "Sap Sipper",
+        "ability_second": "Hydration",
+        "ability_hidden": "Gooey"
+    },
+    {
+        "id_dex": 705,
+        "ability_first": "Sap Sipper",
+        "ability_second": "Overcoat",
+        "ability_hidden": "Gooey"
+    },
+    {
+        "id_dex": 706,
+        "ability_first": "Sap Sipper",
+        "ability_second": "Hydration",
+        "ability_hidden": "Gooey"
+    },
+    {
+        "id_dex": 706,
+        "ability_first": "Sap Sipper",
+        "ability_second": "Overcoat",
+        "ability_hidden": "Gooey"
+    },
+    {
+        "id_dex": 707,
+        "ability_first": "Prankster",
+        "ability_hidden": "Magician"
+    },
+    {
+        "id_dex": 708,
+        "ability_first": "Natural Cure",
+        "ability_second": "Frisk",
+        "ability_hidden": "Harvest"
+    },
+    {
+        "id_dex": 709,
+        "ability_first": "Natural Cure",
+        "ability_second": "Frisk",
+        "ability_hidden": "Harvest"
+    },
+    {
+        "id_dex": 710,
+        "ability_first": "Pickup",
+        "ability_second": "Frisk",
+        "ability_hidden": "Insomnia"
+    },
+    {
+        "id_dex": 710,
+        "ability_first": "Pickup",
+        "ability_second": "Frisk",
+        "ability_hidden": "Insomnia"
+    },
+    {
+        "id_dex": 710,
+        "ability_first": "Pickup",
+        "ability_second": "Frisk",
+        "ability_hidden": "Insomnia"
+    },
+    {
+        "id_dex": 710,
+        "ability_first": "Pickup",
+        "ability_second": "Frisk",
+        "ability_hidden": "Insomnia"
+    },
+    {
+        "id_dex": 711,
+        "ability_first": "Pickup",
+        "ability_second": "Frisk",
+        "ability_hidden": "Insomnia"
+    },
+    {
+        "id_dex": 711,
+        "ability_first": "Pickup",
+        "ability_second": "Frisk",
+        "ability_hidden": "Insomnia"
+    },
+    {
+        "id_dex": 711,
+        "ability_first": "Pickup",
+        "ability_second": "Frisk",
+        "ability_hidden": "Insomnia"
+    },
+    {
+        "id_dex": 711,
+        "ability_first": "Pickup",
+        "ability_second": "Frisk",
+        "ability_hidden": "Insomnia"
+    },
+    {
+        "id_dex": 712,
+        "ability_first": "Own Tempo",
+        "ability_second": "Ice Body",
+        "ability_hidden": "Sturdy"
+    },
+    {
+        "id_dex": 713,
+        "ability_first": "Own Tempo",
+        "ability_second": "Ice Body",
+        "ability_hidden": "Sturdy"
+    },
+    {
+        "id_dex": 713,
+        "ability_first": "Strong Jaw",
+        "ability_second": "Ice Body",
+        "ability_hidden": "Sturdy"
+    },
+    {
+        "id_dex": 714,
+        "ability_first": "Frisk",
+        "ability_second": "Infiltrator",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 715,
+        "ability_first": "Frisk",
+        "ability_second": "Infiltrator",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 716,
+        "ability_first": "Fairy Aura"
+    },
+    {
+        "id_dex": 717,
+        "ability_first": "Dark Aura"
+    },
+    {
+        "id_dex": 718,
+        "ability_first": "Aura Break",
+        "ability_second": "Power Construct"
+    },
+    {
+        "id_dex": 718,
+        "ability_first": "Aura Break",
+        "ability_second": "Power Construct"
+    },
+    {
+        "id_dex": 718,
+        "ability_first": "Power Construct"
+    },
+    {
+        "id_dex": 719,
+        "ability_first": "Clear Body"
+    },
+    {
+        "id_dex": 719,
+        "ability_first": "Magic Bounce"
+    },
+    {
+        "id_dex": 720,
+        "ability_first": "Magician"
+    },
+    {
+        "id_dex": 720,
+        "ability_first": "Magician"
+    },
+    {
+        "id_dex": 721,
+        "ability_first": "Water Absorb"
+    },
+    {
+        "id_dex": 722,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Long Reach"
+    },
+    {
+        "id_dex": 723,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Long Reach"
+    },
+    {
+        "id_dex": 724,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Long Reach"
+    },
+    {
+        "id_dex": 724,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Long Reach"
+    },
+    {
+        "id_dex": 725,
+        "ability_first": "Blaze",
+        "ability_hidden": "Intimidate"
+    },
+    {
+        "id_dex": 726,
+        "ability_first": "Blaze",
+        "ability_hidden": "Intimidate"
+    },
+    {
+        "id_dex": 727,
+        "ability_first": "Blaze",
+        "ability_hidden": "Intimidate"
+    },
+    {
+        "id_dex": 728,
+        "ability_first": "Torrent",
+        "ability_hidden": "Liquid Voice"
+    },
+    {
+        "id_dex": 729,
+        "ability_first": "Torrent",
+        "ability_hidden": "Liquid Voice"
+    },
+    {
+        "id_dex": 730,
+        "ability_first": "Torrent",
+        "ability_hidden": "Liquid Voice"
+    },
+    {
+        "id_dex": 731,
+        "ability_first": "Keen Eye",
+        "ability_second": "Skill Link",
+        "ability_hidden": "Pickup"
+    },
+    {
+        "id_dex": 732,
+        "ability_first": "Keen Eye",
+        "ability_second": "Skill Link",
+        "ability_hidden": "Pickup"
+    },
+    {
+        "id_dex": 733,
+        "ability_first": "Keen Eye",
+        "ability_second": "Skill Link",
+        "ability_hidden": "Sheer Force"
+    },
+    {
+        "id_dex": 734,
+        "ability_first": "Stakeout",
+        "ability_second": "Strong Jaw",
+        "ability_hidden": "Adaptability"
+    },
+    {
+        "id_dex": 735,
+        "ability_first": "Stakeout",
+        "ability_second": "Strong Jaw",
+        "ability_hidden": "Adaptability"
+    },
+    {
+        "id_dex": 736,
+        "ability_first": "Swarm"
+    },
+    {
+        "id_dex": 737,
+        "ability_first": "Battery"
+    },
+    {
+        "id_dex": 738,
+        "ability_first": "Levitate"
+    },
+    {
+        "id_dex": 739,
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Iron Fist",
+        "ability_hidden": "Anger Point"
+    },
+    {
+        "id_dex": 740,
+        "ability_first": "Hyper Cutter",
+        "ability_second": "Iron Fist",
+        "ability_hidden": "Anger Point"
+    },
+    {
+        "id_dex": 741,
+        "ability_first": "Dancer"
+    },
+    {
+        "id_dex": 741,
+        "ability_first": "Dancer"
+    },
+    {
+        "id_dex": 741,
+        "ability_first": "Dancer"
+    },
+    {
+        "id_dex": 741,
+        "ability_first": "Dancer"
+    },
+    {
+        "id_dex": 742,
+        "ability_first": "Honey Gather",
+        "ability_second": "Shield Dust",
+        "ability_hidden": "Sweet Veil"
+    },
+    {
+        "id_dex": 743,
+        "ability_first": "Honey Gather",
+        "ability_second": "Shield Dust",
+        "ability_hidden": "Sweet Veil"
+    },
+    {
+        "id_dex": 744,
+        "ability_first": "Keen Eye",
+        "ability_second": "Vital Spirit",
+        "ability_hidden": "Steadfast"
+    },
+    {
+        "id_dex": 744,
+        "ability_first": "Own Tempo"
+    },
+    {
+        "id_dex": 745,
+        "ability_first": "Keen Eye",
+        "ability_second": "Sand Rush",
+        "ability_hidden": "Steadfast"
+    },
+    {
+        "id_dex": 745,
+        "ability_first": "Keen Eye",
+        "ability_second": "Vital Spirit",
+        "ability_hidden": "No Guard"
+    },
+    {
+        "id_dex": 745,
+        "ability_first": "Tough Claws"
+    },
+    {
+        "id_dex": 746,
+        "ability_first": "Schooling"
+    },
+    {
+        "id_dex": 746,
+        "ability_first": "Schooling"
+    },
+    {
+        "id_dex": 747,
+        "ability_first": "Merciless",
+        "ability_second": "Limber",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 748,
+        "ability_first": "Merciless",
+        "ability_second": "Limber",
+        "ability_hidden": "Regenerator"
+    },
+    {
+        "id_dex": 749,
+        "ability_first": "Own Tempo",
+        "ability_second": "Stamina",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": 750,
+        "ability_first": "Own Tempo",
+        "ability_second": "Stamina",
+        "ability_hidden": "Inner Focus"
+    },
+    {
+        "id_dex": 751,
+        "ability_first": "Water Bubble",
+        "ability_hidden": "Water Absorb"
+    },
+    {
+        "id_dex": 752,
+        "ability_first": "Water Bubble",
+        "ability_hidden": "Water Absorb"
+    },
+    {
+        "id_dex": 753,
+        "ability_first": "Leaf Guard",
+        "ability_hidden": "Contrary"
+    },
+    {
+        "id_dex": 754,
+        "ability_first": "Leaf Guard",
+        "ability_hidden": "Contrary"
+    },
+    {
+        "id_dex": 755,
+        "ability_first": "Illuminate",
+        "ability_second": "Effect Spore",
+        "ability_hidden": "Rain Dish"
+    },
+    {
+        "id_dex": 756,
+        "ability_first": "Illuminate",
+        "ability_second": "Effect Spore",
+        "ability_hidden": "Rain Dish"
+    },
+    {
+        "id_dex": 757,
+        "ability_first": "Corrosion",
+        "ability_hidden": "Oblivious"
+    },
+    {
+        "id_dex": 758,
+        "ability_first": "Corrosion",
+        "ability_hidden": "Oblivious"
+    },
+    {
+        "id_dex": 759,
+        "ability_first": "Fluffy",
+        "ability_second": "Klutz",
+        "ability_hidden": "Cute Charm"
+    },
+    {
+        "id_dex": 760,
+        "ability_first": "Fluffy",
+        "ability_second": "Klutz",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 761,
+        "ability_first": "Leaf Guard",
+        "ability_second": "Oblivious",
+        "ability_hidden": "Sweet Veil"
+    },
+    {
+        "id_dex": 762,
+        "ability_first": "Leaf Guard",
+        "ability_second": "Oblivious",
+        "ability_hidden": "Sweet Veil"
+    },
+    {
+        "id_dex": 763,
+        "ability_first": "Leaf Guard",
+        "ability_second": "Queenly Majesty",
+        "ability_hidden": "Sweet Veil"
+    },
+    {
+        "id_dex": 764,
+        "ability_first": "Flower Veil",
+        "ability_second": "Triage",
+        "ability_hidden": "Natural Cure"
+    },
+    {
+        "id_dex": 765,
+        "ability_first": "Inner Focus",
+        "ability_second": "Telepathy",
+        "ability_hidden": "Symbiosis"
+    },
+    {
+        "id_dex": 766,
+        "ability_first": "Receiver",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 767,
+        "ability_first": "Wimp Out"
+    },
+    {
+        "id_dex": 768,
+        "ability_first": "Emergency Exit"
+    },
+    {
+        "id_dex": 769,
+        "ability_first": "Water Compaction",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": 770,
+        "ability_first": "Water Compaction",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": 771,
+        "ability_first": "Innards Out",
+        "ability_hidden": "Unaware"
+    },
+    {
+        "id_dex": 772,
+        "ability_first": "Battle Armor"
+    },
+    {
+        "id_dex": 773,
+        "ability_first": "RKS System"
+    },
+    {
+        "id_dex": 774,
+        "ability_first": "Shields Down"
+    },
+    {
+        "id_dex": 774,
+        "ability_first": "Shields Down"
+    },
+    {
+        "id_dex": 775,
+        "ability_first": "Comatose"
+    },
+    {
+        "id_dex": 776,
+        "ability_first": "Shell Armor"
+    },
+    {
+        "id_dex": 777,
+        "ability_first": "Iron Barbs",
+        "ability_second": "Lightning Rod",
+        "ability_hidden": "Sturdy"
+    },
+    {
+        "id_dex": 778,
+        "ability_first": "Disguise"
+    },
+    {
+        "id_dex": 779,
+        "ability_first": "Dazzling",
+        "ability_second": "Strong Jaw",
+        "ability_hidden": "Wonder Skin"
+    },
+    {
+        "id_dex": 780,
+        "ability_first": "Berserk",
+        "ability_second": "Sap Sipper",
+        "ability_hidden": "Cloud Nine"
+    },
+    {
+        "id_dex": 781,
+        "ability_first": "Steelworker"
+    },
+    {
+        "id_dex": 782,
+        "ability_first": "Bulletproof",
+        "ability_second": "Soundproof",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 783,
+        "ability_first": "Bulletproof",
+        "ability_second": "Soundproof",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 784,
+        "ability_first": "Bulletproof",
+        "ability_second": "Soundproof",
+        "ability_hidden": "Overcoat"
+    },
+    {
+        "id_dex": 785,
+        "ability_first": "Electric Surge",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 786,
+        "ability_first": "Psychic Surge",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 787,
+        "ability_first": "Grassy Surge",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 788,
+        "ability_first": "Misty Surge",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 789,
+        "ability_first": "Unaware"
+    },
+    {
+        "id_dex": 790,
+        "ability_first": "Sturdy"
+    },
+    {
+        "id_dex": 791,
+        "ability_first": "Full Metal Body"
+    },
+    {
+        "id_dex": 792,
+        "ability_first": "Shadow Shield"
+    },
+    {
+        "id_dex": 793,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 794,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 795,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 796,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 797,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 798,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 799,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 800,
+        "ability_first": "Prism Armor"
+    },
+    {
+        "id_dex": 800,
+        "ability_first": "Prism Armor"
+    },
+    {
+        "id_dex": 800,
+        "ability_first": "Prism Armor"
+    },
+    {
+        "id_dex": 800,
+        "ability_first": "Neuroforce"
+    },
+    {
+        "id_dex": 801,
+        "ability_first": "Soul-Heart"
+    },
+    {
+        "id_dex": 802,
+        "ability_first": "Technician"
+    },
+    {
+        "id_dex": 803,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 804,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 805,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 806,
+        "ability_first": "Beast Boost"
+    },
+    {
+        "id_dex": 807,
+        "ability_first": "Volt Absorb"
+    },
+    {
+        "id_dex": 808,
+        "ability_first": "Magnet Pull"
+    },
+    {
+        "id_dex": 809,
+        "ability_first": "Iron Fist"
+    },
+    {
+        "id_dex": 810,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Grassy Surge"
+    },
+    {
+        "id_dex": 811,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Grassy Surge"
+    },
+    {
+        "id_dex": 812,
+        "ability_first": "Overgrow",
+        "ability_hidden": "Grassy Surge"
+    },
+    {
+        "id_dex": 813,
+        "ability_first": "Blaze",
+        "ability_hidden": "Libero"
+    },
+    {
+        "id_dex": 814,
+        "ability_first": "Blaze",
+        "ability_hidden": "Libero"
+    },
+    {
+        "id_dex": 815,
+        "ability_first": "Blaze",
+        "ability_hidden": "Libero"
+    },
+    {
+        "id_dex": 816,
+        "ability_first": "Torrent",
+        "ability_hidden": "Sniper"
+    },
+    {
+        "id_dex": 817,
+        "ability_first": "Torrent",
+        "ability_hidden": "Sniper"
+    },
+    {
+        "id_dex": 818,
+        "ability_first": "Torrent",
+        "ability_hidden": "Sniper"
+    },
+    {
+        "id_dex": 819,
+        "ability_first": "Cheek Pouch",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": 820,
+        "ability_first": "Cheek Pouch",
+        "ability_hidden": "Gluttony"
+    },
+    {
+        "id_dex": 821,
+        "ability_first": "Keen Eye",
+        "ability_second": "Unnerve",
+        "ability_hidden": "Big Pecks"
+    },
+    {
+        "id_dex": 822,
+        "ability_first": "Keen Eye",
+        "ability_second": "Unnerve",
+        "ability_hidden": "Big Pecks"
+    },
+    {
+        "id_dex": 823,
+        "ability_first": "Pressure",
+        "ability_second": "Unnerve",
+        "ability_hidden": "Mirror Armor"
+    },
+    {
+        "id_dex": 824,
+        "ability_first": "Swarm",
+        "ability_second": "Compound Eyes",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 825,
+        "ability_first": "Swarm",
+        "ability_second": "Compound Eyes",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 826,
+        "ability_first": "Swarm",
+        "ability_second": "Frisk",
+        "ability_hidden": "Telepathy"
+    },
+    {
+        "id_dex": 827,
+        "ability_first": "Run Away",
+        "ability_second": "Unburden",
+        "ability_hidden": "Stakeout"
+    },
+    {
+        "id_dex": 828,
+        "ability_first": "Run Away",
+        "ability_second": "Unburden",
+        "ability_hidden": "Stakeout"
+    },
+    {
+        "id_dex": 829,
+        "ability_first": "Cotton Down",
+        "ability_second": "Regenerator",
+        "ability_hidden": "Effect Spore"
+    },
+    {
+        "id_dex": 830,
+        "ability_first": "Cotton Down",
+        "ability_second": "Regenerator",
+        "ability_hidden": "Effect Spore"
+    },
+    {
+        "id_dex": 831,
+        "ability_first": "Fluffy",
+        "ability_second": "Run Away",
+        "ability_hidden": "Bulletproof"
+    },
+    {
+        "id_dex": 832,
+        "ability_first": "Fluffy",
+        "ability_second": "Steadfast",
+        "ability_hidden": "Bulletproof"
+    },
+    {
+        "id_dex": 833,
+        "ability_first": "Strong Jaw",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": 834,
+        "ability_first": "Strong Jaw",
+        "ability_second": "Shell Armor",
+        "ability_hidden": "Swift Swim"
+    },
+    {
+        "id_dex": 835,
+        "ability_first": "Ball Fetch",
+        "ability_hidden": "Rattled"
+    },
+    {
+        "id_dex": 836,
+        "ability_first": "Strong Jaw",
+        "ability_hidden": "Competitive"
+    },
+    {
+        "id_dex": 837,
+        "ability_first": "Steam Engine",
+        "ability_second": "Heatproof",
+        "ability_hidden": "Flash Fire"
+    },
+    {
+        "id_dex": 838,
+        "ability_first": "Steam Engine",
+        "ability_second": "Flame Body",
+        "ability_hidden": "Flash Fire"
+    },
+    {
+        "id_dex": 839,
+        "ability_first": "Steam Engine",
+        "ability_second": "Flame Body",
+        "ability_hidden": "Flash Fire"
+    },
+    {
+        "id_dex": 840,
+        "ability_first": "Ripen",
+        "ability_second": "Gluttony",
+        "ability_hidden": "Bulletproof"
+    },
+    {
+        "id_dex": 841,
+        "ability_first": "Ripen",
+        "ability_second": "Gluttony",
+        "ability_hidden": "Hustle"
+    },
+    {
+        "id_dex": 842,
+        "ability_first": "Ripen",
+        "ability_second": "Gluttony",
+        "ability_hidden": "Thick Fat"
+    },
+    {
+        "id_dex": 843,
+        "ability_first": "Sand Spit",
+        "ability_second": "Shed Skin",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": 844,
+        "ability_first": "Sand Spit",
+        "ability_second": "Shed Skin",
+        "ability_hidden": "Sand Veil"
+    },
+    {
+        "id_dex": 845,
+        "ability_first": "Gulp Missile"
+    },
+    {
+        "id_dex": 846,
+        "ability_first": "Swift Swim",
+        "ability_hidden": "Propeller Tail"
+    },
+    {
+        "id_dex": 847,
+        "ability_first": "Swift Swim",
+        "ability_hidden": "Propeller Tail"
+    },
+    {
+        "id_dex": 848,
+        "ability_first": "Rattled",
+        "ability_second": "Static",
+        "ability_hidden": "Klutz"
+    },
+    {
+        "id_dex": 849,
+        "ability_first": "Punk Rock",
+        "ability_second": "Plus",
+        "ability_hidden": "Technician"
+    },
+    {
+        "id_dex": 849,
+        "ability_first": "Punk Rock",
+        "ability_second": "Minus",
+        "ability_hidden": "Technician"
+    },
+    {
+        "id_dex": 850,
+        "ability_first": "Flash Fire",
+        "ability_second": "White Smoke",
+        "ability_hidden": "Flame Body"
+    },
+    {
+        "id_dex": 851,
+        "ability_first": "Flash Fire",
+        "ability_second": "White Smoke",
+        "ability_hidden": "Flame Body"
+    },
+    {
+        "id_dex": 852,
+        "ability_first": "Limber",
+        "ability_hidden": "Technician"
+    },
+    {
+        "id_dex": 853,
+        "ability_first": "Limber",
+        "ability_hidden": "Technician"
+    },
+    {
+        "id_dex": 854,
+        "ability_first": "Weak Armor",
+        "ability_hidden": "Cursed Body"
+    },
+    {
+        "id_dex": 855,
+        "ability_first": "Weak Armor",
+        "ability_hidden": "Cursed Body"
+    },
+    {
+        "id_dex": 856,
+        "ability_first": "Healer",
+        "ability_second": "Anticipation",
+        "ability_hidden": "Magic Bounce"
+    },
+    {
+        "id_dex": 857,
+        "ability_first": "Healer",
+        "ability_second": "Anticipation",
+        "ability_hidden": "Magic Bounce"
+    },
+    {
+        "id_dex": 858,
+        "ability_first": "Healer",
+        "ability_second": "Anticipation",
+        "ability_hidden": "Magic Bounce"
+    },
+    {
+        "id_dex": 859,
+        "ability_first": "Prankster",
+        "ability_second": "Frisk",
+        "ability_hidden": "Pickpocket"
+    },
+    {
+        "id_dex": 860,
+        "ability_first": "Prankster",
+        "ability_second": "Frisk",
+        "ability_hidden": "Pickpocket"
+    },
+    {
+        "id_dex": 861,
+        "ability_first": "Prankster",
+        "ability_second": "Frisk",
+        "ability_hidden": "Pickpocket"
+    },
+    {
+        "id_dex": 862,
+        "ability_first": "Reckless",
+        "ability_second": "Guts",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 863,
+        "ability_first": "Battle Armor",
+        "ability_second": "Tough Claws",
+        "ability_hidden": "Steely Spirit"
+    },
+    {
+        "id_dex": 864,
+        "ability_first": "Weak Armor",
+        "ability_hidden": "Perish Body"
+    },
+    {
+        "id_dex": 865,
+        "ability_first": "Steadfast",
+        "ability_hidden": "Scrappy"
+    },
+    {
+        "id_dex": 866,
+        "ability_first": "Tangled Feet",
+        "ability_second": "Screen Cleaner",
+        "ability_hidden": "Ice Body"
+    },
+    {
+        "id_dex": 867,
+        "ability_first": "Wandering Spirit"
+    },
+    {
+        "id_dex": 868,
+        "ability_first": "Sweet Veil",
+        "ability_hidden": "Aroma Veil"
+    },
+    {
+        "id_dex": 869,
+        "ability_first": "Sweet Veil",
+        "ability_hidden": "Aroma Veil"
+    },
+    {
+        "id_dex": 870,
+        "ability_first": "Battle Armor",
+        "ability_hidden": "Defiant"
+    },
+    {
+        "id_dex": 871,
+        "ability_first": "Lightning Rod",
+        "ability_hidden": "Electric Surge"
+    },
+    {
+        "id_dex": 872,
+        "ability_first": "Shield Dust",
+        "ability_hidden": "Ice Scales"
+    },
+    {
+        "id_dex": 873,
+        "ability_first": "Shield Dust",
+        "ability_hidden": "Ice Scales"
+    },
+    {
+        "id_dex": 874,
+        "ability_first": "Power Spot"
+    },
+    {
+        "id_dex": 875,
+        "ability_first": "Ice Face"
+    },
+    {
+        "id_dex": 875,
+        "ability_first": "Ice Face"
+    },
+    {
+        "id_dex": 876,
+        "ability_first": "Inner Focus",
+        "ability_second": "Synchronize",
+        "ability_hidden": "Psychic Surge"
+    },
+    {
+        "id_dex": 876,
+        "ability_first": "Own Tempo",
+        "ability_second": "Synchronize",
+        "ability_hidden": "Psychic Surge"
+    },
+    {
+        "id_dex": 877,
+        "ability_first": "Hunger Switch"
+    },
+    {
+        "id_dex": 877,
+        "ability_first": "Hunger Switch"
+    },
+    {
+        "id_dex": 878,
+        "ability_first": "Sheer Force",
+        "ability_hidden": "Heavy Metal"
+    },
+    {
+        "id_dex": 879,
+        "ability_first": "Sheer Force",
+        "ability_hidden": "Heavy Metal"
+    },
+    {
+        "id_dex": 880,
+        "ability_first": "Volt Absorb",
+        "ability_second": "Hustle",
+        "ability_hidden": "Sand Rush"
+    },
+    {
+        "id_dex": 881,
+        "ability_first": "Volt Absorb",
+        "ability_second": "Static",
+        "ability_hidden": "Slush Rush"
+    },
+    {
+        "id_dex": 882,
+        "ability_first": "Water Absorb",
+        "ability_second": "Strong Jaw",
+        "ability_hidden": "Sand Rush"
+    },
+    {
+        "id_dex": 883,
+        "ability_first": "Water Absorb",
+        "ability_second": "Ice Body",
+        "ability_hidden": "Slush Rush"
+    },
+    {
+        "id_dex": 884,
+        "ability_first": "Light Metal",
+        "ability_second": "Heavy Metal",
+        "ability_hidden": "Stalwart"
+    },
+    {
+        "id_dex": 885,
+        "ability_first": "Clear Body",
+        "ability_second": "Infiltrator",
+        "ability_hidden": "Cursed Body"
+    },
+    {
+        "id_dex": 886,
+        "ability_first": "Clear Body",
+        "ability_second": "Infiltrator",
+        "ability_hidden": "Cursed Body"
+    },
+    {
+        "id_dex": 887,
+        "ability_first": "Clear Body",
+        "ability_second": "Infiltrator",
+        "ability_hidden": "Cursed Body"
+    },
+    {
+        "id_dex": 888,
+        "ability_first": "Intrepid Sword"
+    },
+    {
+        "id_dex": 888,
+        "ability_first": "Intrepid Sword"
+    },
+    {
+        "id_dex": 889,
+        "ability_first": "Dauntless Shield"
+    },
+    {
+        "id_dex": 889,
+        "ability_first": "Dauntless Shield"
+    },
+    {
+        "id_dex": 890,
+        "ability_first": "Pressure"
+    },
+    {
+        "id_dex": 890,
+        "ability_first": "Pressure"
+    },
+    {
+        "id_dex": 891,
+        "ability_first": "Inner Focus"
+    },
+    {
+        "id_dex": 892,
+        "ability_first": "Unseen Fist"
+    },
+    {
+        "id_dex": 892,
+        "ability_first": "Unseen Fist"
+    },
+    {
+        "id_dex": 893,
+        "ability_first": "Leaf Guard"
+    },
+    {
+        "id_dex": 894,
+        "ability_first": "Transistor"
+    },
+    {
+        "id_dex": 895,
+        "ability_first": "Dragon's Maw"
+    },
+    {
+        "id_dex": 896,
+        "ability_first": "Chilling Neigh"
+    },
+    {
+        "id_dex": 897,
+        "ability_first": "Grim Neigh"
+    },
+    {
+        "id_dex": 898,
+        "ability_first": "Unnerve"
+    },
+    {
+        "id_dex": 898,
+        "ability_first": "As One"
+    },
+    {
+        "id_dex": 898,
+        "ability_first": "As One"
+    },
+    {
+        "id_dex": 899,
+        "ability_first": "Intimidate",
+        "ability_second": "Frisk",
+        "ability_hidden": "Sap Sipper"
+    },
+    {
+        "id_dex": 900,
+        "ability_first": "Swarm",
+        "ability_second": "Sheer Force",
+        "ability_hidden": "Steadfast"
+    },
+    {
+        "id_dex": 901,
+        "ability_first": "Guts",
+        "ability_second": "Bulletproof",
+        "ability_hidden": "Unnerve"
+    },
+    {
+        "id_dex": 902,
+        "ability_first": "Rattled",
+        "ability_second": "Adaptability",
+        "ability_hidden": "Mold Breaker"
+    },
+    {
+        "id_dex": 903,
+        "ability_first": "Pressure",
+        "ability_hidden": "Poison Touch"
+    },
+    {
+        "id_dex": 904,
+        "ability_first": "Poison Point",
+        "ability_second": "Swift Swim",
+        "ability_hidden": "Intimidate"
+    },
+    {
+        "id_dex": 905,
+        "ability_first": "Healer",
+        "ability_hidden": "Contrary"
+    },
+    {
+        "id_dex": 905,
+        "ability_first": "Overcoat"
+    }
+]
