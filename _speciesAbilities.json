@@ -30,8 +30,8 @@
       10037,
       10063
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "aftermath",
@@ -59,14 +59,14 @@
     "has_first": [
       384
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "analytic",
     "ability_name": "Analytic",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       81,
       82,
@@ -85,8 +85,8 @@
   {
     "ability_url": "anger-point",
     "ability_name": "Anger Point",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       323,
       551,
@@ -120,19 +120,19 @@
   {
     "ability_url": "arena-trap",
     "ability_name": "Arena Trap",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       50,
       51,
       328
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "aroma-veil",
     "ability_name": "Aroma Veil",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       682,
       683,
@@ -147,8 +147,8 @@
       10167,
       10168
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "aura-break",
@@ -157,8 +157,8 @@
       718,
       10107
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "bad-dreams",
@@ -166,8 +166,8 @@
     "has_first": [
       491
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "ball-fetch",
@@ -175,8 +175,8 @@
     "has_first": [
       835
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "battery",
@@ -184,8 +184,8 @@
     "has_first": [
       737
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "battle-armor",
@@ -214,8 +214,8 @@
     "has_first": [
       10106
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "beast-boost",
@@ -233,8 +233,8 @@
       805,
       806
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "berserk",
@@ -243,8 +243,8 @@
       10134,
       780
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "big-pecks",
@@ -300,7 +300,7 @@
       814,
       815
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       513,
       514
@@ -338,7 +338,7 @@
       659,
       660
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "chilling-neigh",
@@ -346,8 +346,8 @@
     "has_first": [
       896
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "chlorophyll",
@@ -413,7 +413,7 @@
       886,
       887
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       599,
       600,
@@ -423,7 +423,7 @@
   {
     "ability_url": "cloud-nine",
     "ability_name": "Cloud Nine",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       54,
       55
@@ -442,8 +442,8 @@
     "has_first": [
       352
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "comatose",
@@ -451,8 +451,8 @@
     "has_first": [
       775
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "competitive",
@@ -460,7 +460,7 @@
     "has_first": [
       10132
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       10076,
       836
@@ -494,7 +494,7 @@
       686,
       687
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       213,
       327,
@@ -513,8 +513,8 @@
       757,
       758
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "cotton-down",
@@ -523,8 +523,8 @@
       829,
       830
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "curious-medicine",
@@ -532,8 +532,8 @@
     "has_first": [
       10136
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "cursed-body",
@@ -575,7 +575,7 @@
       573,
       700
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       350,
       759
@@ -618,8 +618,8 @@
       10110,
       10111
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "dark-aura",
@@ -627,8 +627,8 @@
     "has_first": [
       717
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "dauntless-shield",
@@ -637,8 +637,8 @@
       889,
       10164
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "dazzling",
@@ -646,8 +646,8 @@
     "has_first": [
       779
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "defeatist",
@@ -656,8 +656,8 @@
       566,
       567
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "defiant",
@@ -667,7 +667,7 @@
       624,
       625
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       56,
       57,
@@ -691,8 +691,8 @@
     "has_first": [
       10069
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "desolate-land",
@@ -700,8 +700,8 @@
     "has_first": [
       10068
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "disguise",
@@ -709,8 +709,8 @@
     "has_first": [
       778
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "download",
@@ -721,7 +721,7 @@
     "has_second": [
       474
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "dragons-maw",
@@ -729,8 +729,8 @@
     "has_first": [
       895
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "drizzle",
@@ -738,7 +738,7 @@
     "has_first": [
       382
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       186
     ]
@@ -750,7 +750,7 @@
       10029,
       383
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       37,
       38
@@ -823,7 +823,7 @@
     "has_first": [
       785
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       871
     ]
@@ -834,8 +834,8 @@
     "has_first": [
       768
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "fairy-aura",
@@ -843,8 +843,8 @@
     "has_first": [
       716
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "filter",
@@ -855,7 +855,7 @@
     "has_second": [
       439
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "flame-body",
@@ -890,8 +890,8 @@
   {
     "ability_url": "flare-boost",
     "ability_name": "Flare Boost",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       425,
       426
@@ -938,8 +938,8 @@
     "has_first": [
       421
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "flower-veil",
@@ -950,8 +950,8 @@
       671,
       764
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "fluffy",
@@ -962,8 +962,8 @@
       831,
       832
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "forecast",
@@ -974,8 +974,8 @@
       10002,
       10003
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "forewarn",
@@ -984,14 +984,14 @@
       517,
       518
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "friend-guard",
     "ability_name": "Friend Guard",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       35,
       39,
@@ -1045,8 +1045,8 @@
     "has_first": [
       791
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "fur-coat",
@@ -1055,14 +1055,14 @@
       10097,
       676
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "gale-wings",
     "ability_name": "Gale Wings",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       661,
       662,
@@ -1072,8 +1072,8 @@
   {
     "ability_url": "galvanize",
     "ability_name": "Galvanize",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       10098,
       10099,
@@ -1121,8 +1121,8 @@
   {
     "ability_url": "gooey",
     "ability_name": "Gooey",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       704,
       705,
@@ -1137,14 +1137,14 @@
     "has_first": [
       10148
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "grass-pelt",
     "ability_name": "Grass Pelt",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       672,
       673
@@ -1156,7 +1156,7 @@
     "has_first": [
       787
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       810,
       811,
@@ -1169,8 +1169,8 @@
     "has_first": [
       897
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "gulp-missile",
@@ -1178,8 +1178,8 @@
     "has_first": [
       845
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "guts",
@@ -1217,8 +1217,8 @@
   {
     "ability_url": "harvest",
     "ability_name": "Harvest",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       102,
       103,
@@ -1242,7 +1242,7 @@
       858,
       905
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       113,
       182,
@@ -1252,18 +1252,18 @@
   {
     "ability_url": "heatproof",
     "ability_name": "Heatproof",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       436,
       437,
       837
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "heavy-metal",
     "ability_name": "Heavy Metal",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       884
     ],
@@ -1285,7 +1285,7 @@
       742,
       743
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       216
     ]
@@ -1313,8 +1313,8 @@
       877,
       10162
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "hustle",
@@ -1395,8 +1395,8 @@
       739,
       740
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "ice-body",
@@ -1428,14 +1428,14 @@
       875,
       10160
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "ice-scales",
     "ability_name": "Ice Scales",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       872,
       873
@@ -1456,7 +1456,7 @@
       170,
       171
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "illusion",
@@ -1467,8 +1467,8 @@
       571,
       10152
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "immunity",
@@ -1477,7 +1477,7 @@
       143,
       335
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       207
     ]
@@ -1485,8 +1485,8 @@
   {
     "ability_url": "imposter",
     "ability_name": "Imposter",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       132
     ]
@@ -1494,7 +1494,7 @@
   {
     "ability_url": "infiltrator",
     "ability_name": "Infiltrator",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       546,
       547,
@@ -1527,8 +1527,8 @@
     "has_first": [
       771
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "inner-focus",
@@ -1661,8 +1661,8 @@
       888,
       10163
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "iron-barbs",
@@ -1672,8 +1672,8 @@
       598,
       777
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "iron-fist",
@@ -1709,7 +1709,7 @@
       647,
       10025
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       58,
       10121,
@@ -1775,7 +1775,7 @@
   {
     "ability_url": "klutz",
     "ability_name": "Klutz",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       427,
       428,
@@ -1864,14 +1864,14 @@
       635,
       738
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "libero",
     "ability_name": "Libero",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       813,
       814,
@@ -1884,7 +1884,7 @@
     "has_first": [
       884
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       212,
       374,
@@ -1956,13 +1956,13 @@
       72,
       73
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "liquid-voice",
     "ability_name": "Liquid Voice",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       728,
       729,
@@ -1972,8 +1972,8 @@
   {
     "ability_url": "long-reach",
     "ability_name": "Long Reach",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       722,
       723,
@@ -1989,7 +1989,7 @@
       10061,
       10084
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       177,
       178,
@@ -2002,7 +2002,7 @@
   {
     "ability_url": "magic-guard",
     "ability_name": "Magic Guard",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       561,
       577,
@@ -2022,7 +2022,7 @@
       720,
       10085
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       653,
       654,
@@ -2038,8 +2038,8 @@
       219,
       323
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "magnet-pull",
@@ -2057,7 +2057,7 @@
       299,
       476
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "marvel-scale",
@@ -2065,7 +2065,7 @@
     "has_first": [
       350
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       147,
       148
@@ -2079,8 +2079,8 @@
       692,
       693
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "merciless",
@@ -2089,8 +2089,8 @@
       747,
       748
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "mimicry",
@@ -2098,8 +2098,8 @@
     "has_first": [
       10153
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "minus",
@@ -2121,8 +2121,8 @@
   {
     "ability_url": "mirror-armor",
     "ability_name": "Mirror Armor",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       823
     ]
@@ -2133,7 +2133,7 @@
     "has_first": [
       788
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       10130
     ]
@@ -2170,8 +2170,8 @@
   {
     "ability_url": "moody",
     "ability_name": "Moody",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       223,
       224,
@@ -2199,7 +2199,7 @@
   {
     "ability_url": "moxie",
     "ability_name": "Moxie",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       551,
       552,
@@ -2221,8 +2221,8 @@
   {
     "ability_url": "multiscale",
     "ability_name": "Multiscale",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       149,
       249
@@ -2234,8 +2234,8 @@
     "has_first": [
       493
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "mummy",
@@ -2244,8 +2244,8 @@
       562,
       563
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "natural-cure",
@@ -2279,17 +2279,17 @@
     "has_first": [
       10119
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "neutralizing-gas",
     "ability_name": "Neutralizing Gas",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       10130
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "no-guard",
@@ -2299,7 +2299,7 @@
       679,
       680
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       588,
       622,
@@ -2338,9 +2338,9 @@
   {
     "ability_url": "normalize",
     "ability_name": "Normalize",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_first": [],
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "oblivious",
@@ -2442,7 +2442,7 @@
       811,
       812
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       511,
       512
@@ -2491,24 +2491,24 @@
     "has_first": [
       10036
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "pastel-veil",
     "ability_name": "Pastel Veil",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       10123,
       10124
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "perish-body",
     "ability_name": "Perish Body",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       864
     ]
@@ -2516,8 +2516,8 @@
   {
     "ability_url": "pickpocket",
     "ability_name": "Pickpocket",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       215,
       273,
@@ -2575,7 +2575,7 @@
       10051,
       10059
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       700
     ]
@@ -2602,8 +2602,8 @@
   {
     "ability_url": "poison-heal",
     "ability_name": "Poison Heal",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       472
     ]
@@ -2633,7 +2633,7 @@
       406,
       407
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "poison-touch",
@@ -2666,13 +2666,13 @@
       718,
       10107
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "power-of-alchemy",
     "ability_name": "Power of Alchemy",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       10101,
       10102
@@ -2684,8 +2684,8 @@
     "has_first": [
       874
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "prankster",
@@ -2701,7 +2701,7 @@
       860,
       861
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       198,
       302,
@@ -2761,8 +2761,8 @@
     "has_first": [
       10067
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "prism-armor",
@@ -2772,14 +2772,14 @@
       10117,
       10118
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "propeller-tail",
     "ability_name": "Propeller Tail",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       846,
       847
@@ -2788,8 +2788,8 @@
   {
     "ability_url": "protean",
     "ability_name": "Protean",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       656,
       657,
@@ -2802,7 +2802,7 @@
     "has_first": [
       786
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       876,
       10161
@@ -2815,8 +2815,8 @@
       849,
       10159
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "pure-power",
@@ -2826,17 +2826,17 @@
       308,
       10055
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "queenly-majesty",
     "ability_name": "Queenly Majesty",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       763
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "quick-draw",
@@ -2844,14 +2844,14 @@
     "has_first": [
       10126
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "quick-feet",
     "ability_name": "Quick Feet",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       135,
       263,
@@ -2864,7 +2864,7 @@
   {
     "ability_url": "rain-dish",
     "ability_name": "Rain Dish",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       270,
       271,
@@ -2891,7 +2891,7 @@
       848,
       902
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       10096,
       10097,
@@ -2915,8 +2915,8 @@
     "has_first": [
       766
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "reckless",
@@ -2926,7 +2926,7 @@
       626,
       862
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       111,
       112,
@@ -2946,8 +2946,8 @@
       698,
       699
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "regenerator",
@@ -2991,8 +2991,8 @@
       841,
       842
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "rivalry",
@@ -3007,7 +3007,7 @@
       667,
       668
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       267,
       519,
@@ -3021,8 +3021,8 @@
     "has_first": [
       773
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "rock-head",
@@ -3063,7 +3063,7 @@
       319,
       621
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       443,
       444,
@@ -3163,8 +3163,8 @@
       843,
       844
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "sand-stream",
@@ -3175,8 +3175,8 @@
       449,
       450
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "sand-veil",
@@ -3251,8 +3251,8 @@
       746,
       10115
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "scrappy",
@@ -3260,7 +3260,7 @@
     "has_first": [
       10070
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       10127,
       276,
@@ -3277,12 +3277,12 @@
   {
     "ability_url": "screen-cleaner",
     "ability_name": "Screen Cleaner",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       10131,
       866
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "serene-grace",
@@ -3313,8 +3313,8 @@
     "has_first": [
       792
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "shadow-tag",
@@ -3324,7 +3324,7 @@
       202,
       360
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       574,
       575,
@@ -3358,7 +3358,7 @@
       843,
       844
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "sheer-force",
@@ -3454,7 +3454,7 @@
       742,
       743
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "shields-down",
@@ -3463,8 +3463,8 @@
       774,
       10116
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "simple",
@@ -3473,7 +3473,7 @@
       399,
       400
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       527,
       528
@@ -3503,14 +3503,14 @@
     "has_first": [
       486
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "slush-rush",
     "ability_name": "Slush Rush",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       10090,
       10091,
@@ -3521,7 +3521,7 @@
   {
     "ability_url": "sniper",
     "ability_name": "Sniper",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       451,
       452,
@@ -3567,7 +3567,7 @@
       460,
       10073
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       10092,
       10093,
@@ -3581,7 +3581,7 @@
     "has_first": [
       10046
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       4,
       5,
@@ -3600,7 +3600,7 @@
     "has_second": [
       464
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "soul-heart",
@@ -3608,8 +3608,8 @@
     "has_first": [
       801
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "soundproof",
@@ -3647,7 +3647,7 @@
       291,
       469
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       255,
       256,
@@ -3663,7 +3663,7 @@
       734,
       735
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       827,
       828
@@ -3672,15 +3672,15 @@
   {
     "ability_url": "stall",
     "ability_name": "Stall",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_first": [],
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "stalwart",
     "ability_name": "Stalwart",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       884
     ]
@@ -3688,12 +3688,12 @@
   {
     "ability_url": "stamina",
     "ability_name": "Stamina",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       749,
       750
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "stance-change",
@@ -3702,8 +3702,8 @@
       681,
       10077
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "static",
@@ -3730,7 +3730,7 @@
       848,
       881
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "steadfast",
@@ -3765,8 +3765,8 @@
       838,
       839
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "steelworker",
@@ -3774,14 +3774,14 @@
     "has_first": [
       781
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "steely-spirit",
     "ability_name": "Steely Spirit",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       863
     ]
@@ -3797,7 +3797,7 @@
       568,
       569
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       44
     ]
@@ -3817,12 +3817,12 @@
       568,
       617
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "storm-drain",
     "ability_name": "Storm Drain",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       422,
       423,
@@ -3853,7 +3853,7 @@
       779,
       882
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "sturdy",
@@ -3919,12 +3919,12 @@
       686,
       687
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "super-luck",
     "ability_name": "Super Luck",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       430,
       519,
@@ -3943,8 +3943,8 @@
     "has_first": [
       10089
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "swarm",
@@ -3994,7 +3994,7 @@
       868,
       869
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       742,
       743,
@@ -4061,8 +4061,8 @@
   {
     "ability_url": "symbiosis",
     "ability_name": "Symbiosis",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       669,
       670,
@@ -4094,7 +4094,7 @@
       876,
       10161
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "tangled-feet",
@@ -4113,12 +4113,12 @@
   {
     "ability_url": "tangling-hair",
     "ability_name": "Tangling Hair",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       10094,
       10095
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "technician",
@@ -4187,8 +4187,8 @@
       644,
       10024
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "thick-fat",
@@ -4228,7 +4228,7 @@
   {
     "ability_url": "tinted-lens",
     "ability_name": "Tinted Lens",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       469
     ],
@@ -4270,7 +4270,7 @@
       817,
       818
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       515,
       516
@@ -4291,13 +4291,13 @@
       10120,
       863
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "toxic-boost",
     "ability_name": "Toxic Boost",
-    "has_first": "#N/A",
-    "has_second": "#N/A",
+    "has_first": [],
+    "has_second": [],
     "has_hidden": [
       335
     ]
@@ -4315,7 +4315,7 @@
       281,
       282
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "transistor",
@@ -4323,17 +4323,17 @@
     "has_first": [
       894
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "triage",
     "ability_name": "Triage",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       764
     ],
-    "has_hidden": "#N/A"
+    "has_hidden": []
   },
   {
     "ability_url": "truant",
@@ -4342,7 +4342,7 @@
       287,
       289
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       632
     ]
@@ -4354,8 +4354,8 @@
       643,
       10023
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "unaware",
@@ -4379,7 +4379,7 @@
   {
     "ability_url": "unburden",
     "ability_name": "Unburden",
-    "has_first": "#N/A",
+    "has_first": [],
     "has_second": [
       425,
       426,
@@ -4442,8 +4442,8 @@
       892,
       10166
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "victory-star",
@@ -4451,8 +4451,8 @@
     "has_first": [
       494
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "vital-spirit",
@@ -4491,7 +4491,7 @@
       880,
       881
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       417
     ]
@@ -4503,8 +4503,8 @@
       10150,
       867
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "water-absorb",
@@ -4548,8 +4548,8 @@
       751,
       752
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "water-compaction",
@@ -4558,8 +4558,8 @@
       769,
       770
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "water-veil",
@@ -4632,8 +4632,8 @@
     "has_first": [
       767
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "wonder-guard",
@@ -4641,8 +4641,8 @@
     "has_first": [
       292
     ],
-    "has_second": "#N/A",
-    "has_hidden": "#N/A"
+    "has_second": [],
+    "has_hidden": []
   },
   {
     "ability_url": "wonder-skin",
@@ -4650,7 +4650,7 @@
     "has_first": [
       561
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       49,
       300,
@@ -4665,7 +4665,7 @@
       10019,
       10149
     ],
-    "has_second": "#N/A",
+    "has_second": [],
     "has_hidden": [
       555,
       10148
